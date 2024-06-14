@@ -40,5 +40,4 @@ int main() {
 }
 ```
 
-Created with ❤️ by GitHub Unicorns 🦄
 Feel free to use, modify, or embellish it further!
