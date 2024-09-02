@@ -8,7 +8,6 @@ Hey there, fellow coder! Are you ready to dive into the depths of programming ma
 
 Feel free to use, modify, or embellish it further!
 
-<h2 align="center">Estatísticas do GitHub 📊</h2>
 <p align="center">
   <a href="https://github.com/kwy404">
     <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwy404&layout=compact&theme=tokyonight" alt="Top Languages" />
