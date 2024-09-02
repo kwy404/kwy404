@@ -12,7 +12,7 @@ Feel free to use, modify, or embellish it further!
   <a href="https://github.com/kwy404">
     <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwy404&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="Streak Stats" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=kwy404&theme=tokyonight" alt="Streak Stats" />
 </p>
 <br />
 
