@@ -65,7 +65,7 @@ LINES = [
     ("Grid.GitHub", "@kwy404"),
     ("Grid.Portfolio", "alexandrekohler.vercel.app"),
     ("Grid.Instagram", "@n3ss3n.tl"),
-    ("Grid.Mail", "seu@email.com"),
+    ("Grid.Mail", "thekaway404@gmail.com"),
 ]
 
 def build(theme_name):
