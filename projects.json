@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Voodoo.js",
+    "repo": "kwy404/Voodoo.js",
+    "logo": "voodoo.png",
+    "description": "Framework JavaScript leve e reativo",
+    "tags": ["JavaScript", "Framework", "Open Source"]
+  },
+  {
+    "name": "Portfolio",
+    "repo": "kwy404/portfolio",
+    "logo": "portfolio.png",
+    "description": "Site pessoal hospedado na Vercel",
+    "tags": ["Next.js", "Vercel"]
+  }
+]
