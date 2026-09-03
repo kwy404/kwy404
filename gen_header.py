@@ -50,7 +50,7 @@ THEMES = {
 
 LINES = [
     ("- Identity ", None),
-    ("Subject", "Marlon Cesar Pereira"),
+    ("Subject", "kwy404"),
     ("Role", "Dev & Hardware Gaming Specialist"),
     ("Origin", "Brusque, SC - Brasil"),
     ("Business", "Hadouken Game Center / CENTER LAVACAO"),
