@@ -109,7 +109,7 @@ Permission denied. Volte segunda.
 ## 🌐 Portais
 
 <p align="center">
-  <a href="https://alexandrekohler.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff41" alt="portfólio" /></a>
+  <a href="https://alexandrekohlerportfolio.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff41" alt="portfólio" /></a>
   <a href="https://github.com/kwy404?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="repos" /></a>
 </p>
 
