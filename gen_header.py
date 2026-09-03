@@ -64,7 +64,7 @@ LINES = [
     ("- Contact ", None),
     ("Grid.GitHub", "@kwy404"),
     ("Grid.Portfolio", "alexandrekohler.vercel.app"),
-    ("Grid.Instagram", "@diretoria.hadouken"),
+    ("Grid.Instagram", "@n3ss3n.tl"),
     ("Grid.Mail", "seu@email.com"),
 ]
 
