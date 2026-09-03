@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/main/dark.svg">
-  <img alt="Marlon Cesar Pereira" src="https://raw.githubusercontent.com/kwy404/kwy404/main/light.svg">
+  <img alt="kwy404" src="https://raw.githubusercontent.com/kwy404/kwy404/main/light.svg">
 </picture>
 
 <picture>
