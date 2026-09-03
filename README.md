@@ -64,23 +64,11 @@
 ## 📡 Telemetria da simulação
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kwy404&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=7dffa0&border_color=00ff41&include_all_commits=true&count_private=true" alt="stats" />
-</p>
-
-<p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=kwy404&theme=chartreuse-dark&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="streak" />
 </p>
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kwy404&bg_color=000000&color=7dffa0&line=00ff41&point=e8ffe8&area=true&area_color=00ff41&border_color=00ff41" alt="activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwy404&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%" alt="line" />
 </p>
 
 ## 🐇 Siga o coelho branco
