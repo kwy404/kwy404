@@ -67,10 +67,6 @@
   <img width="80%" src="https://streak-stats.demolab.com?user=kwy404&theme=chartreuse-dark&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kwy404&bg_color=000000&color=7dffa0&line=00ff41&point=e8ffe8&area=true&area_color=00ff41&border_color=00ff41" alt="activity" />
-</p>
-
 ## 🐇 Siga o coelho branco
 
 ```
