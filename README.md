@@ -9,14 +9,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kwy404&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=60A5FA&icon_color=22D3EE&text_color=F1F5F9&bg_color=0A101F&card_width=500">
-  <img alt="Stats do kwy404" src="https://github-readme-stats.vercel.app/api?username=kwy404&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=2563EB&icon_color=22D3EE&text_color=0F172A&bg_color=FFFFFF&card_width=500">
-</picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kwy404&layout=compact&langs_count=8&hide_border=true&title_color=60A5FA&text_color=F1F5F9&bg_color=0A101F&card_width=500">
-  <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwy404&layout=compact&langs_count=8&hide_border=true&title_color=2563EB&text_color=0F172A&bg_color=FFFFFF&card_width=500">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/output/snake-dark.svg">
   <img alt="Snake comendo minhas contribuições" src="https://raw.githubusercontent.com/kwy404/kwy404/output/snake-light.svg">
 </picture>
