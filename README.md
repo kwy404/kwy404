@@ -26,6 +26,7 @@ Merged pull requests, grouped by organization.
 | [google/budoux](https://github.com/google/budoux) · line break organizer | [Handle skip nodes placed after the last chunk](https://github.com/google/budoux/pull/1379) |
 | | [Don't output end tags for self-closing tags](https://github.com/google/budoux/pull/1380) |
 | | [Escape text and attribute values in the HTML output](https://github.com/google/budoux/pull/1381) |
+| | [Don't keep skipping after void elements like input](https://github.com/google/budoux/pull/1388) |
 | [google/mobly](https://github.com/google/mobly) · device test framework | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 
 ### Adobe
