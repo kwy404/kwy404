@@ -7,7 +7,7 @@
 
 ## About
 
-Software engineer from Brazil working across TypeScript, Python, Rust and C++. I contribute bug fixes to open source projects maintained by companies like Google, Adobe, Valve, Shopify, Apple and Netflix, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil working across TypeScript, Python, Rust and C++. I contribute bug fixes to open source projects maintained by companies like Google, Adobe, Valve, Shopify, Apple, Netflix and Tailwind Labs, usually in parsers, protocol handling, build tooling and web platform code.
 
 ## Open source contributions
 
@@ -22,6 +22,7 @@ Merged pull requests, grouped by organization.
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
 | | [Use 4 bytes for the VOCS audio location in the client proxy](https://github.com/google/bumble/pull/988) |
 | | [Set the command/event bit correctly in BTSnoop packet flags](https://github.com/google/bumble/pull/989) |
+| | [Fix the preferred frame duration bits in BAP supported frame durations](https://github.com/google/bumble/pull/991) |
 | [google/budoux](https://github.com/google/budoux) · line break organizer | [Handle skip nodes placed after the last chunk](https://github.com/google/budoux/pull/1379) |
 | | [Don't output end tags for self-closing tags](https://github.com/google/budoux/pull/1380) |
 | | [Escape text and attribute values in the HTML output](https://github.com/google/budoux/pull/1381) |
@@ -38,6 +39,7 @@ Merged pull requests, grouped by organization.
 
 | Company | Project | Pull request |
 | --- | --- | --- |
+| Tailwind Labs | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | [Sort breakpoint variants with decimal values numerically](https://github.com/tailwindlabs/tailwindcss/pull/20512) |
 | Valve | [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) | [Only build CLI dependent tests when FOSSILIZE_CLI is enabled](https://github.com/ValveSoftware/Fossilize/pull/315) |
 | Shopify | [Shopify/hydrogen](https://github.com/Shopify/hydrogen) | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
 | Apple | [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | [Read .ndjson files as newline delimited JSON](https://github.com/apple/embedding-atlas/pull/264) |
@@ -49,6 +51,9 @@ Merged pull requests, grouped by organization.
 | Project | Pull request |
 | --- | --- |
 | [dgadelha/Portugol-Webstudio](https://github.com/dgadelha/Portugol-Webstudio) | [Tratar o texto substituto literalmente em Texto.substituir](https://github.com/dgadelha/Portugol-Webstudio/pull/446) |
+| | [Aceitar um terminador de linha no fim da cadeia nos padrões de Tipos](https://github.com/dgadelha/Portugol-Webstudio/pull/447) |
+| | [Ignorar o conteúdo depois do objeto em Objetos.criar_objeto_via_json](https://github.com/dgadelha/Portugol-Webstudio/pull/448) |
+| | [Truncar o real passado para um parâmetro inteiro das bibliotecas](https://github.com/dgadelha/Portugol-Webstudio/pull/449) |
 
 ## Projects
 
