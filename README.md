@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/main/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/main/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/main/dark.svg?v=2"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/main/light.svg?v=2" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -137,7 +137,7 @@ Community project. These pull requests are written in Portuguese, following the 
 
 JSX-style rendering directly inside plain HTML. No compiler. No transform. No build step.
 
-<a href="https://github.com/kwy404/Voodoo.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/main/demo-dark.svg"><img alt="Voodoo.js demo: JSX written directly in a plain HTML file and the page it renders in the browser" src="https://raw.githubusercontent.com/kwy404/kwy404/main/demo-light.svg" width="100%"></picture></a>
+<a href="https://github.com/kwy404/Voodoo.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/main/demo-dark.svg?v=2"><img alt="Voodoo.js demo: JSX written directly in a plain HTML file and the page it renders in the browser" src="https://raw.githubusercontent.com/kwy404/kwy404/main/demo-light.svg?v=2" width="100%"></picture></a>
 
 Voodoo.js reads the markup the browser has already parsed, recovers each JSX expression and runs it through its own lexer, Pratt parser and AST interpreter. There is no `eval` and no `new Function`, so it works under a strict Content Security Policy, and every region is a reactive effect that re-renders when its data changes.
 
