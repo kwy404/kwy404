@@ -90,7 +90,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 
 | Repository | Pull request |
 | --- | --- |
-| [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241) |
+| [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React
 
