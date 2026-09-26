@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/81e813bb4855a90c4d57cc2514559c4d687cc577/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/81e813bb4855a90c4d57cc2514559c4d687cc577/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/0aaa060983868d9a0b4eb12c2d7a9a0e051d90af/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/0aaa060983868d9a0b4eb12c2d7a9a0e051d90af/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -17,7 +17,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 15 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 17 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 1 merged pull request"></a>&nbsp;
@@ -28,22 +28,22 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 1 merged pull request"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 2 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-32-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="32 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-35-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="35 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-32 merged pull requests to projects maintained by Google, Capital One, Adobe, React, Vue, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+35 merged pull requests to projects maintained by Google, Capital One, Adobe, React, Vue, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
 <details open>
-<summary>15 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
+<summary>17 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
 
 | Repository | Pull request |
 | --- | --- |
@@ -54,6 +54,8 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [fix(java): escape text in the HTML output](https://github.com/google/budoux/pull/1391) |
 | | [fix(java): don't crash on script and style elements](https://github.com/google/budoux/pull/1392) |
 | | [fix(js): process all top level nodes in translateHTMLString](https://github.com/google/budoux/pull/1393) |
+| | [fix(js): export thModel](https://github.com/google/budoux/pull/1394) |
+| | [fix(py): don't drop trailing text with an ampersand](https://github.com/google/budoux/pull/1395) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
@@ -134,6 +136,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br><sub>Build tool for web apps, powered by Rspack</sub> | [fix(core): avoid treating sibling dist paths as nested](https://github.com/web-infra-dev/rsbuild/pull/8544) |
+| | [fix(core): avoid printing 60.0s in build time logs](https://github.com/web-infra-dev/rsbuild/pull/8552) |
 
 ### <a href="https://github.com/dgadelha"><img src="https://github.com/dgadelha.png?size=80" width="20" height="20" align="top" alt=""></a> Portugol Webstudio
 
