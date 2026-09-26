@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc" aria-label="Voodoo.js demo. Left: an HTML file with a script tag for voodoo.full.min.js, a statement block that declares user and fruits, an h1 reading Hello, {user}! and a ul built with fruits.map. Right: the page in a browser showing the heading Hello, Ana! and a list with apple, pear and grape.">
+<title id="title">Voodoo.js: JSX-style rendering directly inside plain HTML. No build step.</title>
+<desc id="desc">Voodoo.js demo. Left: an HTML file with a script tag for voodoo.full.min.js, a statement block that declares user and fruits, an h1 reading Hello, {user}! and a ul built with fruits.map. Right: the page in a browser showing the heading Hello, Ana! and a list with apple, pear and grape.</desc>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.t{fill:#60A5FA}.a{fill:#C4B5FD}.k{fill:#C4B5FD}.s{fill:#7DD3C8}
+.b{fill:#F2B45A}.p{fill:#94A3B8}.i{fill:#E2E8F0}.x{fill:#E2E8F0}
+.an{animation-duration:11s;animation-iteration-count:infinite;animation-timing-function:linear}
+.ea{animation-timing-function:ease-out}
+.cv{fill:#0E1627}
+.caret{animation-name:caret}
+.ov{animation-name:ov;opacity:0}
+.load{animation-name:load;transform-box:fill-box;transform-origin:0 50%;opacity:0}
+.h{animation-name:h}.l1{animation-name:l1}.l2{animation-name:l2}.l3{animation-name:l3}
+.b1{animation-name:b1;opacity:0}.b2{animation-name:b2;opacity:0}
+.c1{animation-name:c1;transform:translateX(59.6px)}.c2{animation-name:c2;transform:translateX(251.6px)}.c3{animation-name:c3;transform:translateX(472.4px)}.c4{animation-name:c4;transform:translateX(59.6px)}.c5{animation-name:c5;transform:translateX(270.8px)}.c6{animation-name:c6;transform:translateX(88.4px)}.c7{animation-name:c7;transform:translateX(299.6px)}.c8{animation-name:c8;transform:translateX(242.0px)}.c9{animation-name:c9;transform:translateX(98.0px)}.c10{animation-name:c10;transform:translateX(98.0px)}
+@keyframes c1{0%{transform:translateX(0);animation-timing-function:step-end}10.909%{transform:translateX(50.0px);animation-timing-function:steps(1,end)}11.164%{transform:translateX(59.6px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c2{0%{transform:translateX(0);animation-timing-function:step-end}12.255%{transform:translateX(69.2px);animation-timing-function:steps(19,end)}17.091%{transform:translateX(251.6px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c3{0%{transform:translateX(0);animation-timing-function:step-end}18.182%{transform:translateX(69.2px);animation-timing-function:steps(42,end)}28.873%{transform:translateX(472.4px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c4{0%{transform:translateX(0);animation-timing-function:step-end}29.964%{transform:translateX(50.0px);animation-timing-function:steps(1,end)}30.218%{transform:translateX(59.6px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c5{0%{transform:translateX(0);animation-timing-function:step-end}31.309%{transform:translateX(50.0px);animation-timing-function:steps(23,end)}37.164%{transform:translateX(270.8px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c6{0%{transform:translateX(0);animation-timing-function:step-end}38.255%{transform:translateX(50.0px);animation-timing-function:steps(4,end)}39.273%{transform:translateX(88.4px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c7{0%{transform:translateX(0);animation-timing-function:step-end}40.364%{transform:translateX(69.2px);animation-timing-function:steps(24,end)}46.473%{transform:translateX(299.6px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c8{0%{transform:translateX(0);animation-timing-function:step-end}47.564%{transform:translateX(88.4px);animation-timing-function:steps(16,end)}51.636%{transform:translateX(242.0px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c9{0%{transform:translateX(0);animation-timing-function:step-end}52.727%{transform:translateX(69.2px);animation-timing-function:steps(3,end)}53.491%{transform:translateX(98.0px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes c10{0%{transform:translateX(0);animation-timing-function:step-end}54.582%{transform:translateX(50.0px);animation-timing-function:steps(5,end)}55.855%{transform:translateX(98.0px);animation-timing-function:step-end}97.273%,100%{transform:translateX(0)}}@keyframes caret{0%{transform:translate(545.8px,83px);opacity:1;animation-timing-function:step-end}4.545%{transform:translate(545.8px,83px);opacity:0;animation-timing-function:step-end}8.636%{transform:translate(545.8px,83px);opacity:1;animation-timing-function:step-end}10.909%{transform:translate(85.0px,106px);opacity:1;animation-timing-function:steps(1,end)}11.164%{transform:translate(94.6px,106px);opacity:1;animation-timing-function:step-end}12.255%{transform:translate(104.2px,129px);opacity:1;animation-timing-function:steps(19,end)}17.091%{transform:translate(286.6px,129px);opacity:1;animation-timing-function:step-end}18.182%{transform:translate(104.2px,152px);opacity:1;animation-timing-function:steps(42,end)}28.873%{transform:translate(507.4px,152px);opacity:1;animation-timing-function:step-end}29.964%{transform:translate(85.0px,175px);opacity:1;animation-timing-function:steps(1,end)}30.218%{transform:translate(94.6px,175px);opacity:1;animation-timing-function:step-end}31.309%{transform:translate(85.0px,198px);opacity:1;animation-timing-function:steps(23,end)}37.164%{transform:translate(305.8px,198px);opacity:1;animation-timing-function:step-end}38.255%{transform:translate(85.0px,221px);opacity:1;animation-timing-function:steps(4,end)}39.273%{transform:translate(123.4px,221px);opacity:1;animation-timing-function:step-end}40.364%{transform:translate(104.2px,244px);opacity:1;animation-timing-function:steps(24,end)}46.473%{transform:translate(334.6px,244px);opacity:1;animation-timing-function:step-end}47.564%{transform:translate(123.4px,267px);opacity:1;animation-timing-function:steps(16,end)}51.636%{transform:translate(277.0px,267px);opacity:1;animation-timing-function:step-end}52.727%{transform:translate(104.2px,290px);opacity:1;animation-timing-function:steps(3,end)}53.491%{transform:translate(133.0px,290px);opacity:1;animation-timing-function:step-end}54.582%{transform:translate(85.0px,313px);opacity:1;animation-timing-function:steps(5,end)}55.855%{transform:translate(133.0px,313px);opacity:1;animation-timing-function:step-end}60.4%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}64.945%{transform:translate(133.0px,313px);opacity:1;animation-timing-function:step-end}69.491%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}74.036%{transform:translate(133.0px,313px);opacity:1;animation-timing-function:step-end}78.582%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}83.127%{transform:translate(133.0px,313px);opacity:1;animation-timing-function:step-end}87.673%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}92.218%{transform:translate(133.0px,313px);opacity:1;animation-timing-function:step-end}92.273%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}100%{transform:translate(133.0px,313px);opacity:0;animation-timing-function:step-end}}@keyframes ov{0%,92.273%{opacity:0}95.909%{opacity:1;animation-timing-function:step-end}97.727%,100%{opacity:0}}@keyframes load{0%,57.673%{transform:scaleX(0);opacity:1}61.764%{transform:scaleX(1);opacity:1}64.491%,100%{transform:scaleX(1);opacity:0}}@keyframes h{0%,61.309%{opacity:0;transform:translateY(6px)}65.4%,92.273%{opacity:1;transform:translateY(0)}95.909%,100%{opacity:0;transform:translateY(0)}}@keyframes l1{0%,63.582%{opacity:0;transform:translateY(6px)}67.673%,92.273%{opacity:1;transform:translateY(0)}95.909%,100%{opacity:0;transform:translateY(0)}}@keyframes l2{0%,64.945%{opacity:0;transform:translateY(6px)}69.036%,92.273%{opacity:1;transform:translateY(0)}95.909%,100%{opacity:0;transform:translateY(0)}}@keyframes l3{0%,66.309%{opacity:0;transform:translateY(6px)}70.4%,92.273%{opacity:1;transform:translateY(0)}95.909%,100%{opacity:0;transform:translateY(0)}}@keyframes b1{0%,61.309%{opacity:0}64.491%,74.036%{opacity:1}79.491%,100%{opacity:0}}@keyframes b2{0%,63.582%{opacity:0}66.764%,76.309%{opacity:1}81.764%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.an{animation:none}.cv,.caret{display:none}}
+</style>
+<defs>
+<clipPath id="ed"><rect x="25" y="69" width="570" height="290"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="1279" height="419" rx="16" fill="#0B1220" stroke="#1E293B"/>
+<rect x="24.5" y="24.5" width="571" height="335" rx="12" fill="#0E1627" stroke="#1E293B"/>
+<path d="M24.5,68.5V36.5a12,12 0 0 1 12,-12H583.5a12,12 0 0 1 12,12V68.5Z" fill="#111A2C"/>
+<path d="M24.5,68.5H595.5" stroke="#1E293B"/>
+<text class="m" x="44" y="51" font-size="14" fill="#94A3B8">index.html</text>
+<text class="f" x="575.5" y="51" font-size="12" font-weight="600" letter-spacing="0.08em" text-anchor="end" fill="#64748B">HTML</text>
+<g class="m" font-size="16">
+<g font-size="13" fill="#64748B"><text x="64" y="97" text-anchor="end">1</text></g>
+<text x="84.0" y="97" textLength="460.8" lengthAdjust="spacing"><tspan class="t">&lt;script</tspan><tspan class="a"> src</tspan><tspan class="p">=</tspan><tspan class="s">"voodoo.full.min.js"</tspan><tspan class="a"> defer</tspan><tspan class="t">&gt;&lt;/script&gt;</tspan></text>
+<g>
+<g font-size="13" fill="#64748B"><text x="64" y="120" text-anchor="end">2</text><text x="64" y="143" text-anchor="end">3</text><text x="64" y="166" text-anchor="end">4</text><text x="64" y="189" text-anchor="end">5</text><text x="64" y="212" text-anchor="end">6</text><text x="64" y="235" text-anchor="end">7</text><text x="64" y="258" text-anchor="end">8</text><text x="64" y="281" text-anchor="end">9</text><text x="64" y="304" text-anchor="end">10</text><text x="64" y="327" text-anchor="end">11</text></g>
+<text x="84.0" y="120" textLength="9.6" lengthAdjust="spacing"><tspan class="b">{</tspan></text>
+<text x="103.2" y="143" textLength="182.4" lengthAdjust="spacing"><tspan class="k">const</tspan><tspan class="i"> user </tspan><tspan class="p">= </tspan><tspan class="s">'Ana'</tspan><tspan class="p">;</tspan></text>
+<text x="103.2" y="166" textLength="403.2" lengthAdjust="spacing"><tspan class="k">const</tspan><tspan class="i"> fruits </tspan><tspan class="p">= [</tspan><tspan class="s">'apple'</tspan><tspan class="p">, </tspan><tspan class="s">'pear'</tspan><tspan class="p">, </tspan><tspan class="s">'grape'</tspan><tspan class="p">];</tspan></text>
+<text x="84.0" y="189" textLength="9.6" lengthAdjust="spacing"><tspan class="b">}</tspan></text>
+<text x="84.0" y="212" textLength="220.8" lengthAdjust="spacing"><tspan class="t">&lt;h1&gt;</tspan><tspan class="x">Hello, </tspan><tspan class="b">{</tspan><tspan class="i">user</tspan><tspan class="b">}</tspan><tspan class="x">!</tspan><tspan class="t">&lt;/h1&gt;</tspan></text>
+<text x="84.0" y="235" textLength="38.4" lengthAdjust="spacing"><tspan class="t">&lt;ul&gt;</tspan></text>
+<text x="103.2" y="258" textLength="230.4" lengthAdjust="spacing"><tspan class="b">{</tspan><tspan class="i">fruits.map</tspan><tspan class="p">((</tspan><tspan class="i">fruit</tspan><tspan class="p">) </tspan><tspan class="k">=&gt;</tspan><tspan class="p"> (</tspan></text>
+<text x="122.4" y="281" textLength="153.6" lengthAdjust="spacing"><tspan class="t">&lt;li&gt;</tspan><tspan class="b">{</tspan><tspan class="i">fruit</tspan><tspan class="b">}</tspan><tspan class="t">&lt;/li&gt;</tspan></text>
+<text x="103.2" y="304" textLength="28.8" lengthAdjust="spacing"><tspan class="p">))</tspan><tspan class="b">}</tspan></text>
+<text x="84.0" y="327" textLength="48.0" lengthAdjust="spacing"><tspan class="t">&lt;/ul&gt;</tspan></text>
+</g>
+</g>
+<g clip-path="url(#ed)">
+<rect class="cv an c1" x="34" y="103" width="67.6" height="23"/>
+<rect class="cv an c2" x="34" y="126" width="259.6" height="23"/>
+<rect class="cv an c3" x="34" y="149" width="480.4" height="23"/>
+<rect class="cv an c4" x="34" y="172" width="67.6" height="23"/>
+<rect class="cv an c5" x="34" y="195" width="278.8" height="23"/>
+<rect class="cv an c6" x="34" y="218" width="96.4" height="23"/>
+<rect class="cv an c7" x="34" y="241" width="307.6" height="23"/>
+<rect class="cv an c8" x="34" y="264" width="250.0" height="23"/>
+<rect class="cv an c9" x="34" y="287" width="106.0" height="23"/>
+<rect class="cv an c10" x="34" y="310" width="106.0" height="23"/>
+</g>
+<rect class="b1 an ea" x="25" y="195" width="570" height="23" fill="#3B82F6" fill-opacity="0.13"/>
+<rect class="b2 an ea" x="25" y="241" width="570" height="69" fill="#3B82F6" fill-opacity="0.13"/>
+<rect class="ov an" x="25" y="103" width="570" height="234" fill="#0E1627"/>
+<rect class="caret an" x="0" y="0" width="2" height="19" rx="1" fill="#3B82F6" transform="translate(133.0,313)"/>
+<rect x="615.5" y="24.5" width="640" height="335" rx="12" fill="#0E1627" stroke="#1E293B"/>
+<path d="M615.5,68.5V36.5a12,12 0 0 1 12,-12H1243.5a12,12 0 0 1 12,12V68.5Z" fill="#111A2C"/>
+<path d="M615.5,68.5H1255.5" stroke="#1E293B"/>
+<rect x="631.5" y="33.5" width="608" height="26" rx="13" fill="#0B1220" stroke="#1E293B"/>
+<text class="f" x="647.5" y="51" font-size="14" fill="#94A3B8">index.html</text>
+<rect class="load an" x="616.0" y="67.5" width="639" height="2" fill="#3B82F6"/>
+<g class="f" fill="#F1F5F9">
+<text class="h an ea" x="656" y="138" font-size="40" font-weight="700" letter-spacing="-0.01em">Hello, Ana!</text>
+<g class="l1 an ea"><circle cx="678" cy="185.5" r="3.5" fill="#94A3B8"/><text x="696" y="192" font-size="20" fill="#E2E8F0">apple</text></g>
+<g class="l2 an ea"><circle cx="678" cy="223.5" r="3.5" fill="#94A3B8"/><text x="696" y="230" font-size="20" fill="#E2E8F0">pear</text></g>
+<g class="l3 an ea"><circle cx="678" cy="261.5" r="3.5" fill="#94A3B8"/><text x="696" y="268" font-size="20" fill="#E2E8F0">grape</text></g>
+</g>
+<text class="f" x="26" y="397" font-size="18"><tspan font-weight="700" fill="#F1F5F9">Voodoo.js:</tspan><tspan fill="#94A3B8"> JSX-style rendering directly inside plain HTML. No build step.</tspan></text>
+<rect x="1059.5" y="377.5" width="196.0" height="28" rx="7" fill="#0E1627" stroke="#1E293B"/>
+<text class="m" x="1073.5" y="396" font-size="14" textLength="168.0" lengthAdjust="spacing"><tspan fill="#94A3B8">npm install</tspan><tspan fill="#F1F5F9"> voodoojs</tspan></text>
+</svg>

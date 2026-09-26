@@ -1,149 +1,74 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="kwy404 - profile.sh --live">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Alexandre Kohler. Software Engineer and Open Source Contributor. 29 merged pull requests at Google, Uber, Apple, Netflix, Valve, Shopify, Tailwind Labs, Capital One, Adobe and ByteDance.">
+<title>Alexandre Kohler, Software Engineer and Open Source Contributor. Merged pull requests at Google, Uber, Apple, Netflix, Valve, Shopify, Tailwind Labs, Capital One, Adobe and ByteDance</title>
+<style>.band{animation:sweep 14s cubic-bezier(.45,0,.55,1) infinite}@keyframes sweep{0%,18%{transform:translateX(0)}82%,100%{transform:translateX(1080px)}}@media (prefers-reduced-motion:reduce){.band{animation:none}}</style>
 <defs>
-<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#0A101F"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#22D3EE;#1E3A8A;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
-  <stop offset="1" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#1E3A8A;#2563EB;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
-</linearGradient>
-<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
-<clipPath id="winClip"><rect x="2" y="2" width="1176" height="606" rx="18"/></clipPath>
-<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="rgba(37,99,235,0.05)"/></pattern>
+<clipPath id="card"><rect x="0.5" y="0.5" width="1279" height="359" rx="12"/></clipPath>
+<rect id="c" width="15" height="15" rx="3"/>
+<g id="l0"><use href="#c" x="707" y="57"/><use href="#c" x="707" y="76"/><use href="#c" x="707" y="95"/><use href="#c" x="707" y="114"/><use href="#c" x="707" y="133"/><use href="#c" x="707" y="152"/><use href="#c" x="707" y="171"/><use href="#c" x="726" y="57"/><use href="#c" x="726" y="76"/><use href="#c" x="726" y="95"/><use href="#c" x="726" y="114"/><use href="#c" x="726" y="133"/><use href="#c" x="726" y="152"/><use href="#c" x="726" y="171"/><use href="#c" x="745" y="57"/><use href="#c" x="745" y="76"/><use href="#c" x="745" y="95"/><use href="#c" x="745" y="114"/><use href="#c" x="745" y="133"/><use href="#c" x="745" y="152"/><use href="#c" x="745" y="171"/><use href="#c" x="764" y="57"/><use href="#c" x="764" y="76"/><use href="#c" x="764" y="95"/><use href="#c" x="764" y="133"/><use href="#c" x="764" y="152"/><use href="#c" x="764" y="171"/><use href="#c" x="783" y="57"/><use href="#c" x="783" y="76"/><use href="#c" x="783" y="133"/><use href="#c" x="783" y="152"/><use href="#c" x="783" y="171"/><use href="#c" x="802" y="57"/><use href="#c" x="802" y="76"/><use href="#c" x="802" y="95"/><use href="#c" x="802" y="152"/><use href="#c" x="802" y="171"/><use href="#c" x="821" y="57"/><use href="#c" x="821" y="76"/><use href="#c" x="821" y="95"/><use href="#c" x="821" y="171"/><use href="#c" x="840" y="57"/><use href="#c" x="840" y="76"/><use href="#c" x="840" y="95"/><use href="#c" x="840" y="114"/><use href="#c" x="859" y="57"/><use href="#c" x="859" y="76"/><use href="#c" x="859" y="95"/><use href="#c" x="859" y="133"/><use href="#c" x="878" y="57"/><use href="#c" x="878" y="76"/><use href="#c" x="878" y="95"/><use href="#c" x="878" y="114"/><use href="#c" x="897" y="76"/><use href="#c" x="897" y="95"/><use href="#c" x="897" y="114"/><use href="#c" x="916" y="76"/><use href="#c" x="935" y="57"/><use href="#c" x="1049" y="152"/></g>
+<g id="l1"><use href="#c" x="764" y="114"/><use href="#c" x="783" y="95"/><use href="#c" x="783" y="114"/><use href="#c" x="802" y="114"/><use href="#c" x="802" y="133"/><use href="#c" x="821" y="114"/><use href="#c" x="821" y="133"/><use href="#c" x="821" y="152"/><use href="#c" x="840" y="133"/><use href="#c" x="840" y="152"/><use href="#c" x="840" y="171"/><use href="#c" x="859" y="114"/><use href="#c" x="859" y="152"/><use href="#c" x="859" y="171"/><use href="#c" x="878" y="133"/><use href="#c" x="878" y="171"/><use href="#c" x="897" y="57"/><use href="#c" x="897" y="133"/><use href="#c" x="916" y="57"/><use href="#c" x="916" y="95"/><use href="#c" x="916" y="114"/><use href="#c" x="916" y="171"/><use href="#c" x="935" y="76"/><use href="#c" x="935" y="95"/><use href="#c" x="935" y="171"/><use href="#c" x="954" y="57"/><use href="#c" x="954" y="76"/><use href="#c" x="954" y="95"/><use href="#c" x="954" y="152"/><use href="#c" x="954" y="171"/><use href="#c" x="973" y="57"/><use href="#c" x="973" y="76"/><use href="#c" x="973" y="152"/><use href="#c" x="973" y="171"/><use href="#c" x="992" y="57"/><use href="#c" x="992" y="133"/><use href="#c" x="992" y="152"/><use href="#c" x="992" y="171"/><use href="#c" x="1011" y="133"/><use href="#c" x="1011" y="152"/><use href="#c" x="1011" y="171"/><use href="#c" x="1030" y="114"/><use href="#c" x="1030" y="133"/><use href="#c" x="1030" y="152"/><use href="#c" x="1030" y="171"/><use href="#c" x="1049" y="114"/><use href="#c" x="1049" y="133"/><use href="#c" x="1049" y="171"/><use href="#c" x="1068" y="114"/><use href="#c" x="1068" y="133"/><use href="#c" x="1068" y="152"/><use href="#c" x="1068" y="171"/><use href="#c" x="1087" y="114"/><use href="#c" x="1087" y="133"/><use href="#c" x="1087" y="152"/><use href="#c" x="1087" y="171"/><use href="#c" x="1106" y="114"/><use href="#c" x="1106" y="133"/><use href="#c" x="1106" y="152"/><use href="#c" x="1106" y="171"/><use href="#c" x="1125" y="133"/><use href="#c" x="1125" y="152"/><use href="#c" x="1125" y="171"/><use href="#c" x="1144" y="133"/><use href="#c" x="1144" y="152"/><use href="#c" x="1144" y="171"/><use href="#c" x="1163" y="57"/><use href="#c" x="1163" y="152"/><use href="#c" x="1163" y="171"/><use href="#c" x="1182" y="57"/><use href="#c" x="1182" y="76"/><use href="#c" x="1182" y="171"/><use href="#c" x="1201" y="57"/><use href="#c" x="1201" y="76"/></g>
+<g id="l2"><use href="#c" x="878" y="152"/><use href="#c" x="897" y="152"/><use href="#c" x="897" y="171"/><use href="#c" x="916" y="133"/><use href="#c" x="916" y="152"/><use href="#c" x="935" y="114"/><use href="#c" x="935" y="133"/><use href="#c" x="935" y="152"/><use href="#c" x="954" y="114"/><use href="#c" x="954" y="133"/><use href="#c" x="973" y="95"/><use href="#c" x="973" y="114"/><use href="#c" x="973" y="133"/><use href="#c" x="992" y="76"/><use href="#c" x="992" y="114"/><use href="#c" x="1011" y="57"/><use href="#c" x="1011" y="114"/><use href="#c" x="1030" y="57"/><use href="#c" x="1068" y="95"/><use href="#c" x="1087" y="95"/><use href="#c" x="1125" y="114"/><use href="#c" x="1144" y="57"/><use href="#c" x="1163" y="133"/><use href="#c" x="1182" y="152"/><use href="#c" x="1201" y="95"/><use href="#c" x="1201" y="171"/></g>
+<g id="l3"><use href="#c" x="992" y="95"/><use href="#c" x="1011" y="76"/><use href="#c" x="1011" y="95"/><use href="#c" x="1030" y="76"/><use href="#c" x="1030" y="95"/><use href="#c" x="1049" y="57"/><use href="#c" x="1049" y="95"/><use href="#c" x="1068" y="57"/><use href="#c" x="1087" y="57"/><use href="#c" x="1106" y="57"/><use href="#c" x="1106" y="95"/><use href="#c" x="1125" y="57"/><use href="#c" x="1125" y="95"/><use href="#c" x="1144" y="76"/><use href="#c" x="1144" y="114"/><use href="#c" x="1163" y="76"/><use href="#c" x="1182" y="95"/><use href="#c" x="1182" y="133"/><use href="#c" x="1201" y="152"/></g>
+<g id="l4"><use href="#c" x="1049" y="76"/><use href="#c" x="1068" y="76"/><use href="#c" x="1087" y="76"/><use href="#c" x="1106" y="76"/><use href="#c" x="1125" y="76"/><use href="#c" x="1144" y="95"/><use href="#c" x="1163" y="95"/><use href="#c" x="1163" y="114"/><use href="#c" x="1182" y="114"/><use href="#c" x="1201" y="114"/><use href="#c" x="1201" y="133"/></g>
+<radialGradient id="glow" cx="1073" cy="127" r="360" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2563EB" stop-opacity="0.16"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="703" y1="0" x2="857" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.15"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="fm"><rect x="699" y="0" width="581" height="360" fill="url(#fade)"/></mask>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#93C5FD" stop-opacity="0"/><stop offset="0.5" stop-color="#93C5FD" stop-opacity="0.30"/><stop offset="1" stop-color="#93C5FD" stop-opacity="0"/></linearGradient>
+<mask id="cm"><g fill="#fff"><use href="#l1"/><use href="#l2"/><use href="#l3"/><use href="#l4"/></g></mask>
 </defs>
-<rect x="2" y="2" width="1176" height="606" rx="18" fill="#0A101F"/>
-<g clip-path="url(#winClip)">
-<rect x="2" y="2" width="1176" height="606" fill="url(#panelGrad)"/>
-<rect x="2" y="2" width="1176" height="46" fill="#111A2E"/>
-<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(255,255,255,0.08)"/>
-<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/><circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/><circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
-<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">kwy404 ~ % ./profile.sh --live</text>
-
-<text x="38" y="74" font-size="10" letter-spacing="3" fill="#475569">VISUAL.MAP</text>
-<rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#3B82F6" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
-<rect x="36" y="84" width="400" height="492" rx="10" fill="#0F172A" stroke="rgba(96,165,250,0.35)"/>
-<rect x="37" y="85" width="398" height="490" rx="10" fill="url(#scan)"/>
-
-<g transform="translate(68,100)" shape-rendering="crispEdges" opacity="0">
-  <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.45s" fill="freeze"/>
-
-  <!-- panel darkmode -->
-  <rect x="0" y="0" width="336" height="304" rx="18" fill="#08111F"/>
-  <rect x="0" y="0" width="336" height="304" rx="18" fill="none" stroke="#2563EB" stroke-width="2" opacity="0.55"/>
-  <rect x="8" y="8" width="320" height="288" rx="14" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.18"/>
-
-  <!-- japanese mood / backdrop -->
-  <circle cx="84" cy="68" r="38" fill="#A21CAF" opacity="0.22"/>
-  <circle cx="84" cy="68" r="28" fill="#E11D48" opacity="0.40"/>
-  <path d="M26 238 C58 220, 90 220, 122 238 S186 256, 218 238 S282 220, 314 238" fill="none" stroke="#22D3EE" stroke-width="4" opacity="0.45"/>
-  <path d="M26 252 C58 234, 90 234, 122 252 S186 270, 218 252 S282 234, 314 252" fill="none" stroke="#60A5FA" stroke-width="3" opacity="0.38"/>
-  <path d="M26 266 C58 248, 90 248, 122 266 S186 284, 218 266 S282 248, 314 266" fill="none" stroke="#2563EB" stroke-width="3" opacity="0.30"/>
-
-  <!-- smiley badge -->
-  <circle cx="274" cy="56" r="28" fill="#FACC15"/>
-  <ellipse cx="265" cy="51" rx="3" ry="6" fill="#0F172A"/>
-  <ellipse cx="283" cy="51" rx="3" ry="6" fill="#0F172A"/>
-  <path d="M261 66 Q274 76 287 66" fill="none" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="274" cy="28" r="8" fill="#F8FAFC"/>
-  <circle cx="274" cy="28" r="3" fill="#0F172A"/>
-
-  <!-- sparkles -->
-  <rect x="31" y="29" width="6" height="6" fill="#FACC15"/>
-  <rect x="48" y="43" width="4" height="4" fill="#22D3EE"/>
-  <rect x="301" y="108" width="5" height="5" fill="#22D3EE"/>
-  <rect x="288" y="129" width="4" height="4" fill="#FACC15"/>
-  <rect x="235" y="29" width="5" height="5" fill="#60A5FA"/>
-  <path d="M224 92 l7 0 l0 -7 l5 0 l0 7 l7 0 l0 5 l-7 0 l0 7 l-5 0 l0 -7 l-7 0 z" fill="#22D3EE" opacity="0.9"/>
-  <path d="M40 92 l6 0 l0 -6 l4 0 l0 6 l6 0 l0 4 l-6 0 l0 6 l-4 0 l0 -6 l-6 0 z" fill="#60A5FA" opacity="0.8"/>
-
-  <!-- shoulder aura -->
-  <ellipse cx="168" cy="234" rx="100" ry="22" fill="#2563EB" opacity="0.16"/>
-
-  <!-- hair back -->
-  <path d="M95 115 L110 81 L137 64 L168 58 L197 64 L225 79 L241 115 L235 140 L227 160 L205 176 L131 176 L109 160 L101 138 Z" fill="#0B1220"/>
-  <path d="M110 90 L136 68 L165 60 L193 67 L217 82 L228 106 L217 102 L207 88 L192 82 L176 85 L160 76 L145 82 L126 87 Z" fill="#1E293B"/>
-  <path d="M120 79 L141 68 L160 64 L178 66 L196 74 L184 83 L170 79 L153 83 L139 79 Z" fill="#FACC15"/>
-  <path d="M103 111 L115 92 L134 79 L136 98 L121 110 Z" fill="#EAB308"/>
-  <path d="M200 79 L218 91 L231 111 L213 110 L198 98 Z" fill="#EAB308"/>
-  <path d="M146 66 L159 56 L173 55 L187 63 L173 69 L158 68 Z" fill="#FDE047"/>
-
-  <!-- ears -->
-  <rect x="103" y="136" width="16" height="31" rx="6" fill="#F8C9A2"/>
-  <rect x="217" y="136" width="16" height="31" rx="6" fill="#F8C9A2"/>
-
-  <!-- face -->
-  <rect x="119" y="95" width="99" height="92" rx="22" fill="#FFDAB6"/>
-  <rect x="127" y="103" width="82" height="16" rx="8" fill="#FFE7CC" opacity="0.85"/>
-  <rect x="136" y="177" width="63" height="22" rx="10" fill="#F3B78D" opacity="0.35"/>
-
-  <!-- brows -->
-  <rect x="133" y="129" width="27" height="5" rx="2" fill="#7C3F2D"/>
-  <rect x="177" y="129" width="27" height="5" rx="2" fill="#7C3F2D"/>
-
-  <!-- glasses -->
-  <rect x="126" y="136" width="36" height="26" rx="5" fill="rgba(34,211,238,0.10)" stroke="#22D3EE" stroke-width="4"/>
-  <rect x="174" y="136" width="36" height="26" rx="5" fill="rgba(34,211,238,0.10)" stroke="#22D3EE" stroke-width="4"/>
-  <rect x="162" y="145" width="12" height="4" rx="2" fill="#22D3EE"/>
-  <rect x="121" y="143" width="6" height="5" fill="#22D3EE"/>
-  <rect x="210" y="143" width="6" height="5" fill="#22D3EE"/>
-
-  <!-- eyes -->
-  <rect x="138" y="145" width="9" height="9" rx="3" fill="#0F172A"/>
-  <rect x="187" y="145" width="9" height="9" rx="3" fill="#0F172A"/>
-  <rect x="140" y="146" width="3" height="3" fill="#F8FAFC"/>
-  <rect x="189" y="146" width="3" height="3" fill="#F8FAFC"/>
-
-  <!-- nose / happy smile -->
-  <rect x="165" y="154" width="5" height="12" rx="2" fill="#E7A377" opacity="0.85"/>
-  <path d="M147 173 Q168 188 189 173" fill="none" stroke="#8B5A4B" stroke-width="4" stroke-linecap="round"/>
-  <path d="M153 177 Q168 186 183 177" fill="none" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
-
-  <!-- neck -->
-  <rect x="153" y="188" width="30" height="24" rx="8" fill="#F8C9A2"/>
-
-  <!-- hoodie / japanese streetwear -->
-  <path d="M100 232 L119 206 L145 198 L168 213 L191 198 L217 206 L236 232 L248 304 L88 304 Z" fill="#0F172A"/>
-  <path d="M121 209 L147 217 L168 235 L143 252 L118 232 Z" fill="#172554"/>
-  <path d="M215 209 L189 217 L168 235 L193 252 L218 232 Z" fill="#172554"/>
-  <rect x="115" y="304" width="106" height="0" fill="#0F172A"/>
-  <path d="M112 210 L95 232 L88 304 L108 304 L118 238 L135 215 Z" fill="#1E3A8A" opacity="0.55"/>
-  <path d="M224 210 L241 232 L248 304 L228 304 L218 238 L201 215 Z" fill="#1E3A8A" opacity="0.55"/>
-  <rect x="148" y="236" width="8" height="42" rx="3" fill="#22D3EE"/>
-  <rect x="180" y="236" width="8" height="42" rx="3" fill="#22D3EE"/>
-  <rect x="149" y="236" width="6" height="12" fill="#60A5FA"/>
-  <rect x="181" y="236" width="6" height="12" fill="#60A5FA"/>
-
-  <!-- subtle japanese patch -->
-  <rect x="204" y="250" width="23" height="16" rx="3" fill="#111827" stroke="#FACC15" stroke-width="2"/>
-  <circle cx="212" cy="258" r="4" fill="#FACC15"/>
-  <path d="M210 258 Q212 261 214 258" fill="none" stroke="#0F172A" stroke-width="1.5" stroke-linecap="round"/>
-  <rect x="176" y="28" width="52" height="12" rx="6" fill="#111827" opacity="0.80"/>
-  <text x="202" y="37" text-anchor="middle" font-size="8" fill="#FACC15" font-family="ui-sans-serif,system-ui,Arial">NEON TOKYO</text>
+<g clip-path="url(#card)">
+<rect width="1280" height="360" fill="#0B1220"/>
+<rect x="507" y="0" width="773" height="248" fill="url(#glow)"/>
+<rect y="248" width="1280" height="112" fill="#0E1628"/>
+<path d="M0 248.5H1280" stroke="#1A2436"/>
 </g>
-<text x="236" y="430" text-anchor="middle" font-size="22" font-weight="700" fill="url(#accent)" letter-spacing="4" opacity="0">kwy404<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.4s" fill="freeze"/></text>
-<text x="236" y="456" text-anchor="middle" font-size="11" letter-spacing="2" fill="#475569" opacity="0">GAME CONNECTED<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.7s" fill="freeze"/></text>
-<rect x="120" y="486" width="232" height="6" rx="3" fill="rgba(255,255,255,0.08)"/>
-<rect x="120" y="486" width="0" height="6" rx="3" fill="url(#accent)"><animate attributeName="width" from="0" to="232" dur="2.2s" begin="0.3s" fill="freeze"/></rect>
-<text x="236" y="520" text-anchor="middle" font-size="10" fill="#475569" opacity="0">system loaded. fps: unlocked.<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.6s" fill="freeze"/></text>
-
-<text x="470" y="74" font-size="10" letter-spacing="3" fill="#475569">SYSTEM.INFO</text>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><text x="470" y="100" font-size="14" xml:space="preserve"><tspan fill="#94A3B8">- Identity </tspan><tspan fill="rgba(148,163,184,0.25)">---------------------------------------------------</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.02s" fill="freeze"/><text x="470" y="131" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Subject </tspan><tspan fill="rgba(148,163,184,0.25)">.................................</tspan><tspan fill="#F1F5F9" font-weight="600"> kwy404</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.14s" fill="freeze"/><text x="470" y="154" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Role </tspan><tspan fill="rgba(148,163,184,0.25)">........................</tspan><tspan fill="#F1F5F9" font-weight="600"> Dev &amp; Hardware Gaming Specialist</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.26s" fill="freeze"/><text x="470" y="177" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Origin </tspan><tspan fill="rgba(148,163,184,0.25)">..................................</tspan><tspan fill="#F1F5F9" font-weight="600"> Brusque, SC - Brasil</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.50s" fill="freeze"/><text x="470" y="223" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Status </tspan><tspan fill="rgba(148,163,184,0.25)">....................................</tspan><tspan fill="#F1F5F9" font-weight="600"> Building Voodoo.js</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.62s" fill="freeze"/><text x="470" y="246" font-size="14" xml:space="preserve"><tspan fill="#94A3B8">- ToolChain </tspan><tspan fill="rgba(148,163,184,0.25)">--------------------------------------------------</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.74s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.74s" fill="freeze"/><text x="470" y="277" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Core.Lang </tspan><tspan fill="rgba(148,163,184,0.25)">.....................</tspan><tspan fill="#F1F5F9" font-weight="600"> JavaScript, TypeScript, Python</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.86s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.86s" fill="freeze"/><text x="470" y="300" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Core.Frontend </tspan><tspan fill="rgba(148,163,184,0.25)">...........................</tspan><tspan fill="#F1F5F9" font-weight="600"> Voodoo.js, HTML, CSS</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.98s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.98s" fill="freeze"/><text x="470" y="323" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Core.Backend </tspan><tspan fill="rgba(148,163,184,0.25)">.........................................</tspan><tspan fill="#F1F5F9" font-weight="600"> Node.js</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.10s" fill="freeze"/><text x="470" y="346" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Core.Hardware </tspan><tspan fill="rgba(148,163,184,0.25)">....................</tspan><tspan fill="#F1F5F9" font-weight="600"> AMD / Intel / NVIDIA tuning</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.22s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.22s" fill="freeze"/><text x="470" y="369" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Core.Infra </tspan><tspan fill="rgba(148,163,184,0.25)">.................</tspan><tspan fill="#F1F5F9" font-weight="600"> Vercel, Git, Windows Optimization</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.34s" fill="freeze"/><text x="470" y="392" font-size="14" xml:space="preserve"><tspan fill="#94A3B8">- Contact </tspan><tspan fill="rgba(148,163,184,0.25)">----------------------------------------------------</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.46s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.46s" fill="freeze"/><text x="470" y="423" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Grid.GitHub </tspan><tspan fill="rgba(148,163,184,0.25)">..........................................</tspan><tspan fill="#F1F5F9" font-weight="600"> @kwy404</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.58s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.58s" fill="freeze"/><text x="470" y="446" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Grid.Portfolio </tspan><tspan fill="rgba(148,163,184,0.25)">....................</tspan><tspan fill="#F1F5F9" font-weight="600"> alexandrekohlerportfolio.vercel.app</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.70s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.70s" fill="freeze"/><text x="470" y="469" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Grid.Instagram </tspan><tspan fill="rgba(148,163,184,0.25)">...........................</tspan><tspan fill="#F1F5F9" font-weight="600"> @n3ss3n.tl</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.82s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.82s" fill="freeze"/><text x="470" y="492" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#60A5FA">Grid.Mail </tspan><tspan fill="rgba(148,163,184,0.25)">......................................</tspan><tspan fill="#F1F5F9" font-weight="600"> thekaway404@gmail.com</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.2s" fill="freeze"/>
-<text x="470" y="577" font-size="14" fill="#94A3B8">&#9656; Mais sobre mim &amp; projetos abaixo no README &#8595; <tspan fill="#22D3EE">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+<rect x="0.5" y="0.5" width="1279" height="359" rx="12" fill="none" stroke="#1A2436"/>
+<g mask="url(#fm)">
+<use href="#l0" fill="#151F31"/>
+<use href="#l1" fill="#16306A"/>
+<use href="#l2" fill="#1D4ED8"/>
+<use href="#l3" fill="#2563EB"/>
+<use href="#l4" fill="#4F8BF7"/>
 </g>
+<g mask="url(#cm)"><rect class="band" x="327" y="0" width="240" height="248" fill="url(#sh)"/></g>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#7C8BA1">
+<text x="707" y="212">5,000+ contributions in the last year</text>
+<text x="1112" y="212" text-anchor="end">Less</text>
+<rect x="1120" y="203" width="9" height="9" rx="2" fill="#151F31"/><rect x="1132" y="203" width="9" height="9" rx="2" fill="#16306A"/><rect x="1144" y="203" width="9" height="9" rx="2" fill="#1D4ED8"/><rect x="1156" y="203" width="9" height="9" rx="2" fill="#2563EB"/><rect x="1168" y="203" width="9" height="9" rx="2" fill="#4F8BF7"/>
+<text x="1216" y="212" text-anchor="end">More</text>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+<text x="72" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="0.4" fill="#3B82F6">kwy404 &#183; Brazil</text>
+<text x="69" y="136" font-size="64" font-weight="700" letter-spacing="-2" fill="#F1F5F9">Alexandre Kohler</text>
+<text x="72" y="174" font-size="24" font-weight="500" letter-spacing="-0.2" fill="#94A3B8">Software Engineer <tspan fill="#475569">/</tspan> Open Source Contributor</text>
+<text x="72" y="212" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#7C8BA1">TypeScript &#183; Python &#183; C++ &#183; Rust &#183; Node.js</text>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+<text x="70" y="306" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#3B82F6">29</text>
+<text x="72" y="330" font-size="13" fill="#7C8BA1">merged pull requests at</text>
+</g>
+<path d="M248.5 276V332" stroke="#1A2436"/>
+<g fill="#E2E8F0">
+<path transform="translate(284.05 278) scale(1.167)" d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z"/>
+<path transform="translate(364.571 267) scale(2.083)" d="M0 7.97v4.958c0 1.867 1.302 3.101 3 3.101.826 0 1.562-.316 2.094-.87v.736H6.27V7.97H5.082v4.888c0 1.257-.85 2.106-1.947 2.106-1.11 0-1.946-.827-1.946-2.106V7.971H0zm7.44 0v7.925h1.13v-.725c.521.532 1.257.86 2.06.86a3.006 3.006 0 0 0 3.034-3.01 3.01 3.01 0 0 0-3.033-3.024 2.86 2.86 0 0 0-2.049.861V7.971H7.439zm9.869 2.038c-1.687 0-2.965 1.37-2.965 3 0 1.72 1.334 3.01 3.066 3.01 1.053 0 1.913-.463 2.49-1.233l-.826-.611c-.43.577-.996.847-1.664.847-.973 0-1.753-.7-1.912-1.64h4.697v-.373c0-1.72-1.222-3-2.886-3zm6.295.068c-.634 0-1.098.294-1.381.758v-.713h-1.131v5.774h1.142V12.61c0-.894.544-1.47 1.291-1.47H24v-1.065h-.396zm-6.319.928c.85 0 1.564.588 1.756 1.47H15.52c.203-.882.916-1.47 1.765-1.47zm-6.732.012c1.086 0 1.98.883 1.98 2.004a1.993 1.993 0 0 1-1.98 2.001A1.989 1.989 0 0 1 8.56 13.02a1.99 1.99 0 0 1 1.992-2.004z"/>
+<path transform="translate(462.891 277) scale(1.25)" d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/>
+<path transform="translate(544.862 277) scale(1.25)" d="m5.398 0 8.348 23.602c2.346.059 4.856.398 4.856.398L10.113 0H5.398zm8.489 0v9.172l4.715 13.33V0h-4.715zM5.398 1.5V24c1.873-.225 2.81-.312 4.715-.398V14.83L5.398 1.5z"/>
+<path transform="translate(624.983 264) scale(2.333)" d="M0 8.579v6.842h24V8.58zm1.8 1.415h.793l.776 3.044.76-3.044h.836l-1.227 4.029H3zm5.488 0h1.084l1.145 4.034h-.814l-.27-1.007H7.228s-.21.81-.254.99c-.242.017-.83 0-.83 0zm4.184 0h.792v3.352h1.69v.677h-2.482zm3.45 0h.816l.776 3.005.754-3.005h.815l-1.222 4.034h-.716zm4.828 0h1.69v.522h-1.084v.584h.99v.523h-.99v.6h1.084v.523h-1.69zm-11.902.68l-.426 1.702h.89z"/>
+<path transform="translate(733.653 277) scale(1.25)" d="M15.337 23.979l7.216-1.561s-2.604-17.613-2.625-17.73c-.018-.116-.114-.192-.211-.192s-1.929-.136-1.929-.136-1.275-1.274-1.439-1.411c-.045-.037-.075-.057-.121-.074l-.914 21.104h.023zM11.71 11.305s-.81-.424-1.774-.424c-1.447 0-1.504.906-1.504 1.141 0 1.232 3.24 1.715 3.24 4.629 0 2.295-1.44 3.76-3.406 3.76-2.354 0-3.54-1.465-3.54-1.465l.646-2.086s1.245 1.066 2.28 1.066c.675 0 .975-.545.975-.932 0-1.619-2.654-1.694-2.654-4.359-.034-2.237 1.571-4.416 4.827-4.416 1.257 0 1.875.361 1.875.361l-.945 2.715-.02.01zM11.17.83c.136 0 .271.038.405.135-.984.465-2.064 1.639-2.508 3.992-.656.213-1.293.405-1.889.578C7.697 3.75 8.951.84 11.17.84V.83zm1.235 2.949v.135c-.754.232-1.583.484-2.394.736.466-1.777 1.333-2.645 2.085-2.971.193.501.309 1.176.309 2.1zm.539-2.234c.694.074 1.141.867 1.429 1.755-.349.114-.735.231-1.158.366v-.252c0-.752-.096-1.371-.271-1.871v.002zm2.992 1.289c-.02 0-.06.021-.078.021s-.289.075-.714.21c-.423-1.233-1.176-2.37-2.508-2.37h-.115C12.135.209 11.669 0 11.265 0 8.159 0 6.675 3.877 6.21 5.846c-1.194.365-2.063.636-2.16.674-.675.213-.694.232-.772.87-.075.462-1.83 14.063-1.83 14.063L15.009 24l.927-21.166z"/>
+<path transform="translate(834.372 273) scale(1.583)" d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z"/>
+<text x="981.877" y="298" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="-0.3">Capital One</text>
+<path transform="translate(1076.931 276.752) scale(1.271)" d="M13.966 22.624l-1.69-4.281H8.122l3.892-9.144 5.662 13.425zM8.884 1.376H0v21.248zm15.116 0h-8.884L24 22.624Z"/>
+<path transform="translate(1171.368 276.617) scale(1.282)" d="M19.8772 1.4685L24 2.5326v18.9426l-4.1228 1.0563V1.4685zm-13.3481 9.428l4.115 1.0641v8.9786l-4.115 1.0642v-11.107zM0 2.572l4.115 1.0642v16.7354L0 21.428V2.572zm17.4553 5.6205v11.107l-4.1228-1.0642V9.2568l4.1228-1.0642z"/>
+</g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#7C8BA1" text-anchor="middle">
+<text x="298.05" y="330">Google</text>
+<text x="389.571" y="330">Uber</text>
+<text x="477.891" y="330">Apple</text>
+<text x="559.862" y="330">Netflix</text>
+<text x="652.983" y="330">Valve</text>
+<text x="748.653" y="330">Shopify</text>
+<text x="853.374" y="330">Tailwind Labs</text>
+<text x="981.877" y="330">Capital One</text>
+<text x="1092.179" y="330">Adobe</text>
+<text x="1186.75" y="330">ByteDance</text>
 </g>
 </svg>
