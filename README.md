@@ -28,6 +28,8 @@ Merged pull requests, grouped by organization.
 | | [Escape text and attribute values in the HTML output](https://github.com/google/budoux/pull/1381) |
 | | [Don't keep skipping after void elements like input](https://github.com/google/budoux/pull/1388) |
 | | [Escape text in the HTML output of the Java port](https://github.com/google/budoux/pull/1391) |
+| | [Don't crash on script and style elements in the Java port](https://github.com/google/budoux/pull/1392) |
+| | [Process all top level nodes in translateHTMLString (JS)](https://github.com/google/budoux/pull/1393) |
 | [google/mobly](https://github.com/google/mobly) · device test framework | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 
 ### Adobe
