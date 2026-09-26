@@ -48,6 +48,7 @@ Merged pull requests, grouped by organization.
 | Shopify | [Shopify/hydrogen](https://github.com/Shopify/hydrogen) | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
 | Apple | [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | [Read .ndjson files as newline delimited JSON](https://github.com/apple/embedding-atlas/pull/264) |
 | Capital One | [capitalone/datacompy](https://github.com/capitalone/datacompy) | [Keep the default tolerance key when upper casing column names](https://github.com/capitalone/datacompy/pull/572) |
+| | | [Compare string lists in the pandas array comparator](https://github.com/capitalone/datacompy/pull/573) |
 | Netflix | [Netflix/spectator-py](https://github.com/Netflix/spectator-py) | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
 
 ### Community
