@@ -7,7 +7,7 @@
 
 ## About
 
-Software engineer from Brazil working across TypeScript, Python, Rust and C++. I contribute bug fixes to open source projects maintained by companies like Google, Adobe, Valve, Shopify, Apple, Netflix and Tailwind Labs, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil working across TypeScript, Python, Rust and C++. I contribute bug fixes to open source projects maintained by companies like Google, Uber, Apple, Netflix, Valve, Shopify, Adobe, ByteDance and Tailwind Labs, usually in parsers, protocol handling, build tooling and web platform code.
 
 ## Open source contributions
 
@@ -43,6 +43,8 @@ Merged pull requests, grouped by organization.
 
 | Company | Project | Pull request |
 | --- | --- | --- |
+| Uber | [uber/h3](https://github.com/uber/h3) | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
+| ByteDance | [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) | [Avoid treating sibling dist paths as nested](https://github.com/web-infra-dev/rsbuild/pull/8544) |
 | Tailwind Labs | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | [Sort breakpoint variants with decimal values numerically](https://github.com/tailwindlabs/tailwindcss/pull/20512) |
 | Valve | [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) | [Only build CLI dependent tests when FOSSILIZE_CLI is enabled](https://github.com/ValveSoftware/Fossilize/pull/315) |
 | Shopify | [Shopify/hydrogen](https://github.com/Shopify/hydrogen) | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
