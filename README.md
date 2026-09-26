@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/c06ac5f13dcdcf1cea6c2dcf17f2ff7aaec274be/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/c06ac5f13dcdcf1cea6c2dcf17f2ff7aaec274be/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/35f794808bf2b960d348469ec6a76083126a94e7/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/35f794808bf2b960d348469ec6a76083126a94e7/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
