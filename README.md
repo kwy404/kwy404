@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/f2c9788cfa946bab9b0e23acbadf157b8d6d52b8/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/f2c9788cfa946bab9b0e23acbadf157b8d6d52b8/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/81e813bb4855a90c4d57cc2514559c4d687cc577/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/81e813bb4855a90c4d57cc2514559c4d687cc577/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from React, Google, Adobe, Apple, Netflix, Shopify, Uber and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from React, Vue, Google, Adobe, Apple, Netflix, Shopify, Uber and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -17,10 +17,11 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 14 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 15 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 1 merged pull request"></a>&nbsp;
@@ -31,18 +32,18 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-30-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="30 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-32-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="32 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-30 merged pull requests to projects maintained by Google, Capital One, Adobe, React, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+32 merged pull requests to projects maintained by Google, Capital One, Adobe, React, Vue, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
 <details open>
-<summary>14 merged pull requests in budoux, bumble and mobly</summary>
+<summary>15 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
 
 | Repository | Pull request |
 | --- | --- |
@@ -60,6 +61,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [Set the command/event bit correctly in BTSnoop packet flags](https://github.com/google/bumble/pull/989) |
 | | [Fix the preferred frame duration bits in BAP supported frame durations](https://github.com/google/bumble/pull/991) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
+| [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 
 </details>
 
@@ -84,6 +86,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [react/metro](https://github.com/react/metro)<br><sub>JavaScript bundler for React Native</sub> | [Fix section offsets in generatedMappings() for indexed source maps](https://github.com/react/metro/pull/1976) |
+
+### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue
+
+| Repository | Pull request |
+| --- | --- |
+| [vuejs/vitepress](https://github.com/vuejs/vitepress)<br><sub>Vite and Vue powered static site generator</sub> | [fix: insert page title literally into titleTemplate](https://github.com/vuejs/vitepress/pull/5470) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber
 
