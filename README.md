@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/09c2af9c38df76c17dc1e61fabe4e69e6ae40fc8/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/09c2af9c38df76c17dc1e61fabe4e69e6ae40fc8/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/8898b353017dd4746581911223a7d27570deddbc/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/8898b353017dd4746581911223a7d27570deddbc/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Meta, React, Vue, Preact, Mozilla, Google, Adobe, Apple, Netflix, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Meta, React, Vue, Preact, Mozilla, LinkedIn, Google, Adobe, Apple, Netflix, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -21,9 +21,10 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
@@ -38,13 +39,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-46-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="46 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-48-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="48 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-46 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+48 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -102,6 +103,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [react/metro](https://github.com/react/metro)<br><sub>JavaScript bundler for React Native</sub> | [Fix section offsets in generatedMappings() for indexed source maps](https://github.com/react/metro/pull/1976) |
+| | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
 
 ### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue
 
@@ -114,6 +116,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [preactjs/preact](https://github.com/preactjs/preact)<br><sub>Fast 3kB React alternative with the same modern API</sub> | [fix(compat): map imageRendering to image-rendering](https://github.com/preactjs/preact/pull/5270) |
+
+### <a href="https://github.com/linkedin"><img src="https://github.com/linkedin.png?size=80" width="20" height="20" align="top" alt=""></a> LinkedIn
+
+| Repository | Pull request |
+| --- | --- |
+| [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)<br><sub>Efficient Triton kernels for LLM training</sub> | [fix(kto): sum chosen/rejected rewards per sample when chunk_size > 1](https://github.com/linkedin/Liger-Kernel/pull/1495) |
 
 ### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla
 
