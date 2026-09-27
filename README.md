@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/8898b353017dd4746581911223a7d27570deddbc/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/8898b353017dd4746581911223a7d27570deddbc/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/69dcd13a41930a90f9d615943b67bed42d933b67/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/69dcd13a41930a90f9d615943b67bed42d933b67/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -17,7 +17,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 18 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 19 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
@@ -39,18 +39,18 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-48-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="48 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-49-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="49 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-48 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+49 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
 <details open>
-<summary>18 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
+<summary>19 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
 
 | Repository | Pull request |
 | --- | --- |
@@ -72,6 +72,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [Fix the preferred frame duration bits in BAP supported frame durations](https://github.com/google/bumble/pull/991) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
+| | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 
 </details>
 
