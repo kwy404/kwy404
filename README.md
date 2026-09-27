@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/7d17bd7127df87c434ffe0c5a36ac632e1b6ccbc/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/7d17bd7127df87c434ffe0c5a36ac632e1b6ccbc/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/3dfdc7e8f96fcd136b71deb198d77ad18c73ea11/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/3dfdc7e8f96fcd136b71deb198d77ad18c73ea11/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -30,17 +30,17 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 2 merged pull requests"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 3 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-38-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="38 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-39-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="39 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-38 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Mozilla, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+39 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Mozilla, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -152,6 +152,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br><sub>Build tool for web apps, powered by Rspack</sub> | [fix(core): avoid treating sibling dist paths as nested](https://github.com/web-infra-dev/rsbuild/pull/8544) |
 | | [fix(core): avoid printing 60.0s in build time logs](https://github.com/web-infra-dev/rsbuild/pull/8552) |
+| | [fix(core): avoid writing assets twice when writeToDisk is true](https://github.com/web-infra-dev/rsbuild/pull/8556) |
 
 ### <a href="https://github.com/dgadelha"><img src="https://github.com/dgadelha.png?size=80" width="20" height="20" align="top" alt=""></a> Portugol Webstudio
 
