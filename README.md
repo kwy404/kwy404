@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/74f36ebb424d00d7e5dd483299d718b7811a04b6/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/74f36ebb424d00d7e5dd483299d718b7811a04b6/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/837706e2cc4c5d2e0c087675ae191b90290d5ad0/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/837706e2cc4c5d2e0c087675ae191b90290d5ad0/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Meta, React, Vue, Preact, Mozilla, Google, Adobe, Apple, Netflix, Shopify, Uber and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Meta, React, Vue, Preact, Mozilla, Google, Adobe, Apple, Netflix, Shopify, Uber, Epic Games and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -28,6 +28,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 1 merged pull request"></a>&nbsp;
@@ -35,13 +36,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-43-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="43 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-44-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="44 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-43 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, Mozilla, Uber, Tailwind Labs, Valve, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+44 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -136,6 +137,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize)<br><sub>Vulkan pipeline state serialization</sub> | [Only build CLI-dependent tests when FOSSILIZE_CLI is enabled](https://github.com/ValveSoftware/Fossilize/pull/315) |
+
+### <a href="https://github.com/EpicGames"><img src="https://github.com/EpicGames.png?size=80" width="20" height="20" align="top" alt=""></a> Epic Games
+
+| Repository | Pull request |
+| --- | --- |
+| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)<br><sub>Native debugger and linker for Windows</sub> | [base: fix data4 byte order in try_guid_from_string](https://github.com/EpicGames/raddebugger/pull/956) |
 
 ### <a href="https://github.com/Shopify"><img src="https://github.com/Shopify.png?size=80" width="20" height="20" align="top" alt=""></a> Shopify
 
