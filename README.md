@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/3dbeb855cab5d99569d85989fac9e3d1abfafb40/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/3dbeb855cab5d99569d85989fac9e3d1abfafb40/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/e30b2586b38e9d7fef029d94d83ba38eef48a45c/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/e30b2586b38e9d7fef029d94d83ba38eef48a45c/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -18,7 +18,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <h3>Contributor at</h3>
 
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 20 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
@@ -38,18 +38,18 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 6 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-59-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="59 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-61-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="61 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-59 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
+61 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -86,6 +86,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | Repository | Pull request |
 | --- | --- |
 | [microsoft/typespec](https://github.com/microsoft/typespec)<br><sub>Language for describing cloud service APIs</sub> | [fix(openapi3): escape tag metadata strings when converting from OpenAPI](https://github.com/microsoft/typespec/pull/12050) |
+| [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)<br><sub>Language Server Protocol client and server for VS Code</sub> | [Fix ColorPresentation.is rejecting presentations with a textEdit](https://github.com/microsoft/vscode-languageserver-node/pull/1865) |
 
 ### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services
 
@@ -209,6 +210,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [Netflix/spectator-py](https://github.com/Netflix/spectator-py)<br><sub>Python metrics library for Atlas</sub> | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
+| | [Leave stdout and stderr open when closing a FileWriter](https://github.com/Netflix/spectator-py/pull/94) |
 
 ### <a href="https://github.com/web-infra-dev"><img src="https://github.com/web-infra-dev.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance Web Infra
 
