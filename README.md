@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/376289fd29ca2755063f03861d8e673449ce057e/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/376289fd29ca2755063f03861d8e673449ce057e/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/2b1c5b20d552ad9401cd5e38919973768be328c6/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/2b1c5b20d552ad9401cd5e38919973768be328c6/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Adobe, Apple, NVIDIA, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Adobe, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -33,6 +33,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 1 merged pull request"></a>&nbsp;
@@ -45,13 +46,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-63-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="63 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-64-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="64 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-63 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
+64 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -102,6 +103,12 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | Repository | Pull request |
 | --- | --- |
 | [siemens/ix](https://github.com/siemens/ix)<br><sub>Siemens Industrial Experience design system</sub> | [fix(core): keep sign of negative numbers in convertToAbbreviationString](https://github.com/siemens/ix/pull/2850) |
+
+### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat
+
+| Repository | Pull request |
+| --- | --- |
+| [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server)<br><sub>Language server for YAML files</sub> | [fix: resolve nested schema paths prefixed with a workspace folder name](https://github.com/redhat-developer/yaml-language-server/pull/1348) |
 
 ### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One
 
