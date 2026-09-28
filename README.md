@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/69dcd13a41930a90f9d615943b67bed42d933b67/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/69dcd13a41930a90f9d615943b67bed42d933b67/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/9a3ebf2b91517bb81f2a7c9bbf0eafab07368453/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/9a3ebf2b91517bb81f2a7c9bbf0eafab07368453/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Meta, React, Vue, Preact, Mozilla, LinkedIn, Google, Adobe, Apple, Netflix, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Google, Adobe, Apple, Netflix, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -17,7 +17,9 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 19 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 20 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
@@ -30,27 +32,29 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 4 merged pull requests"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 6 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-49-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="49 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-58-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="58 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-49 merged pull requests to projects maintained by Google, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix and ByteDance Web Infra, plus the community project Portugol Webstudio.
+58 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, Netflix, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
 <details open>
-<summary>19 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
+<summary>20 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
 
 | Repository | Pull request |
 | --- | --- |
@@ -71,10 +75,30 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [Set the command/event bit correctly in BTSnoop packet flags](https://github.com/google/bumble/pull/989) |
 | | [Fix the preferred frame duration bits in BAP supported frame durations](https://github.com/google/bumble/pull/991) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
+| | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
 | [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 | | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 
 </details>
+
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft
+
+| Repository | Pull request |
+| --- | --- |
+| [microsoft/typespec](https://github.com/microsoft/typespec)<br><sub>Language for describing cloud service APIs</sub> | [fix(openapi3): escape tag metadata strings when converting from OpenAPI](https://github.com/microsoft/typespec/pull/12050) |
+
+### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services
+
+| Repository | Pull request |
+| --- | --- |
+| [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)<br><sub>pandas on AWS: S3, Athena, Redshift and databases</sub> | [fix(mysql): put UNSIGNED after the type for unsigned integer columns](https://github.com/aws/aws-sdk-pandas/pull/3492) |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)<br><sub>Powertools for AWS Lambda (Python)</sub> | [fix(event_handler): emit Max-Age=0 for cookies with max_age=0](https://github.com/aws-powertools/powertools-lambda-python/pull/8488) |
+
+### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens
+
+| Repository | Pull request |
+| --- | --- |
+| [siemens/ix](https://github.com/siemens/ix)<br><sub>Siemens Industrial Experience design system</sub> | [fix(core): keep sign of negative numbers in convertToAbbreviationString](https://github.com/siemens/ix/pull/2850) |
 
 ### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One
 
@@ -193,6 +217,22 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [fix(core): avoid printing 60.0s in build time logs](https://github.com/web-infra-dev/rsbuild/pull/8552) |
 | | [fix(core): avoid writing assets twice when writeToDisk is true](https://github.com/web-infra-dev/rsbuild/pull/8556) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
+| [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
+| | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
+
+### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry
+
+| Repository | Pull request |
+| --- | --- |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry)<br><sub>Python packaging and dependency management</sub> | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
+
+### <a href="https://github.com/brazilian-utils"><img src="https://github.com/brazilian-utils.png?size=80" width="20" height="20" align="top" alt=""></a> Brazilian Utils
+
+Community project with utilities for Brazilian documents and formats.
+
+| Repository | Pull request |
+| --- | --- |
+| [brazilian-utils/javascript](https://github.com/brazilian-utils/javascript)<br><sub>Utilities for Brazilian formats in JavaScript</sub> | [fix(renavam): reject negative and fractional numbers](https://github.com/brazilian-utils/javascript/pull/592) |
 
 ### <a href="https://github.com/dgadelha"><img src="https://github.com/dgadelha.png?size=80" width="20" height="20" align="top" alt=""></a> Portugol Webstudio
 
