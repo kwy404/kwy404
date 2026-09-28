@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/2b1c5b20d552ad9401cd5e38919973768be328c6/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/2b1c5b20d552ad9401cd5e38919973768be328c6/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/223e823b8ea96ea27b346df998da6e6a336016c0/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/223e823b8ea96ea27b346df998da6e6a336016c0/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -36,7 +36,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 1 merged pull request"></a>&nbsp;
@@ -46,13 +46,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-64-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="64 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-65-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="65 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-64 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
+65 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -201,6 +201,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D library</sub> | [Line3: Fix closest point for degenerate segments in `distanceSqToLine3()`](https://github.com/mrdoob/three.js/pull/34673) |
+| | [Triangle: Fix `closestPointToPoint()` returning `NaN` when `a` equals `b`](https://github.com/mrdoob/three.js/pull/34695) |
 
 ### <a href="https://github.com/Shopify"><img src="https://github.com/Shopify.png?size=80" width="20" height="20" align="top" alt=""></a> Shopify
 
