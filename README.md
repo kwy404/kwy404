@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/14e4639b0bf46cfaab1c832350a17453424be617/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/14e4639b0bf46cfaab1c832350a17453424be617/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/ca58d20b69fc5e40c921ff81469a79817479b56e/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/ca58d20b69fc5e40c921ff81469a79817479b56e/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -17,7 +17,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 20 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 21 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
@@ -47,13 +47,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-69-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="69 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-70-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="70 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-69 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
+70 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -72,6 +72,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [fix(js): export thModel](https://github.com/google/budoux/pull/1394) |
 | | [fix(py): don't drop trailing text with an ampersand](https://github.com/google/budoux/pull/1395) |
 | | [fix(js): don't insert separators next to whitespace](https://github.com/google/budoux/pull/1396) |
+| | [fix(js): don't split surrogate pairs](https://github.com/google/budoux/pull/1403) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
