@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/4264083a3e6b55b4fb6a81c5004fab4265dfdbed/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/4264083a3e6b55b4fb6a81c5004fab4265dfdbed/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/14e4639b0bf46cfaab1c832350a17453424be617/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/14e4639b0bf46cfaab1c832350a17453424be617/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Adobe, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -27,6 +27,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
@@ -39,20 +40,20 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev&type=pullrequests"><img src="https://github.com/web-infra-dev.png?size=80" width="44" height="44" alt="ByteDance Web Infra" title="ByteDance Web Infra: 6 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-65-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="65 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-69-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="69 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-65 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects Portugol Webstudio and Brazilian Utils.
+69 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, Capital One, Adobe, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance Web Infra and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -159,6 +160,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)<br><sub>Efficient Triton kernels for LLM training</sub> | [fix(kto): sum chosen/rejected rewards per sample when chunk_size > 1](https://github.com/linkedin/Liger-Kernel/pull/1495) |
 
+### <a href="https://github.com/discord"><img src="https://github.com/discord.png?size=80" width="20" height="20" align="top" alt=""></a> Discord
+
+| Repository | Pull request |
+| --- | --- |
+| [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
+
 ### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla
 
 | Repository | Pull request |
@@ -220,6 +227,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)<br><sub>std::execution, the standard C++ framework for asynchronous and parallel programming</sub> | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
+| | [add missing `inplace_stop_callback::callback_type`](https://github.com/NVIDIA/stdexec/pull/2290) |
 
 ### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix
 
@@ -251,6 +259,14 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry)<br><sub>Python packaging and dependency management</sub> | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
 
+### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3
+
+Community project from the UnJS ecosystem, the HTTP framework used by Nitro and Nuxt.
+
+| Repository | Pull request |
+| --- | --- |
+| [h3js/h3](https://github.com/h3js/h3)<br><sub>Minimal HTTP framework built for performance and portability</sub> | [fix(static): set vary header when a single encoding is accepted](https://github.com/h3js/h3/pull/1556) |
+
 ### <a href="https://github.com/brazilian-utils"><img src="https://github.com/brazilian-utils.png?size=80" width="20" height="20" align="top" alt=""></a> Brazilian Utils
 
 Community project with utilities for Brazilian documents and formats.
@@ -269,6 +285,7 @@ Community project. These pull requests are written in Portuguese, following the 
 | | [Aceitar um terminador de linha no fim da cadeia nos padrões de Tipos](https://github.com/dgadelha/Portugol-Webstudio/pull/447) |
 | | [Ignorar o conteúdo depois do objeto em Objetos.criar_objeto_via_json](https://github.com/dgadelha/Portugol-Webstudio/pull/448) |
 | | [Truncar o real passado para um parâmetro inteiro das bibliotecas](https://github.com/dgadelha/Portugol-Webstudio/pull/449) |
+| | [Mostrar o estouro de pilha da recursão sem fim como no Portugol Studio](https://github.com/dgadelha/Portugol-Webstudio/pull/452) |
 
 ## Featured project
 
