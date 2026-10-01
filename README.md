@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/8beda01b2eff2a534fc97184b92be171218bf802/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/8beda01b2eff2a534fc97184b92be171218bf802/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/7f4b6adc56b910905531a1ca2045b9e5f91363c3/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/7f4b6adc56b910905531a1ca2045b9e5f91363c3/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
@@ -17,9 +17,9 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 24 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 25 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apuppeteer&type=pullrequests"><img src="https://github.com/puppeteer.png?size=80" width="44" height="44" alt="Puppeteer" title="Puppeteer: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 5 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 6 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
@@ -55,13 +55,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-90-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="90 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-92-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="92 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-90 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
+92 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -94,6 +94,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 | | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 | [google/model-viewer](https://github.com/google/model-viewer)<br><sub>Interactive 3D models on the web and in AR</sub> | [fix: don't access a missing arRenderer when syncing camera-target](https://github.com/google/model-viewer/pull/5195) |
+| | [fix: use the fallback value for non-finite angles in unit conversions](https://github.com/google/model-viewer/pull/5196) |
 
 </details>
 
@@ -112,6 +113,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [Fix FoldingRange.is checking startLine twice instead of endLine](https://github.com/microsoft/vscode-languageserver-node/pull/1866) |
 | [microsoft/debugpy](https://github.com/microsoft/debugpy)<br><sub>Debug Adapter Protocol implementation for Python</sub> | [Skip the value of an overridden DEBUGPY_EXTRA_ARGV switch](https://github.com/microsoft/debugpy/pull/2077) |
 | [microsoft/vscode-python-environments](https://github.com/microsoft/vscode-python-environments)<br><sub>Python environments and packages in VS Code</sub> | [fix: expand ~ in python.venvFolders entries](https://github.com/microsoft/vscode-python-environments/pull/1828) |
+| | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
 
 ### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services
 
