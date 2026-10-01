@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/1df901300e649cccc653fdec840ab74ed880bc70/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/1df901300e649cccc653fdec840ab74ed880bc70/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/8beda01b2eff2a534fc97184b92be171218bf802/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/8beda01b2eff2a534fc97184b92be171218bf802/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Salesforce, Tencent, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js, Bootstrap, MUI, Puppeteer and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Salesforce, Slack, Tencent, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js, Bootstrap, MUI, Puppeteer and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -24,6 +24,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asalesforce&type=pullrequests"><img src="https://github.com/salesforce.png?size=80" width="44" height="44" alt="Salesforce" title="Salesforce: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aslackapi&type=pullrequests"><img src="https://github.com/slackapi.png?size=80" width="44" height="44" alt="Slack" title="Slack: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ATencent&type=pullrequests"><img src="https://github.com/Tencent.png?size=80" width="44" height="44" alt="Tencent" title="Tencent: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANervJS&type=pullrequests"><img src="https://github.com/NervJS.png?size=80" width="44" height="44" alt="JD.com Taro" title="JD.com Taro: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
@@ -35,7 +36,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 1 merged pull request"></a>&nbsp;
@@ -54,13 +55,13 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-88-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="88 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-90-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="90 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-88 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Tencent, JD.com, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
+90 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -160,6 +161,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [salesforce/lwc](https://github.com/salesforce/lwc)<br><sub>Lightning Web Components framework</sub> | [fix(ssr-runtime): avoid duplicate classes in classList.replace()](https://github.com/salesforce/lwc/pull/5921) |
 
+### <a href="https://github.com/slackapi"><img src="https://github.com/slackapi.png?size=80" width="20" height="20" align="top" alt=""></a> Slack
+
+| Repository | Pull request |
+| --- | --- |
+| [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk)<br><sub>Slack Developer Kit for Python</sub> | [fix(oauth): treat naive datetime values as UTC when converting to timestamps](https://github.com/slackapi/python-slack-sdk/pull/1970) |
+
 ### <a href="https://github.com/Tencent"><img src="https://github.com/Tencent.png?size=80" width="20" height="20" align="top" alt=""></a> Tencent
 
 | Repository | Pull request |
@@ -235,6 +242,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize)<br><sub>Vulkan pipeline state serialization</sub> | [Only build CLI-dependent tests when FOSSILIZE_CLI is enabled](https://github.com/ValveSoftware/Fossilize/pull/315) |
+| [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)<br><sub>Reliable and unreliable messages over UDP, used by Steam</sub> | [SetConfigValue: Don't crash when clearing connection user data](https://github.com/ValveSoftware/GameNetworkingSockets/pull/443) |
 
 ### <a href="https://github.com/EpicGames"><img src="https://github.com/EpicGames.png?size=80" width="20" height="20" align="top" alt=""></a> Epic Games
 
