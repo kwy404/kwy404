@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/7f4b6adc56b910905531a1ca2045b9e5f91363c3/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/7f4b6adc56b910905531a1ca2045b9e5f91363c3/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/c754ff43f4ff2bc6ef844a8cc493879d9fc79058/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/c754ff43f4ff2bc6ef844a8cc493879d9fc79058/light.svg" width="100%"></picture>
 
 # Alexandre Kohler
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Salesforce, Slack, Tencent, Apple, NVIDIA, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js, Bootstrap, MUI, Puppeteer and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Salesforce, Slack, Tencent, Apple, NVIDIA, Samsung, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js, Bootstrap, MUI, Puppeteer and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
@@ -27,9 +27,10 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aslackapi&type=pullrequests"><img src="https://github.com/slackapi.png?size=80" width="44" height="44" alt="Slack" title="Slack: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ATencent&type=pullrequests"><img src="https://github.com/Tencent.png?size=80" width="44" height="44" alt="Tencent" title="Tencent: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANervJS&type=pullrequests"><img src="https://github.com/NervJS.png?size=80" width="44" height="44" alt="JD.com Taro" title="JD.com Taro: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adidi&type=pullrequests"><img src="https://github.com/didi.png?size=80" width="44" height="44" alt="DiDi" title="DiDi: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 3 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
@@ -44,24 +45,26 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amui&type=pullrequests"><img src="https://github.com/mui.png?size=80" width="44" height="44" alt="MUI" title="MUI: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amui&type=pullrequests"><img src="https://github.com/mui.png?size=80" width="44" height="44" alt="MUI" title="MUI: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 4 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 7 merged pull requests"></a>
 
 <br><br>
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-92-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="92 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-98-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="98 merged pull requests"></a>
 
 </div>
 
 ## Open source contributions
 
-92 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
+98 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, DiDi, Samsung, Automattic, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
 
@@ -181,6 +184,18 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [NervJS/taro](https://github.com/NervJS/taro)<br><sub>Cross platform framework for mini programs, H5 and React Native</sub> | [fix(runtime): handle css variables in Style removeProperty and getPropertyValue](https://github.com/NervJS/taro/pull/19509) |
 
+### <a href="https://github.com/didi"><img src="https://github.com/didi.png?size=80" width="20" height="20" align="top" alt=""></a> DiDi
+
+| Repository | Pull request |
+| --- | --- |
+| [didi/dimina](https://github.com/didi/dimina)<br><sub>Cross platform mini program framework</sub> | [fix(common): keep question marks inside the route query in parsePath](https://github.com/didi/dimina/pull/354) |
+
+### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic
+
+| Repository | Pull request |
+| --- | --- |
+| [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
+
 ### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta
 
 | Repository | Pull request |
@@ -200,6 +215,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [vuejs/vitepress](https://github.com/vuejs/vitepress)<br><sub>Vite and Vue powered static site generator</sub> | [fix: insert page title literally into titleTemplate](https://github.com/vuejs/vitepress/pull/5470) |
+| [vuejs/router](https://github.com/vuejs/router)<br><sub>The official router for Vue.js</sub> | [fix(unplugin): keep hex character codes in param segments regexp](https://github.com/vuejs/router/pull/2811) |
 
 ### <a href="https://github.com/preactjs"><img src="https://github.com/preactjs.png?size=80" width="20" height="20" align="top" alt=""></a> Preact
 
@@ -270,6 +286,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>React components implementing Material Design</sub> | [\[slider\] Fix `disableSwap` when a neighbour thumb is at 0](https://github.com/mui/material-ui/pull/49234) |
+| [mui/mui-x](https://github.com/mui/mui-x)<br><sub>Advanced React components: data grid, pickers and charts</sub> | [\[pickers\] Fix `TimeClock` `PageUp` and `PageDown` at noon](https://github.com/mui/mui-x/pull/23741) |
 
 ### <a href="https://github.com/twbs"><img src="https://github.com/twbs.png?size=80" width="20" height="20" align="top" alt=""></a> Bootstrap
 
@@ -298,6 +315,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)<br><sub>std::execution, the standard C++ framework for asynchronous and parallel programming</sub> | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
 | | [add missing `inplace_stop_callback::callback_type`](https://github.com/NVIDIA/stdexec/pull/2290) |
+
+### <a href="https://github.com/Samsung"><img src="https://github.com/Samsung.png?size=80" width="20" height="20" align="top" alt=""></a> Samsung
+
+| Repository | Pull request |
+| --- | --- |
+| [Samsung/escargot](https://github.com/Samsung/escargot)<br><sub>Lightweight JavaScript engine</sub> | [Fix IteratorClose when the iterator's return method is null](https://github.com/Samsung/escargot/pull/1691) |
 
 ### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix
 
@@ -357,6 +380,7 @@ Community project. These pull requests are written in Portuguese, following the 
 | | [Ignorar o conteúdo depois do objeto em Objetos.criar_objeto_via_json](https://github.com/dgadelha/Portugol-Webstudio/pull/448) |
 | | [Truncar o real passado para um parâmetro inteiro das bibliotecas](https://github.com/dgadelha/Portugol-Webstudio/pull/449) |
 | | [Mostrar o estouro de pilha da recursão sem fim como no Portugol Studio](https://github.com/dgadelha/Portugol-Webstudio/pull/452) |
+| | [Recusar a barra invertida sozinha numa cadeia](https://github.com/dgadelha/Portugol-Webstudio/pull/451) |
 
 ## Featured project
 
