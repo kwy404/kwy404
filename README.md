@@ -1,75 +1,47 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/c754ff43f4ff2bc6ef844a8cc493879d9fc79058/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/c754ff43f4ff2bc6ef844a8cc493879d9fc79058/light.svg" width="100%"></picture>
-
-# Alexandre Kohler
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/cac0e9d2cdf04daa851eac725bbcfa4061288e9e/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/cac0e9d2cdf04daa851eac725bbcfa4061288e9e/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
-Software engineer from Brazil with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I build mostly with TypeScript, Node.js, Python and PHP, from service design and databases to React and Vue front ends. As an open source contributor, I fix bugs in projects from Google, Microsoft, Amazon, Meta, React, Vue, Preact, Mozilla, LinkedIn, Discord, Adobe, Salesforce, Slack, Tencent, Apple, NVIDIA, Samsung, Red Hat, Netflix, Bluesky, Shopify, Uber, Epic Games, Excalidraw, three.js, Bootstrap, MUI, Puppeteer and other organizations, usually in parsers, protocol handling, build tooling and web platform code.
+Software engineer with more than 10 years of experience in full stack development, focused on backend systems, APIs and microservices. I work mostly with TypeScript, Node.js, Python and PHP.
+
+In open source I fix bugs in parsers, protocol handling, build tooling and web platform code. Every pull request starts from a failing test and explains the root cause.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljk5djYuNzQ5ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/alexandre-silva-173687256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-30363d?style=flat-square&logo=vercel&logoColor=white)](https://alexandrekohlerportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<br>
-
-<div align="center">
-
-<h3>Contributor at</h3>
-
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 25 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apuppeteer&type=pullrequests"><img src="https://github.com/puppeteer.png?size=80" width="44" height="44" alt="Puppeteer" title="Puppeteer: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 6 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asalesforce&type=pullrequests"><img src="https://github.com/salesforce.png?size=80" width="44" height="44" alt="Salesforce" title="Salesforce: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aslackapi&type=pullrequests"><img src="https://github.com/slackapi.png?size=80" width="44" height="44" alt="Slack" title="Slack: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ATencent&type=pullrequests"><img src="https://github.com/Tencent.png?size=80" width="44" height="44" alt="Tencent" title="Tencent: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANervJS&type=pullrequests"><img src="https://github.com/NervJS.png?size=80" width="44" height="44" alt="JD.com Taro" title="JD.com Taro: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adidi&type=pullrequests"><img src="https://github.com/didi.png?size=80" width="44" height="44" alt="DiDi" title="DiDi: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 3 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aossf&type=pullrequests"><img src="https://github.com/ossf.png?size=80" width="44" height="44" alt="OpenSSF" title="OpenSSF: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amui&type=pullrequests"><img src="https://github.com/mui.png?size=80" width="44" height="44" alt="MUI" title="MUI: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 4 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 7 merged pull requests"></a>
-
-<br><br>
-
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-98-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="98 merged pull requests"></a>
-
-</div>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-99-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="99 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-41-8250df?style=flat-square&labelColor=30363d" alt="41 organizations"></a>
 
 ## Open source contributions
 
-98 merged pull requests to projects maintained by Google, Microsoft, Amazon, Siemens, Red Hat, OpenSSF, Capital One, Adobe, Salesforce, Slack, Tencent, JD.com, DiDi, Samsung, Automattic, Meta, React, Vue, Preact, LinkedIn, Discord, Mozilla, Uber, Tailwind Labs, Valve, Epic Games, Excalidraw, three.js, MUI, Bootstrap, Puppeteer, Shopify, Apple, NVIDIA, Netflix, Bluesky, ByteDance and Python Poetry, plus the community projects h3, Portugol Webstudio and Brazilian Utils.
+### Highlights
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google
+| Project | Stars | Pull request |
+| --- | --- | --- |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 175k | [Fix Chips Shift+Click range selection losing its anchor](https://github.com/twbs/bootstrap/pull/42956) |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 133k | [fix(editor): embed YouTube live links](https://github.com/excalidraw/excalidraw/pull/12178) |
+| [mrdoob/three.js](https://github.com/mrdoob/three.js) | 116k | [Line3: Fix closest point for degenerate segments in `distanceSqToLine3()`](https://github.com/mrdoob/three.js/pull/34673) |
+| [mui/material-ui](https://github.com/mui/material-ui) | 99k | [\[slider\] Fix `disableSwap` when a neighbour thumb is at 0](https://github.com/mui/material-ui/pull/49234) |
+| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98k | [Sort breakpoint variants with decimal values numerically](https://github.com/tailwindlabs/tailwindcss/pull/20512) |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 96k | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 34k | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
+| [Automattic/mongoose](https://github.com/Automattic/mongoose) | 27k | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
+| [facebook/lexical](https://github.com/facebook/lexical) | 24k | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241) |
+| [google/sentencepiece](https://github.com/google/sentencepiece) | 12k | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
+| [apple/pkl](https://github.com/apple/pkl) | 12k | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
+| [uber/h3](https://github.com/uber/h3) | 7k | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
+| [discord/discord-api-docs](https://github.com/discord/discord-api-docs) | 7k | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
+| [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) | 2k | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
+| [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) | 2k | [Fix ColorPresentation.is rejecting presentations with a textEdit](https://github.com/microsoft/vscode-languageserver-node/pull/1865) |
 
-<details open>
-<summary>20 merged pull requests in budoux, bumble, mobly and sentencepiece</summary>
+### All merged pull requests
+
+<details>
+<summary><b>99 merged pull requests in 41 organizations and community projects</b></summary>
+
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>25</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -99,15 +71,14 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | [google/model-viewer](https://github.com/google/model-viewer)<br><sub>Interactive 3D models on the web and in AR</sub> | [fix: don't access a missing arRenderer when syncing camera-target](https://github.com/google/model-viewer/pull/5195) |
 | | [fix: use the fallback value for non-finite angles in unit conversions](https://github.com/google/model-viewer/pull/5196) |
 
-</details>
 
-### <a href="https://github.com/puppeteer"><img src="https://github.com/puppeteer.png?size=80" width="20" height="20" align="top" alt=""></a> Puppeteer
+### <a href="https://github.com/puppeteer"><img src="https://github.com/puppeteer.png?size=80" width="20" height="20" align="top" alt=""></a> Puppeteer <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>6</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -118,32 +89,33 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | [microsoft/vscode-python-environments](https://github.com/microsoft/vscode-python-environments)<br><sub>Python environments and packages in VS Code</sub> | [fix: expand ~ in python.venvFolders entries](https://github.com/microsoft/vscode-python-environments/pull/1828) |
 | | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
 
-### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services
+### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)<br><sub>pandas on AWS: S3, Athena, Redshift and databases</sub> | [fix(mysql): put UNSIGNED after the type for unsigned integer columns](https://github.com/aws/aws-sdk-pandas/pull/3492) |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)<br><sub>Powertools for AWS Lambda (Python)</sub> | [fix(event_handler): emit Max-Age=0 for cookies with max_age=0](https://github.com/aws-powertools/powertools-lambda-python/pull/8488) |
 
-### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens
+### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [siemens/ix](https://github.com/siemens/ix)<br><sub>Siemens Industrial Experience design system</sub> | [fix(core): keep sign of negative numbers in convertToAbbreviationString](https://github.com/siemens/ix/pull/2850) |
 
-### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat
+### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server)<br><sub>Language server for YAML files</sub> | [fix: resolve nested schema paths prefixed with a workspace folder name](https://github.com/redhat-developer/yaml-language-server/pull/1348) |
+| [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)<br><sub>YAML support for Visual Studio Code</sub> | [Fix auto indentation after a key with an anchor](https://github.com/redhat-developer/vscode-yaml/pull/1289) |
 
-### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF
+### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool)<br><sub>Finds known vulnerabilities in binaries and SBOMs</sub> | [fix: detect Ruby gems with platform or four segment versions](https://github.com/ossf/cve-bin-tool/pull/5922) |
 
-### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One
+### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -151,7 +123,7 @@ Software engineer from Brazil with more than 10 years of experience in full stac
 | | [fix: compare string lists in the pandas array comparator](https://github.com/capitalone/datacompy/pull/573) |
 | | [fix(polars): match duplicate rows when the first column has nulls](https://github.com/capitalone/datacompy/pull/575) |
 
-### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe
+### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe <sub>2</sub>
 
 Both fixes were carried into maintainer pull requests so CI could run with repository secrets, and the merged commits credit me as co-author.
 
@@ -160,49 +132,49 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)<br><sub>Spectrum design system web components</sub> | [fix(overlay): remove nonexistent OverlayDialog export](https://github.com/adobe/spectrum-web-components/pull/6794)<br><sub>Commit merged via this maintainer PR, carried over from [#6790](https://github.com/adobe/spectrum-web-components/pull/6790)</sub> |
 | | [fix(menu): skip hidden menu items during keyboard navigation](https://github.com/adobe/spectrum-web-components/pull/6796)<br><sub>Commit merged via this maintainer PR, carried over from [#6789](https://github.com/adobe/spectrum-web-components/pull/6789)</sub> |
 
-### <a href="https://github.com/salesforce"><img src="https://github.com/salesforce.png?size=80" width="20" height="20" align="top" alt=""></a> Salesforce
+### <a href="https://github.com/salesforce"><img src="https://github.com/salesforce.png?size=80" width="20" height="20" align="top" alt=""></a> Salesforce <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [salesforce/lwc](https://github.com/salesforce/lwc)<br><sub>Lightning Web Components framework</sub> | [fix(ssr-runtime): avoid duplicate classes in classList.replace()](https://github.com/salesforce/lwc/pull/5921) |
 
-### <a href="https://github.com/slackapi"><img src="https://github.com/slackapi.png?size=80" width="20" height="20" align="top" alt=""></a> Slack
+### <a href="https://github.com/slackapi"><img src="https://github.com/slackapi.png?size=80" width="20" height="20" align="top" alt=""></a> Slack <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk)<br><sub>Slack Developer Kit for Python</sub> | [fix(oauth): treat naive datetime values as UTC when converting to timestamps](https://github.com/slackapi/python-slack-sdk/pull/1970) |
 
-### <a href="https://github.com/Tencent"><img src="https://github.com/Tencent.png?size=80" width="20" height="20" align="top" alt=""></a> Tencent
+### <a href="https://github.com/Tencent"><img src="https://github.com/Tencent.png?size=80" width="20" height="20" align="top" alt=""></a> Tencent <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)<br><sub>TDesign component library for Vue 3</sub> | [fix(Form): reset lastIndex before testing pattern rule](https://github.com/Tencent/tdesign-vue-next/pull/6982) |
 
-### <a href="https://github.com/NervJS"><img src="https://github.com/NervJS.png?size=80" width="20" height="20" align="top" alt=""></a> JD.com Taro
+### <a href="https://github.com/NervJS"><img src="https://github.com/NervJS.png?size=80" width="20" height="20" align="top" alt=""></a> JD.com Taro <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [NervJS/taro](https://github.com/NervJS/taro)<br><sub>Cross platform framework for mini programs, H5 and React Native</sub> | [fix(runtime): handle css variables in Style removeProperty and getPropertyValue](https://github.com/NervJS/taro/pull/19509) |
 
-### <a href="https://github.com/didi"><img src="https://github.com/didi.png?size=80" width="20" height="20" align="top" alt=""></a> DiDi
+### <a href="https://github.com/didi"><img src="https://github.com/didi.png?size=80" width="20" height="20" align="top" alt=""></a> DiDi <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [didi/dimina](https://github.com/didi/dimina)<br><sub>Cross platform mini program framework</sub> | [fix(common): keep question marks inside the route query in parsePath](https://github.com/didi/dimina/pull/354) |
 
-### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic
+### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 
-### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta
+### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
 
-### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React
+### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -210,97 +182,97 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 
-### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue
+### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [vuejs/vitepress](https://github.com/vuejs/vitepress)<br><sub>Vite and Vue powered static site generator</sub> | [fix: insert page title literally into titleTemplate](https://github.com/vuejs/vitepress/pull/5470) |
 | [vuejs/router](https://github.com/vuejs/router)<br><sub>The official router for Vue.js</sub> | [fix(unplugin): keep hex character codes in param segments regexp](https://github.com/vuejs/router/pull/2811) |
 
-### <a href="https://github.com/preactjs"><img src="https://github.com/preactjs.png?size=80" width="20" height="20" align="top" alt=""></a> Preact
+### <a href="https://github.com/preactjs"><img src="https://github.com/preactjs.png?size=80" width="20" height="20" align="top" alt=""></a> Preact <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [preactjs/preact](https://github.com/preactjs/preact)<br><sub>Fast 3kB React alternative with the same modern API</sub> | [fix(compat): map imageRendering to image-rendering](https://github.com/preactjs/preact/pull/5270) |
 
-### <a href="https://github.com/linkedin"><img src="https://github.com/linkedin.png?size=80" width="20" height="20" align="top" alt=""></a> LinkedIn
+### <a href="https://github.com/linkedin"><img src="https://github.com/linkedin.png?size=80" width="20" height="20" align="top" alt=""></a> LinkedIn <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)<br><sub>Efficient Triton kernels for LLM training</sub> | [fix(kto): sum chosen/rejected rewards per sample when chunk_size > 1](https://github.com/linkedin/Liger-Kernel/pull/1495) |
 
-### <a href="https://github.com/discord"><img src="https://github.com/discord.png?size=80" width="20" height="20" align="top" alt=""></a> Discord
+### <a href="https://github.com/discord"><img src="https://github.com/discord.png?size=80" width="20" height="20" align="top" alt=""></a> Discord <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [mozilla/pontoon](https://github.com/mozilla/pontoon)<br><sub>Mozilla's localization platform</sub> | [Fix misaligned search highlights](https://github.com/mozilla/pontoon/pull/4561) |
 | | [Fix TM search highlights for special characters](https://github.com/mozilla/pontoon/pull/4562) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [uber/h3](https://github.com/uber/h3)<br><sub>Hexagonal geospatial indexing system</sub> | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
 | | [Fix gridDistance CLI printing distance in hexadecimal](https://github.com/uber/h3/pull/1244) |
 
-### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs
+### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br><sub>Utility first CSS framework</sub> | [Sort breakpoint variants with decimal values numerically](https://github.com/tailwindlabs/tailwindcss/pull/20512) |
 
-### <a href="https://github.com/ValveSoftware"><img src="https://github.com/ValveSoftware.png?size=80" width="20" height="20" align="top" alt=""></a> Valve
+### <a href="https://github.com/ValveSoftware"><img src="https://github.com/ValveSoftware.png?size=80" width="20" height="20" align="top" alt=""></a> Valve <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize)<br><sub>Vulkan pipeline state serialization</sub> | [Only build CLI-dependent tests when FOSSILIZE_CLI is enabled](https://github.com/ValveSoftware/Fossilize/pull/315) |
 | [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)<br><sub>Reliable and unreliable messages over UDP, used by Steam</sub> | [SetConfigValue: Don't crash when clearing connection user data](https://github.com/ValveSoftware/GameNetworkingSockets/pull/443) |
 
-### <a href="https://github.com/EpicGames"><img src="https://github.com/EpicGames.png?size=80" width="20" height="20" align="top" alt=""></a> Epic Games
+### <a href="https://github.com/EpicGames"><img src="https://github.com/EpicGames.png?size=80" width="20" height="20" align="top" alt=""></a> Epic Games <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)<br><sub>Native debugger and linker for Windows</sub> | [base: fix data4 byte order in try_guid_from_string](https://github.com/EpicGames/raddebugger/pull/956) |
 
-### <a href="https://github.com/excalidraw"><img src="https://github.com/excalidraw.png?size=80" width="20" height="20" align="top" alt=""></a> Excalidraw
+### <a href="https://github.com/excalidraw"><img src="https://github.com/excalidraw.png?size=80" width="20" height="20" align="top" alt=""></a> Excalidraw <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br><sub>Virtual whiteboard for sketching hand-drawn like diagrams</sub> | [fix(editor): embed YouTube live links](https://github.com/excalidraw/excalidraw/pull/12178) |
 
-### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/mrdoob.png?size=80" width="20" height="20" align="top" alt=""></a> three.js
+### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/mrdoob.png?size=80" width="20" height="20" align="top" alt=""></a> three.js <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D library</sub> | [Line3: Fix closest point for degenerate segments in `distanceSqToLine3()`](https://github.com/mrdoob/three.js/pull/34673) |
 | | [Triangle: Fix `closestPointToPoint()` returning `NaN` when `a` equals `b`](https://github.com/mrdoob/three.js/pull/34695) |
 
-### <a href="https://github.com/mui"><img src="https://github.com/mui.png?size=80" width="20" height="20" align="top" alt=""></a> MUI
+### <a href="https://github.com/mui"><img src="https://github.com/mui.png?size=80" width="20" height="20" align="top" alt=""></a> MUI <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [mui/material-ui](https://github.com/mui/material-ui)<br><sub>React components implementing Material Design</sub> | [\[slider\] Fix `disableSwap` when a neighbour thumb is at 0](https://github.com/mui/material-ui/pull/49234) |
 | [mui/mui-x](https://github.com/mui/mui-x)<br><sub>Advanced React components: data grid, pickers and charts</sub> | [\[pickers\] Fix `TimeClock` `PageUp` and `PageDown` at noon](https://github.com/mui/mui-x/pull/23741) |
 
-### <a href="https://github.com/twbs"><img src="https://github.com/twbs.png?size=80" width="20" height="20" align="top" alt=""></a> Bootstrap
+### <a href="https://github.com/twbs"><img src="https://github.com/twbs.png?size=80" width="20" height="20" align="top" alt=""></a> Bootstrap <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [twbs/bootstrap](https://github.com/twbs/bootstrap)<br><sub>HTML, CSS and JavaScript framework for responsive sites</sub> | [Fix Chips Shift+Click range selection losing its anchor](https://github.com/twbs/bootstrap/pull/42956) |
 
-### <a href="https://github.com/Shopify"><img src="https://github.com/Shopify.png?size=80" width="20" height="20" align="top" alt=""></a> Shopify
+### <a href="https://github.com/Shopify"><img src="https://github.com/Shopify.png?size=80" width="20" height="20" align="top" alt=""></a> Shopify <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Shopify/hydrogen](https://github.com/Shopify/hydrogen)<br><sub>Headless Shopify storefront framework</sub> | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
 
-### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple
+### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -309,33 +281,33 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 
-### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA
+### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)<br><sub>std::execution, the standard C++ framework for asynchronous and parallel programming</sub> | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
 | | [add missing `inplace_stop_callback::callback_type`](https://github.com/NVIDIA/stdexec/pull/2290) |
 
-### <a href="https://github.com/Samsung"><img src="https://github.com/Samsung.png?size=80" width="20" height="20" align="top" alt=""></a> Samsung
+### <a href="https://github.com/Samsung"><img src="https://github.com/Samsung.png?size=80" width="20" height="20" align="top" alt=""></a> Samsung <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Samsung/escargot](https://github.com/Samsung/escargot)<br><sub>Lightweight JavaScript engine</sub> | [Fix IteratorClose when the iterator's return method is null](https://github.com/Samsung/escargot/pull/1691) |
 
-### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix
+### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Netflix/spectator-py](https://github.com/Netflix/spectator-py)<br><sub>Python metrics library for Atlas</sub> | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
 | | [Leave stdout and stderr open when closing a FileWriter](https://github.com/Netflix/spectator-py/pull/94) |
 
-### <a href="https://github.com/bluesky-social"><img src="https://github.com/bluesky-social.png?size=80" width="20" height="20" align="top" alt=""></a> Bluesky
+### <a href="https://github.com/bluesky-social"><img src="https://github.com/bluesky-social.png?size=80" width="20" height="20" align="top" alt=""></a> Bluesky <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>7</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -347,13 +319,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
 
-### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry
+### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry)<br><sub>Python packaging and dependency management</sub> | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
 
-### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3
+### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3 <sub>1</sub>
 
 Community project from the UnJS ecosystem, the HTTP framework used by Nitro and Nuxt.
 
@@ -361,7 +333,7 @@ Community project from the UnJS ecosystem, the HTTP framework used by Nitro and 
 | --- | --- |
 | [h3js/h3](https://github.com/h3js/h3)<br><sub>Minimal HTTP framework built for performance and portability</sub> | [fix(static): set vary header when a single encoding is accepted](https://github.com/h3js/h3/pull/1556) |
 
-### <a href="https://github.com/brazilian-utils"><img src="https://github.com/brazilian-utils.png?size=80" width="20" height="20" align="top" alt=""></a> Brazilian Utils
+### <a href="https://github.com/brazilian-utils"><img src="https://github.com/brazilian-utils.png?size=80" width="20" height="20" align="top" alt=""></a> Brazilian Utils <sub>1</sub>
 
 Community project with utilities for Brazilian documents and formats.
 
@@ -369,7 +341,7 @@ Community project with utilities for Brazilian documents and formats.
 | --- | --- |
 | [brazilian-utils/javascript](https://github.com/brazilian-utils/javascript)<br><sub>Utilities for Brazilian formats in JavaScript</sub> | [fix(renavam): reject negative and fractional numbers](https://github.com/brazilian-utils/javascript/pull/592) |
 
-### <a href="https://github.com/dgadelha"><img src="https://github.com/dgadelha.png?size=80" width="20" height="20" align="top" alt=""></a> Portugol Webstudio
+### <a href="https://github.com/dgadelha"><img src="https://github.com/dgadelha.png?size=80" width="20" height="20" align="top" alt=""></a> Portugol Webstudio <sub>6</sub>
 
 Community project. These pull requests are written in Portuguese, following the project's conventions.
 
@@ -381,6 +353,8 @@ Community project. These pull requests are written in Portuguese, following the 
 | | [Truncar o real passado para um parâmetro inteiro das bibliotecas](https://github.com/dgadelha/Portugol-Webstudio/pull/449) |
 | | [Mostrar o estouro de pilha da recursão sem fim como no Portugol Studio](https://github.com/dgadelha/Portugol-Webstudio/pull/452) |
 | | [Recusar a barra invertida sozinha numa cadeia](https://github.com/dgadelha/Portugol-Webstudio/pull/451) |
+
+</details>
 
 ## Featured project
 
