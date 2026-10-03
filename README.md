@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/cac0e9d2cdf04daa851eac725bbcfa4061288e9e/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/cac0e9d2cdf04daa851eac725bbcfa4061288e9e/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/218967af4bffd8df857806614d5015aae047f39f/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/218967af4bffd8df857806614d5015aae047f39f/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,8 +11,8 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-99-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="99 merged pull requests"></a>
-<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-41-8250df?style=flat-square&labelColor=30363d" alt="41 organizations"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-102-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="102 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-42-8250df?style=flat-square&labelColor=30363d" alt="42 organizations"></a>
 
 ## Open source contributions
 
@@ -39,7 +39,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>99 merged pull requests in 41 organizations and community projects</b></summary>
+<summary><b>102 merged pull requests in 42 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>25</sub>
 
@@ -89,11 +89,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | [microsoft/vscode-python-environments](https://github.com/microsoft/vscode-python-environments)<br><sub>Python environments and packages in VS Code</sub> | [fix: expand ~ in python.venvFolders entries](https://github.com/microsoft/vscode-python-environments/pull/1828) |
 | | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
 
-### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>2</sub>
+### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)<br><sub>pandas on AWS: S3, Athena, Redshift and databases</sub> | [fix(mysql): put UNSIGNED after the type for unsigned integer columns](https://github.com/aws/aws-sdk-pandas/pull/3492) |
+| | [fix: keep full precision when formatting float SQL parameters](https://github.com/aws/aws-sdk-pandas/pull/3493) |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)<br><sub>Powertools for AWS Lambda (Python)</sub> | [fix(event_handler): emit Max-Age=0 for cookies with max_age=0](https://github.com/aws-powertools/powertools-lambda-python/pull/8488) |
 
 ### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens <sub>1</sub>
@@ -114,6 +115,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | Repository | Pull request |
 | --- | --- |
 | [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool)<br><sub>Finds known vulnerabilities in binaries and SBOMs</sub> | [fix: detect Ruby gems with platform or four segment versions](https://github.com/ossf/cve-bin-tool/pull/5922) |
+
+### <a href="https://github.com/finos"><img src="https://github.com/finos.png?size=80" width="20" height="20" align="top" alt=""></a> FINOS <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [finos/git-proxy](https://github.com/finos/git-proxy)<br><sub>Push protections and policies on top of Git</sub> | [fix: avoid duplicate repo permission grants in the mongo sink](https://github.com/finos/git-proxy/pull/1747) |
 
 ### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>3</sub>
 
@@ -168,11 +175,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 
-### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>1</sub>
+### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
+| [facebook/prophet](https://github.com/facebook/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/facebook/prophet/pull/2751) |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>3</sub>
 
