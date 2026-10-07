@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/44b76e7382b89e86430f661f584df326d3c0441c/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/44b76e7382b89e86430f661f584df326d3c0441c/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/d4fbddaeaf31cc2d630af98064f454966c442f7c/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/d4fbddaeaf31cc2d630af98064f454966c442f7c/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,36 +11,38 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-103-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="103 merged pull requests"></a>
-<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-42-8250df?style=flat-square&labelColor=30363d" alt="42 organizations"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-118-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="118 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-46-8250df?style=flat-square&labelColor=30363d" alt="46 organizations"></a>
 
 <div align="center">
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 25 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 27 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apuppeteer&type=pullrequests"><img src="https://github.com/puppeteer.png?size=80" width="44" height="44" alt="Puppeteer" title="Puppeteer: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 6 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 9 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asalesforce&type=pullrequests"><img src="https://github.com/salesforce.png?size=80" width="44" height="44" alt="Salesforce" title="Salesforce: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asalesforce&type=pullrequests"><img src="https://github.com/salesforce.png?size=80" width="44" height="44" alt="Salesforce" title="Salesforce: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aauth0&type=pullrequests"><img src="https://github.com/auth0.png?size=80" width="44" height="44" alt="Auth0" title="Auth0: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aslackapi&type=pullrequests"><img src="https://github.com/slackapi.png?size=80" width="44" height="44" alt="Slack" title="Slack: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ATencent&type=pullrequests"><img src="https://github.com/Tencent.png?size=80" width="44" height="44" alt="Tencent" title="Tencent: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANervJS&type=pullrequests"><img src="https://github.com/NervJS.png?size=80" width="44" height="44" alt="JD.com Taro" title="JD.com Taro: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adidi&type=pullrequests"><img src="https://github.com/didi.png?size=80" width="44" height="44" alt="DiDi" title="DiDi: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 3 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 4 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEsri&type=pullrequests"><img src="https://github.com/Esri.png?size=80" width="44" height="44" alt="Esri" title="Esri: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aossf&type=pullrequests"><img src="https://github.com/ossf.png?size=80" width="44" height="44" alt="OpenSSF" title="OpenSSF: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afinos&type=pullrequests"><img src="https://github.com/finos.png?size=80" width="44" height="44" alt="FINOS" title="FINOS: 1 merged pull request"></a>&nbsp;
@@ -52,11 +54,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 4 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 3 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AJetBrains&type=pullrequests"><img src="https://github.com/JetBrains.png?size=80" width="44" height="44" alt="JetBrains" title="JetBrains: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 7 merged pull requests"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 8 merged pull requests"></a>
 
 </div>
 
@@ -85,9 +88,9 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>103 merged pull requests in 42 organizations and community projects</b></summary>
+<summary><b>118 merged pull requests in 46 organizations and community projects</b></summary>
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>25</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -102,6 +105,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | | [fix(py): don't drop trailing text with an ampersand](https://github.com/google/budoux/pull/1395) |
 | | [fix(js): don't insert separators next to whitespace](https://github.com/google/budoux/pull/1396) |
 | | [fix(js): don't split surrogate pairs](https://github.com/google/budoux/pull/1403) |
+| | [fix(java): don't split surrogate pairs](https://github.com/google/budoux/pull/1411) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
@@ -112,6 +116,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | | [Fix record offsets when parsing a list of PAC records](https://github.com/google/bumble/pull/993) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
+| | [Fix instrumentation parsing when the output is truncated mid-status-block](https://github.com/google/mobly/pull/1035) |
 | [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 | | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 | [google/model-viewer](https://github.com/google/model-viewer)<br><sub>Interactive 3D models on the web and in AR</sub> | [fix: don't access a missing arRenderer when syncing camera-target](https://github.com/google/model-viewer/pull/5195) |
@@ -124,7 +129,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>6</sub>
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>9</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -134,6 +139,15 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | [microsoft/debugpy](https://github.com/microsoft/debugpy)<br><sub>Debug Adapter Protocol implementation for Python</sub> | [Skip the value of an overridden DEBUGPY_EXTRA_ARGV switch](https://github.com/microsoft/debugpy/pull/2077) |
 | [microsoft/vscode-python-environments](https://github.com/microsoft/vscode-python-environments)<br><sub>Python environments and packages in VS Code</sub> | [fix: expand ~ in python.venvFolders entries](https://github.com/microsoft/vscode-python-environments/pull/1828) |
 | | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
+| [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)<br><sub>JavaScript debugger used in VS Code</sub> | [fix: avoid splitting surrogate pairs in trimEnd](https://github.com/microsoft/vscode-js-debug/pull/2423) |
+| [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
+| | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
+
+### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [JetBrains/Exposed](https://github.com/JetBrains/Exposed)<br><sub>Kotlin SQL framework</sub> | [fix: EXPOSED-909 Escape single quotes in locate() substring](https://github.com/JetBrains/Exposed/pull/2946) |
 
 ### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>3</sub>
 
@@ -148,6 +162,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | Repository | Pull request |
 | --- | --- |
 | [siemens/ix](https://github.com/siemens/ix)<br><sub>Siemens Industrial Experience design system</sub> | [fix(core): keep sign of negative numbers in convertToAbbreviationString](https://github.com/siemens/ix/pull/2850) |
+
+### <a href="https://github.com/Esri"><img src="https://github.com/Esri.png?size=80" width="20" height="20" align="top" alt=""></a> Esri <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system)<br><sub>Esri's Calcite design system</sub> | [fix(button): omit empty aria-label when label is not set](https://github.com/Esri/calcite-design-system/pull/15253) |
 
 ### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat <sub>2</sub>
 
@@ -168,6 +188,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | --- | --- |
 | [finos/git-proxy](https://github.com/finos/git-proxy)<br><sub>Push protections and policies on top of Git</sub> | [fix: avoid duplicate repo permission grants in the mongo sink](https://github.com/finos/git-proxy/pull/1747) |
 
+### <a href="https://github.com/auth0"><img src="https://github.com/auth0.png?size=80" width="20" height="20" align="top" alt=""></a> Auth0 <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0)<br><sub>Next.js SDK for signing in with Auth0</sub> | [fix: pass request cookies in startEnterpriseLogin to evict stale txn cookies](https://github.com/auth0/nextjs-auth0/pull/2868) |
+
 ### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>3</sub>
 
 | Repository | Pull request |
@@ -185,11 +211,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)<br><sub>Spectrum design system web components</sub> | [fix(overlay): remove nonexistent OverlayDialog export](https://github.com/adobe/spectrum-web-components/pull/6794)<br><sub>Commit merged via this maintainer PR, carried over from [#6790](https://github.com/adobe/spectrum-web-components/pull/6790)</sub> |
 | | [fix(menu): skip hidden menu items during keyboard navigation](https://github.com/adobe/spectrum-web-components/pull/6796)<br><sub>Commit merged via this maintainer PR, carried over from [#6789](https://github.com/adobe/spectrum-web-components/pull/6789)</sub> |
 
-### <a href="https://github.com/salesforce"><img src="https://github.com/salesforce.png?size=80" width="20" height="20" align="top" alt=""></a> Salesforce <sub>1</sub>
+### <a href="https://github.com/salesforce"><img src="https://github.com/salesforce.png?size=80" width="20" height="20" align="top" alt=""></a> Salesforce <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [salesforce/lwc](https://github.com/salesforce/lwc)<br><sub>Lightning Web Components framework</sub> | [fix(ssr-runtime): avoid duplicate classes in classList.replace()](https://github.com/salesforce/lwc/pull/5921) |
+| [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie)<br><sub>RFC 6265 cookies and CookieJar for Node.js</sub> | [fix: treat an infinite max-age as never expiring in expiryTime()](https://github.com/salesforce/tough-cookie/pull/644) |
 
 ### <a href="https://github.com/slackapi"><img src="https://github.com/slackapi.png?size=80" width="20" height="20" align="top" alt=""></a> Slack <sub>1</sub>
 
@@ -221,12 +248,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 
-### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>2</sub>
+### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
 | [facebook/prophet](https://github.com/facebook/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/facebook/prophet/pull/2751) |
+| | [fix: keep MAP parameter shapes when the history is constant](https://github.com/facebook/prophet/pull/2749) |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>3</sub>
 
@@ -249,11 +277,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [preactjs/preact](https://github.com/preactjs/preact)<br><sub>Fast 3kB React alternative with the same modern API</sub> | [fix(compat): map imageRendering to image-rendering](https://github.com/preactjs/preact/pull/5270) |
 
-### <a href="https://github.com/linkedin"><img src="https://github.com/linkedin.png?size=80" width="20" height="20" align="top" alt=""></a> LinkedIn <sub>1</sub>
+### <a href="https://github.com/linkedin"><img src="https://github.com/linkedin.png?size=80" width="20" height="20" align="top" alt=""></a> LinkedIn <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)<br><sub>Efficient Triton kernels for LLM training</sub> | [fix(kto): sum chosen/rejected rewards per sample when chunk_size > 1](https://github.com/linkedin/Liger-Kernel/pull/1495) |
+| | [fix(ppo): warn instead of raising when ref_per_token_logps and ref_input are both passed](https://github.com/linkedin/Liger-Kernel/pull/1506) |
 
 ### <a href="https://github.com/discord"><img src="https://github.com/discord.png?size=80" width="20" height="20" align="top" alt=""></a> Discord <sub>1</sub>
 
@@ -261,13 +290,14 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>3</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [mozilla/pontoon](https://github.com/mozilla/pontoon)<br><sub>Mozilla's localization platform</sub> | [Fix misaligned search highlights](https://github.com/mozilla/pontoon/pull/4561) |
 | | [Fix TM search highlights for special characters](https://github.com/mozilla/pontoon/pull/4562) |
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js)<br><sub>PDF reader in JavaScript, used by Firefox</sub> | [Keep the sign of negative numbers greater than -1 in `util.printf`](https://github.com/mozilla/pdf.js/pull/22017) |
+| [mozilla/rhino](https://github.com/mozilla/rhino)<br><sub>JavaScript engine written in Java</sub> | [Fix Symbol.keyFor() accepting Symbol wrapper objects](https://github.com/mozilla/rhino/pull/2509) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>2</sub>
 
@@ -336,12 +366,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 
-### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA <sub>2</sub>
+### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)<br><sub>std::execution, the standard C++ framework for asynchronous and parallel programming</sub> | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
 | | [add missing `inplace_stop_callback::callback_type`](https://github.com/NVIDIA/stdexec/pull/2290) |
+| | [fix(exec): let `exec::function` use a derived `memory_resource*` as frame allocator](https://github.com/NVIDIA/stdexec/pull/2301) |
 
 ### <a href="https://github.com/Samsung"><img src="https://github.com/Samsung.png?size=80" width="20" height="20" align="top" alt=""></a> Samsung <sub>1</sub>
 
@@ -362,13 +393,14 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>7</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>8</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br><sub>Build tool for web apps, powered by Rspack</sub> | [fix(core): avoid treating sibling dist paths as nested](https://github.com/web-infra-dev/rsbuild/pull/8544) |
 | | [fix(core): avoid printing 60.0s in build time logs](https://github.com/web-infra-dev/rsbuild/pull/8552) |
 | | [fix(core): avoid writing assets twice when writeToDisk is true](https://github.com/web-infra-dev/rsbuild/pull/8556) |
+| | [fix(server): decode request paths when completing HTML files](https://github.com/web-infra-dev/rsbuild/pull/8618) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
@@ -379,6 +411,14 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry)<br><sub>Python packaging and dependency management</sub> | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
+
+### <a href="https://github.com/patroni"><img src="https://github.com/patroni.png?size=80" width="20" height="20" align="top" alt=""></a> Patroni <sub>1</sub>
+
+Community project, started at Zalando, for PostgreSQL high availability.
+
+| Repository | Pull request |
+| --- | --- |
+| [patroni/patroni](https://github.com/patroni/patroni)<br><sub>High availability for PostgreSQL</sub> | [Fix --generate-config for PostgreSQL older than 19](https://github.com/patroni/patroni/pull/3734) |
 
 ### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3 <sub>1</sub>
 
