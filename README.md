@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/d4fbddaeaf31cc2d630af98064f454966c442f7c/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/d4fbddaeaf31cc2d630af98064f454966c442f7c/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/2811b3e806630edbe7592489b0efd00824237413/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/2811b3e806630edbe7592489b0efd00824237413/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,8 +11,8 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-118-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="118 merged pull requests"></a>
-<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-46-8250df?style=flat-square&labelColor=30363d" alt="46 organizations"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-121-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="121 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-47-8250df?style=flat-square&labelColor=30363d" alt="47 organizations"></a>
 
 <div align="center">
 
@@ -44,6 +44,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="44" height="44" alt="Siemens" title="Siemens: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEsri&type=pullrequests"><img src="https://github.com/Esri.png?size=80" width="44" height="44" alt="Esri" title="Esri: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aredhat-developer&type=pullrequests"><img src="https://github.com/redhat-developer.png?size=80" width="44" height="44" alt="Red Hat" title="Red Hat: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acarbon-design-system&type=pullrequests"><img src="https://github.com/carbon-design-system.png?size=80" width="44" height="44" alt="IBM" title="IBM: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aossf&type=pullrequests"><img src="https://github.com/ossf.png?size=80" width="44" height="44" alt="OpenSSF" title="OpenSSF: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afinos&type=pullrequests"><img src="https://github.com/finos.png?size=80" width="44" height="44" alt="FINOS" title="FINOS: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
@@ -53,13 +54,13 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 4 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 5 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AJetBrains&type=pullrequests"><img src="https://github.com/JetBrains.png?size=80" width="44" height="44" alt="JetBrains" title="JetBrains: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 8 merged pull requests"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 9 merged pull requests"></a>
 
 </div>
 
@@ -88,7 +89,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>118 merged pull requests in 46 organizations and community projects</b></summary>
+<summary><b>121 merged pull requests in 47 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -175,6 +176,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | --- | --- |
 | [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server)<br><sub>Language server for YAML files</sub> | [fix: resolve nested schema paths prefixed with a workspace folder name](https://github.com/redhat-developer/yaml-language-server/pull/1348) |
 | [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)<br><sub>YAML support for Visual Studio Code</sub> | [Fix auto indentation after a key with an anchor](https://github.com/redhat-developer/vscode-yaml/pull/1289) |
+
+### <a href="https://github.com/carbon-design-system"><img src="https://github.com/carbon-design-system.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon)<br><sub>IBM's Carbon design system</sub> | [fix(utilities/date-time-format): round future relative dates toward zero](https://github.com/carbon-design-system/carbon/pull/23568) |
 
 ### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF <sub>1</sub>
 
@@ -357,13 +364,14 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [Shopify/hydrogen](https://github.com/Shopify/hydrogen)<br><sub>Headless Shopify storefront framework</sub> | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
 
-### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>4</sub>
+### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [apple/embedding-atlas](https://github.com/apple/embedding-atlas)<br><sub>Interactive embedding visualization tool</sub> | [fix(backend): read .ndjson files as newline-delimited JSON](https://github.com/apple/embedding-atlas/pull/264) |
 | | [fix(viewer): use per-value timezone offset when inferring time formats](https://github.com/apple/embedding-atlas/pull/267) |
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
+| | [fix(cache): overwrite existing cache files on Windows](https://github.com/apple/embedding-atlas/pull/273) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 
 ### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA <sub>3</sub>
@@ -393,7 +401,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>8</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>9</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -405,6 +413,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
+| [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest)<br><sub>Testing framework powered by Rspack</sub> | [fix(core): format `%d`, `%i` and `%f` in `each` names like `util.format`](https://github.com/web-infra-dev/rstest/pull/1922) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
