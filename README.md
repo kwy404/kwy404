@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/f1db3dcfe00f1aff7afb22d9cd71fd3d9a7ba1b6/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/f1db3dcfe00f1aff7afb22d9cd71fd3d9a7ba1b6/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/7461967f3b71c9e1a698b8c9064222f54b1996ad/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/7461967f3b71c9e1a698b8c9064222f54b1996ad/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-122-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="122 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-123-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="123 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-47-8250df?style=flat-square&labelColor=30363d" alt="47 organizations"></a>
 
 <div align="center">
@@ -37,7 +37,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amozilla&type=pullrequests"><img src="https://github.com/mozilla.png?size=80" width="44" height="44" alt="Mozilla" title="Mozilla: 4 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="44" height="44" alt="Uber" title="Uber: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="44" height="44" alt="Tailwind Labs" title="Tailwind Labs: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="44" height="44" alt="Valve" title="Valve: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEpicGames&type=pullrequests"><img src="https://github.com/EpicGames.png?size=80" width="44" height="44" alt="Epic Games" title="Epic Games: 1 merged pull request"></a>&nbsp;
@@ -89,7 +89,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>122 merged pull requests in 47 organizations and community projects</b></summary>
+<summary><b>123 merged pull requests in 47 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -306,12 +306,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js)<br><sub>PDF reader in JavaScript, used by Firefox</sub> | [Keep the sign of negative numbers greater than -1 in `util.printf`](https://github.com/mozilla/pdf.js/pull/22017) |
 | [mozilla/rhino](https://github.com/mozilla/rhino)<br><sub>JavaScript engine written in Java</sub> | [Fix Symbol.keyFor() accepting Symbol wrapper objects](https://github.com/mozilla/rhino/pull/2509) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>2</sub>
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [uber/h3](https://github.com/uber/h3)<br><sub>Hexagonal geospatial indexing system</sub> | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
 | | [Fix gridDistance CLI printing distance in hexadecimal](https://github.com/uber/h3/pull/1244) |
+| [uber/h3-py](https://github.com/uber/h3-py)<br><sub>Python bindings for the H3 geospatial index</sub> | [fix: validate LatLngPoly loop length after dropping the closing point](https://github.com/uber/h3-py/pull/505) |
 
 ### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs <sub>1</sub>
 
