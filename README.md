@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/2811b3e806630edbe7592489b0efd00824237413/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/2811b3e806630edbe7592489b0efd00824237413/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/f1db3dcfe00f1aff7afb22d9cd71fd3d9a7ba1b6/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/f1db3dcfe00f1aff7afb22d9cd71fd3d9a7ba1b6/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-121-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="121 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-122-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="122 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-47-8250df?style=flat-square&labelColor=30363d" alt="47 organizations"></a>
 
 <div align="center">
@@ -54,7 +54,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 5 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 6 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AJetBrains&type=pullrequests"><img src="https://github.com/JetBrains.png?size=80" width="44" height="44" alt="JetBrains" title="JetBrains: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
@@ -89,7 +89,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>121 merged pull requests in 47 organizations and community projects</b></summary>
+<summary><b>122 merged pull requests in 47 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -364,7 +364,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [Shopify/hydrogen](https://github.com/Shopify/hydrogen)<br><sub>Headless Shopify storefront framework</sub> | [Ignore query string when inferring SEO media type](https://github.com/Shopify/hydrogen/pull/4067) |
 
-### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>5</sub>
+### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>6</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -373,6 +373,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
 | | [fix(cache): overwrite existing cache files on Windows](https://github.com/apple/embedding-atlas/pull/273) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
+| [apple/swift-collections](https://github.com/apple/swift-collections)<br><sub>Commonly used data structures for Swift</sub> | [\[BitCollections\] Fix BitSet.Counted.isEqualSet(to:) rejecting sequences with duplicates](https://github.com/apple/swift-collections/pull/749) |
 
 ### <a href="https://github.com/NVIDIA"><img src="https://github.com/NVIDIA.png?size=80" width="20" height="20" align="top" alt=""></a> NVIDIA <sub>3</sub>
 
