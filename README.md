@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/7461967f3b71c9e1a698b8c9064222f54b1996ad/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/7461967f3b71c9e1a698b8c9064222f54b1996ad/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/444ceb73e78406fa41d05b26506ae14ea878818d/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/444ceb73e78406fa41d05b26506ae14ea878818d/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,8 +11,8 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-123-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="123 merged pull requests"></a>
-<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-47-8250df?style=flat-square&labelColor=30363d" alt="47 organizations"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-124-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="124 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-48-8250df?style=flat-square&labelColor=30363d" alt="48 organizations"></a>
 
 <div align="center">
 
@@ -56,6 +56,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 6 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 3 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aintel&type=pullrequests"><img src="https://github.com/intel.png?size=80" width="44" height="44" alt="Intel" title="Intel: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AJetBrains&type=pullrequests"><img src="https://github.com/JetBrains.png?size=80" width="44" height="44" alt="JetBrains" title="JetBrains: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
@@ -89,7 +90,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>123 merged pull requests in 47 organizations and community projects</b></summary>
+<summary><b>124 merged pull requests in 48 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -383,6 +384,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)<br><sub>std::execution, the standard C++ framework for asynchronous and parallel programming</sub> | [add missing deduction guide for `inplace_stop_callback`](https://github.com/NVIDIA/stdexec/pull/2289) |
 | | [add missing `inplace_stop_callback::callback_type`](https://github.com/NVIDIA/stdexec/pull/2290) |
 | | [fix(exec): let `exec::function` use a derived `memory_resource*` as frame allocator](https://github.com/NVIDIA/stdexec/pull/2301) |
+
+### <a href="https://github.com/intel"><img src="https://github.com/intel.png?size=80" width="20" height="20" align="top" alt=""></a> Intel <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [intel/auto-round](https://github.com/intel/auto-round)<br><sub>Weight quantization toolkit for large models</sub> | [fix: match layer names ending with a digit in ignore_layers](https://github.com/intel/auto-round/pull/2435) |
 
 ### <a href="https://github.com/Samsung"><img src="https://github.com/Samsung.png?size=80" width="20" height="20" align="top" alt=""></a> Samsung <sub>1</sub>
 
