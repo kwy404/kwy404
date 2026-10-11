@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/444ceb73e78406fa41d05b26506ae14ea878818d/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/444ceb73e78406fa41d05b26506ae14ea878818d/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/a087833f770f75f73b396c448a0fd6ea79d2ac9b/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/a087833f770f75f73b396c448a0fd6ea79d2ac9b/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-125-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="125 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-126-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="126 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-49-8250df?style=flat-square&labelColor=30363d" alt="49 organizations"></a>
 
 <div align="center">
@@ -49,7 +49,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afinos&type=pullrequests"><img src="https://github.com/finos.png?size=80" width="44" height="44" alt="FINOS" title="FINOS: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="44" height="44" alt="Python Poetry" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="44" height="44" alt="Excalidraw" title="Excalidraw: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+repo%3Amrdoob%2Fthree.js&type=pullrequests"><img src="https://github.com/mrdoob.png?size=80" width="44" height="44" alt="three.js" title="three.js: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amui&type=pullrequests"><img src="https://github.com/mui.png?size=80" width="44" height="44" alt="MUI" title="MUI: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
@@ -90,7 +90,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>125 merged pull requests in 49 organizations and community projects</b></summary>
+<summary><b>126 merged pull requests in 49 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -340,12 +340,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br><sub>Virtual whiteboard for sketching hand-drawn like diagrams</sub> | [fix(editor): embed YouTube live links](https://github.com/excalidraw/excalidraw/pull/12178) |
 
-### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/mrdoob.png?size=80" width="20" height="20" align="top" alt=""></a> three.js <sub>2</sub>
+### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/mrdoob.png?size=80" width="20" height="20" align="top" alt=""></a> three.js <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [mrdoob/three.js](https://github.com/mrdoob/three.js)<br><sub>JavaScript 3D library</sub> | [Line3: Fix closest point for degenerate segments in `distanceSqToLine3()`](https://github.com/mrdoob/three.js/pull/34673) |
 | | [Triangle: Fix `closestPointToPoint()` returning `NaN` when `a` equals `b`](https://github.com/mrdoob/three.js/pull/34695) |
+| | [KeyframeTrack: Fix `shift()` ignoring tangent data](https://github.com/mrdoob/three.js/pull/34951) |
 
 ### <a href="https://github.com/mui"><img src="https://github.com/mui.png?size=80" width="20" height="20" align="top" alt=""></a> MUI <sub>2</sub>
 
