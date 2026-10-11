@@ -11,8 +11,8 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-124-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="124 merged pull requests"></a>
-<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-48-8250df?style=flat-square&labelColor=30363d" alt="48 organizations"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-125-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="125 merged pull requests"></a>
+<a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-49-8250df?style=flat-square&labelColor=30363d" alt="49 organizations"></a>
 
 <div align="center">
 
@@ -90,7 +90,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>124 merged pull requests in 48 organizations and community projects</b></summary>
+<summary><b>125 merged pull requests in 49 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -437,6 +437,14 @@ Community project, started at Zalando, for PostgreSQL high availability.
 | Repository | Pull request |
 | --- | --- |
 | [patroni/patroni](https://github.com/patroni/patroni)<br><sub>High availability for PostgreSQL</sub> | [Fix --generate-config for PostgreSQL older than 19](https://github.com/patroni/patroni/pull/3734) |
+
+### <a href="https://github.com/lichess-bot-devs"><img src="https://github.com/lichess-bot-devs.png?size=80" width="20" height="20" align="top" alt=""></a> lichess-bot <sub>1</sub>
+
+Community project, the official bridge for running chess engines as Lichess bots.
+
+| Repository | Pull request |
+| --- | --- |
+| [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot)<br><sub>Bridge between Lichess bots and chess engines</sub> | [Fix crash on empty matchmaking opponent_rating_difference](https://github.com/lichess-bot-devs/lichess-bot/pull/1253) |
 
 ### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3 <sub>1</sub>
 
