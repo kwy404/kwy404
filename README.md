@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/d7bc67f23acf5845b468bbf9a29a46fac93a6930/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/d7bc67f23acf5845b468bbf9a29a46fac93a6930/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/b8615a559636afea5190bae7b72c236c438a53b7/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/b8615a559636afea5190bae7b72c236c438a53b7/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,14 +11,14 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-127-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="127 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-128-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="128 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-49-8250df?style=flat-square&labelColor=30363d" alt="49 organizations"></a>
 
 <div align="center">
 
 <h3>Contributor at</h3>
 
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 27 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 28 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apuppeteer&type=pullrequests"><img src="https://github.com/puppeteer.png?size=80" width="44" height="44" alt="Puppeteer" title="Puppeteer: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 9 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 3 merged pull requests"></a>&nbsp;
@@ -91,9 +91,9 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>127 merged pull requests in 49 organizations and community projects</b></summary>
+<summary><b>128 merged pull requests in 49 organizations and community projects</b></summary>
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>28</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -120,6 +120,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
 | | [Fix instrumentation parsing when the output is truncated mid-status-block](https://github.com/google/mobly/pull/1035) |
+| | [Fix UnboundLocalError when an optional AndroidDevice fails to initialize](https://github.com/google/mobly/pull/1069) |
 | [google/sentencepiece](https://github.com/google/sentencepiece)<br><sub>Unsupervised text tokenizer for neural text processing</sub> | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 | | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 | [google/model-viewer](https://github.com/google/model-viewer)<br><sub>Interactive 3D models on the web and in AR</sub> | [fix: don't access a missing arRenderer when syncing camera-target](https://github.com/google/model-viewer/pull/5195) |
