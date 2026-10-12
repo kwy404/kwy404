@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/b6e3ac9d0292119ea859bcb0340a1b09ed0e5dc0/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/b6e3ac9d0292119ea859bcb0340a1b09ed0e5dc0/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/bd3d2ad9f613b885a242cfb9cbe3c7df9b00886a/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/bd3d2ad9f613b885a242cfb9cbe3c7df9b00886a/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-129-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="129 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-130-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="130 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-50-8250df?style=flat-square&labelColor=30363d" alt="50 organizations"></a>
 
 <div align="center">
@@ -21,7 +21,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agoogle&type=pullrequests"><img src="https://github.com/google.png?size=80" width="44" height="44" alt="Google" title="Google: 28 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apuppeteer&type=pullrequests"><img src="https://github.com/puppeteer.png?size=80" width="44" height="44" alt="Puppeteer" title="Puppeteer: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Amicrosoft&type=pullrequests"><img src="https://github.com/microsoft.png?size=80" width="44" height="44" alt="Microsoft" title="Microsoft: 9 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agithub&type=pullrequests"><img src="https://github.com/github.png?size=80" width="44" height="44" alt="GitHub" title="GitHub: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agithub&type=pullrequests"><img src="https://github.com/github.png?size=80" width="44" height="44" alt="GitHub" title="GitHub: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aaws+org%3Aaws-powertools&type=pullrequests"><img src="https://github.com/aws.png?size=80" width="44" height="44" alt="Amazon" title="Amazon: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acapitalone&type=pullrequests"><img src="https://github.com/capitalone.png?size=80" width="44" height="44" alt="Capital One" title="Capital One: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+mentions%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="44" height="44" alt="Adobe" title="Adobe: 2 merged pull requests, carried by a maintainer"></a>&nbsp;
@@ -92,7 +92,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>129 merged pull requests in 50 organizations and community projects</b></summary>
+<summary><b>130 merged pull requests in 50 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>28</sub>
 
@@ -148,11 +148,12 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
 | | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
 
-### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>1</sub>
+### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [github/relative-time-element](https://github.com/github/relative-time-element)<br><sub>Web component that formats dates as relative time</sub> | [Fix year check to use the display time zone instead of UTC](https://github.com/github/relative-time-element/pull/384) |
+| [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element)<br><sub>Markdown formatting buttons for text inputs</sub> | [fix: avoid applying data-md-button styles twice after the toolbar is moved](https://github.com/github/markdown-toolbar-element/pull/110) |
 
 ### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>1</sub>
 
