@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/a087833f770f75f73b396c448a0fd6ea79d2ac9b/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/a087833f770f75f73b396c448a0fd6ea79d2ac9b/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/d7bc67f23acf5845b468bbf9a29a46fac93a6930/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/d7bc67f23acf5845b468bbf9a29a46fac93a6930/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-126-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="126 merged pull requests"></a>
+<a href="#open-source-contributions"><img src="https://img.shields.io/badge/merged%20pull%20requests-127-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="127 merged pull requests"></a>
 <a href="#all-merged-pull-requests"><img src="https://img.shields.io/badge/organizations-49-8250df?style=flat-square&labelColor=30363d" alt="49 organizations"></a>
 
 <div align="center">
@@ -32,7 +32,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adidi&type=pullrequests"><img src="https://github.com/didi.png?size=80" width="44" height="44" alt="DiDi" title="DiDi: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afacebook&type=pullrequests"><img src="https://github.com/facebook.png?size=80" width="44" height="44" alt="Meta" title="Meta: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Areact&type=pullrequests"><img src="https://github.com/react.png?size=80" width="44" height="44" alt="React" title="React: 3 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 2 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Avuejs&type=pullrequests"><img src="https://github.com/vuejs.png?size=80" width="44" height="44" alt="Vue" title="Vue: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apreactjs&type=pullrequests"><img src="https://github.com/preactjs.png?size=80" width="44" height="44" alt="Preact" title="Preact: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="44" height="44" alt="LinkedIn" title="LinkedIn: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="44" height="44" alt="Discord" title="Discord: 1 merged pull request"></a>&nbsp;
@@ -77,6 +77,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 | [mui/material-ui](https://github.com/mui/material-ui) | 99k | [\[slider\] Fix `disableSwap` when a neighbour thumb is at 0](https://github.com/mui/material-ui/pull/49234) |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 98k | [Sort breakpoint variants with decimal values numerically](https://github.com/tailwindlabs/tailwindcss/pull/20512) |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 96k | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
+| [vuejs/core](https://github.com/vuejs/core) | 54k | [fix(compat): expose _setupProxy for Vue 2.7 compiled script setup](https://github.com/vuejs/core/pull/15618) |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry) | 34k | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose) | 27k | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 | [facebook/lexical](https://github.com/facebook/lexical) | 24k | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241) |
@@ -90,7 +91,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 ### All merged pull requests
 
 <details>
-<summary><b>126 merged pull requests in 49 organizations and community projects</b></summary>
+<summary><b>127 merged pull requests in 49 organizations and community projects</b></summary>
 
 ### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>27</sub>
 
@@ -272,12 +273,13 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 
-### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue <sub>2</sub>
+### <a href="https://github.com/vuejs"><img src="https://github.com/vuejs.png?size=80" width="20" height="20" align="top" alt=""></a> Vue <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [vuejs/vitepress](https://github.com/vuejs/vitepress)<br><sub>Vite and Vue powered static site generator</sub> | [fix: insert page title literally into titleTemplate](https://github.com/vuejs/vitepress/pull/5470) |
 | [vuejs/router](https://github.com/vuejs/router)<br><sub>The official router for Vue.js</sub> | [fix(unplugin): keep hex character codes in param segments regexp](https://github.com/vuejs/router/pull/2811) |
+| [vuejs/core](https://github.com/vuejs/core)<br><sub>The core of Vue.js</sub> | [fix(compat): expose _setupProxy for Vue 2.7 compiled script setup (fix #11164)](https://github.com/vuejs/core/pull/15618) |
 
 ### <a href="https://github.com/preactjs"><img src="https://github.com/preactjs.png?size=80" width="20" height="20" align="top" alt=""></a> Preact <sub>1</sub>
 
