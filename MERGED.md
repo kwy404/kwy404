@@ -1,6 +1,6 @@
 # All merged pull requests
 
-137 merged pull requests in 50 organizations and community projects, grouped by organization.
+138 merged pull requests in 50 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -177,7 +177,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 
-### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>4</sub>
+### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -185,6 +185,7 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | [facebook/prophet](https://github.com/facebook/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/facebook/prophet/pull/2751) |
 | | [fix: keep MAP parameter shapes when the history is constant](https://github.com/facebook/prophet/pull/2749) |
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/facebook/prophet/pull/2753) |
+| [facebook/hyperion](https://github.com/facebook/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/facebook/hyperion/pull/305) |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>4</sub>
 
