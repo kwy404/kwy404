@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/3fd87c3c4609aafe757f0088cab884230a52034d/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/3fd87c3c4609aafe757f0088cab884230a52034d/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/30bf75f7dc3bf5cb884a8214bfc341b1702a7f5a/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/30bf75f7dc3bf5cb884a8214bfc341b1702a7f5a/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,8 +11,8 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/merged%20pull%20requests-138-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="138 merged pull requests"></a>
-<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/organizations-50-8250df?style=flat-square&labelColor=30363d" alt="50 organizations"></a>
+<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/merged%20pull%20requests-139-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="139 merged pull requests"></a>
+<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/organizations-51-8250df?style=flat-square&labelColor=30363d" alt="51 organizations"></a>
 
 <div align="center">
 
@@ -55,6 +55,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atwbs&type=pullrequests"><img src="https://github.com/twbs.png?size=80" width="44" height="44" alt="Bootstrap" title="Bootstrap: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AAutomattic&type=pullrequests"><img src="https://github.com/Automattic.png?size=80" width="44" height="44" alt="Automattic" title="Automattic: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AShopify&type=pullrequests"><img src="https://github.com/Shopify.png?size=80" width="44" height="44" alt="Shopify" title="Shopify: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aremix-run&type=pullrequests"><img src="https://github.com/remix-run.png?size=80" width="44" height="44" alt="Remix" title="Remix: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aapple&type=pullrequests"><img src="https://github.com/apple.png?size=80" width="44" height="44" alt="Apple" title="Apple: 7 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANVIDIA&type=pullrequests"><img src="https://github.com/NVIDIA.png?size=80" width="44" height="44" alt="NVIDIA" title="NVIDIA: 3 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aintel&type=pullrequests"><img src="https://github.com/intel.png?size=80" width="44" height="44" alt="Intel" title="Intel: 1 merged pull request"></a>&nbsp;
