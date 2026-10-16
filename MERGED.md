@@ -1,6 +1,6 @@
 # All merged pull requests
 
-139 merged pull requests in 51 organizations and community projects, grouped by organization.
+142 merged pull requests in 52 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -44,7 +44,7 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>10</sub>
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>11</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -58,6 +58,7 @@ Back to the [profile](https://github.com/kwy404).
 | [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)<br><sub>JavaScript debugger used in VS Code</sub> | [fix: avoid splitting surrogate pairs in trimEnd](https://github.com/microsoft/vscode-js-debug/pull/2423) |
 | [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
 | | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
+| [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br><sub>ESLint extension for VS Code</sub> | [Fix workingDirectories patterns dropping text before a wildcard](https://github.com/microsoft/vscode-eslint/pull/2236) |
 
 ### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>2</sub>
 
@@ -131,14 +132,15 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix: compare string lists in the pandas array comparator](https://github.com/capitalone/datacompy/pull/573) |
 | | [fix(polars): match duplicate rows when the first column has nulls](https://github.com/capitalone/datacompy/pull/575) |
 
-### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe <sub>2</sub>
+### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe <sub>3</sub>
 
-Both fixes were carried into maintainer pull requests so CI could run with repository secrets, and the merged commits credit me as co-author.
+The two Spectrum fixes were carried into maintainer pull requests so CI could run with repository secrets, and the merged commits credit me as co-author. The himl fix was merged directly.
 
 | Repository | Pull request |
 | --- | --- |
 | [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components)<br><sub>Spectrum design system web components</sub> | [fix(overlay): remove nonexistent OverlayDialog export](https://github.com/adobe/spectrum-web-components/pull/6794)<br><sub>Commit merged via this maintainer PR, carried over from [#6790](https://github.com/adobe/spectrum-web-components/pull/6790)</sub> |
 | | [fix(menu): skip hidden menu items during keyboard navigation](https://github.com/adobe/spectrum-web-components/pull/6796)<br><sub>Commit merged via this maintainer PR, carried over from [#6789](https://github.com/adobe/spectrum-web-components/pull/6789)</sub> |
+| [adobe/himl](https://github.com/adobe/himl)<br><sub>Hierarchical YAML configuration for Python</sub> | [fix: do not configure root logger on import](https://github.com/adobe/himl/pull/227) |
 
 ### <a href="https://github.com/salesforce"><img src="https://github.com/salesforce.png?size=80" width="20" height="20" align="top" alt=""></a> Salesforce <sub>2</sub>
 
@@ -299,6 +301,12 @@ Both fixes were carried into maintainer pull requests so CI could run with repos
 | Repository | Pull request |
 | --- | --- |
 | [remix-run/react-router](https://github.com/remix-run/react-router)<br><sub>Declarative routing for React</sub> | [fix(express): keep the port for IPv6 hosts](https://github.com/remix-run/react-router/pull/15559) |
+
+### <a href="https://github.com/strapi"><img src="https://github.com/strapi.png?size=80" width="20" height="20" align="top" alt=""></a> Strapi <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [strapi/strapi](https://github.com/strapi/strapi)<br><sub>Open source headless CMS</sub> | [fix(email-nodemailer): decodeRfc2047 ignores the charset of encoded words](https://github.com/strapi/strapi/pull/27822) |
 
 ### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>7</sub>
 
