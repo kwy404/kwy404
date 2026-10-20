@@ -1,6 +1,6 @@
 # All merged pull requests
 
-142 merged pull requests in 52 organizations and community projects, grouped by organization.
+144 merged pull requests in 53 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -235,13 +235,14 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [mozilla/rhino](https://github.com/mozilla/rhino)<br><sub>JavaScript engine written in Java</sub> | [Fix Symbol.keyFor() accepting Symbol wrapper objects](https://github.com/mozilla/rhino/pull/2509) |
 | | [Fix Function.prototype.toString() dropping the name of object literal methods](https://github.com/mozilla/rhino/pull/2515) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>3</sub>
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [uber/h3](https://github.com/uber/h3)<br><sub>Hexagonal geospatial indexing system</sub> | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
 | | [Fix gridDistance CLI printing distance in hexadecimal](https://github.com/uber/h3/pull/1244) |
 | [uber/h3-py](https://github.com/uber/h3-py)<br><sub>Python bindings for the H3 geospatial index</sub> | [fix: validate LatLngPoly loop length after dropping the closing point](https://github.com/uber/h3-py/pull/505) |
+| | [fix: return False from `is_valid_*` for indexes outside the uint64 range](https://github.com/uber/h3-py/pull/507) |
 
 ### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs <sub>2</sub>
 
@@ -307,6 +308,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | Repository | Pull request |
 | --- | --- |
 | [strapi/strapi](https://github.com/strapi/strapi)<br><sub>Open source headless CMS</sub> | [fix(email-nodemailer): decodeRfc2047 ignores the charset of encoded words](https://github.com/strapi/strapi/pull/27822) |
+
+### <a href="https://github.com/trpc"><img src="https://github.com/trpc.png?size=80" width="20" height="20" align="top" alt=""></a> tRPC <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [trpc/trpc](https://github.com/trpc/trpc)<br><sub>End to end typesafe APIs for TypeScript</sub> | [fix(server): match content-type header case-insensitively](https://github.com/trpc/trpc/pull/7614) |
 
 ### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>7</sub>
 
