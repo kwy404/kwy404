@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/4477b8808b119f4b0e4145b6b9eec6cb17c22822/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/4477b8808b119f4b0e4145b6b9eec6cb17c22822/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/8d28935a9eb1debac8ad35490d2974ddebc40dc3/dark.svg"><img alt="Alexandre Kohler, Software Engineer and Open Source Contributor" src="https://raw.githubusercontent.com/kwy404/kwy404/8d28935a9eb1debac8ad35490d2974ddebc40dc3/light.svg" width="100%"></picture>
 
 **Senior Full Stack Software Engineer · Open Source Contributor · Brazil**
 
@@ -11,7 +11,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 [![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:thekaway404@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-30363d?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/n3ss3n.tl/)
 
-<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/merged%20pull%20requests-144-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="144 merged pull requests"></a>
+<a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/merged%20pull%20requests-145-8250df?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="145 merged pull requests"></a>
 <a href="https://github.com/kwy404/kwy404/blob/main/MERGED.md"><img src="https://img.shields.io/badge/organizations-53-8250df?style=flat-square&labelColor=30363d" alt="53 organizations"></a>
 
 <div align="center">
@@ -65,7 +65,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="44" height="44" alt="Samsung" title="Samsung: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="44" height="44" alt="Netflix" title="Netflix: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Abluesky-social&type=pullrequests"><img src="https://github.com/bluesky-social.png?size=80" width="44" height="44" alt="Bluesky" title="Bluesky: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 9 merged pull requests"></a>
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aweb-infra-dev+org%3Abytedance&type=pullrequests"><img src="https://github.com/bytedance.png?size=80" width="44" height="44" alt="ByteDance" title="ByteDance: 10 merged pull requests"></a>
 
 </div>
 

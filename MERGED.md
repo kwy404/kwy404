@@ -1,6 +1,6 @@
 # All merged pull requests
 
-144 merged pull requests in 53 organizations and community projects, grouped by organization.
+145 merged pull requests in 53 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -361,7 +361,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>9</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>10</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -374,6 +374,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
 | [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest)<br><sub>Testing framework powered by Rspack</sub> | [fix(core): format `%d`, `%i` and `%f` in `each` names like `util.format`](https://github.com/web-infra-dev/rstest/pull/1922) |
+| [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)<br><sub>Vision driven UI automation for web and mobile</sub> | [fix(core): keep trailing parenthesis in auto-glm finish message](https://github.com/web-infra-dev/midscene/pull/3190) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
