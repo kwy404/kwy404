@@ -1,6 +1,6 @@
 # All merged pull requests
 
-145 merged pull requests in 53 organizations and community projects, grouped by organization.
+146 merged pull requests in 53 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -73,12 +73,13 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [JetBrains/Exposed](https://github.com/JetBrains/Exposed)<br><sub>Kotlin SQL framework</sub> | [fix: EXPOSED-909 Escape single quotes in locate() substring](https://github.com/JetBrains/Exposed/pull/2946) |
 
-### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>3</sub>
+### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)<br><sub>pandas on AWS: S3, Athena, Redshift and databases</sub> | [fix(mysql): put UNSIGNED after the type for unsigned integer columns](https://github.com/aws/aws-sdk-pandas/pull/3492) |
 | | [fix: keep full precision when formatting float SQL parameters](https://github.com/aws/aws-sdk-pandas/pull/3493) |
+| | [fix: hash non-ASCII strings as signed bytes when bucketing](https://github.com/aws/aws-sdk-pandas/pull/3505) |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)<br><sub>Powertools for AWS Lambda (Python)</sub> | [fix(event_handler): emit Max-Age=0 for cookies with max_age=0](https://github.com/aws-powertools/powertools-lambda-python/pull/8488) |
 
 ### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens <sub>1</sub>
