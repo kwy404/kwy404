@@ -1,10 +1,10 @@
 # All merged pull requests
 
-146 merged pull requests in 53 organizations and community projects, grouped by organization.
+151 merged pull requests in 53 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>28</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>30</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -20,6 +20,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix(js): don't insert separators next to whitespace](https://github.com/google/budoux/pull/1396) |
 | | [fix(js): don't split surrogate pairs](https://github.com/google/budoux/pull/1403) |
 | | [fix(java): don't split surrogate pairs](https://github.com/google/budoux/pull/1411) |
+| | [feat(py): don't insert separators where the source already has one](https://github.com/google/budoux/pull/1457) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
@@ -28,6 +29,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [Fix the preferred frame duration bits in BAP supported frame durations](https://github.com/google/bumble/pull/991) |
 | | [Use signed values for the AICS gain setting fields](https://github.com/google/bumble/pull/992) |
 | | [Fix record offsets when parsing a list of PAC records](https://github.com/google/bumble/pull/993) |
+| | [Fix HAS read presets requests failing after an out of range request](https://github.com/google/bumble/pull/1015) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
 | | [Fix instrumentation parsing when the output is truncated mid-status-block](https://github.com/google/mobly/pull/1035) |
@@ -226,7 +228,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>5</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>6</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -235,6 +237,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js)<br><sub>PDF reader in JavaScript, used by Firefox</sub> | [Keep the sign of negative numbers greater than -1 in `util.printf`](https://github.com/mozilla/pdf.js/pull/22017) |
 | [mozilla/rhino](https://github.com/mozilla/rhino)<br><sub>JavaScript engine written in Java</sub> | [Fix Symbol.keyFor() accepting Symbol wrapper objects](https://github.com/mozilla/rhino/pull/2509) |
 | | [Fix Function.prototype.toString() dropping the name of object literal methods](https://github.com/mozilla/rhino/pull/2515) |
+| | [Fix Object.fromEntries() storing array index keys as named properties](https://github.com/mozilla/rhino/pull/2524) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>4</sub>
 
@@ -349,12 +352,13 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [Samsung/escargot](https://github.com/Samsung/escargot)<br><sub>Lightweight JavaScript engine</sub> | [Fix IteratorClose when the iterator's return method is null](https://github.com/Samsung/escargot/pull/1691) |
 | | [Fix template literals accepting `\8` and `\9` escapes](https://github.com/Samsung/escargot/pull/1705) |
 
-### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix <sub>2</sub>
+### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Netflix/spectator-py](https://github.com/Netflix/spectator-py)<br><sub>Python metrics library for Atlas</sub> | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
 | | [Leave stdout and stderr open when closing a FileWriter](https://github.com/Netflix/spectator-py/pull/94) |
+| | [Flush the SocketWriter line buffer on close](https://github.com/Netflix/spectator-py/pull/95) |
 
 ### <a href="https://github.com/bluesky-social"><img src="https://github.com/bluesky-social.png?size=80" width="20" height="20" align="top" alt=""></a> Bluesky <sub>1</sub>
 
@@ -362,7 +366,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>10</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>11</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -370,6 +374,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(core): avoid printing 60.0s in build time logs](https://github.com/web-infra-dev/rsbuild/pull/8552) |
 | | [fix(core): avoid writing assets twice when writeToDisk is true](https://github.com/web-infra-dev/rsbuild/pull/8556) |
 | | [fix(server): decode request paths when completing HTML files](https://github.com/web-infra-dev/rsbuild/pull/8618) |
+| | [fix(server): print network URLs for the IPv6 wildcard host](https://github.com/web-infra-dev/rsbuild/pull/8724) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
