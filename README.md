@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/BANNER_SHA/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 161 merged pull requests in 54 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/BANNER_SHA/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/2e386c12dec1aeef94e233943d80e9c77205c168/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 161 merged pull requests in 54 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/2e386c12dec1aeef94e233943d80e9c77205c168/light.svg" width="100%"></picture>
 
 # Alexandre Kohler, Senior Full Stack Software Engineer
 
