@@ -1,10 +1,10 @@
 # All merged pull requests
 
-151 merged pull requests in 53 organizations and community projects, grouped by organization.
+161 merged pull requests in 54 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>30</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>32</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -38,6 +38,8 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix(python): accept out_type in DecodeIds and DecodePieces](https://github.com/google/sentencepiece/pull/1336) |
 | [google/model-viewer](https://github.com/google/model-viewer)<br><sub>Interactive 3D models on the web and in AR</sub> | [fix: don't access a missing arRenderer when syncing camera-target](https://github.com/google/model-viewer/pull/5195) |
 | | [fix: use the fallback value for non-finite angles in unit conversions](https://github.com/google/model-viewer/pull/5196) |
+| [google/wireit](https://github.com/google/wireit)<br><sub>Smarter npm scripts with caching and dependencies</sub> | [Log when an HTTP error disables GitHub Actions caching](https://github.com/google/wireit/pull/1517) |
+| | [Report an "env" array as a config error instead of crashing](https://github.com/google/wireit/pull/1518) |
 
 
 ### <a href="https://github.com/puppeteer"><img src="https://github.com/puppeteer.png?size=80" width="20" height="20" align="top" alt=""></a> Puppeteer <sub>1</sub>
@@ -46,7 +48,7 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>11</sub>
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>12</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -58,6 +60,7 @@ Back to the [profile](https://github.com/kwy404).
 | [microsoft/vscode-python-environments](https://github.com/microsoft/vscode-python-environments)<br><sub>Python environments and packages in VS Code</sub> | [fix: expand ~ in python.venvFolders entries](https://github.com/microsoft/vscode-python-environments/pull/1828) |
 | | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
 | [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)<br><sub>JavaScript debugger used in VS Code</sub> | [fix: avoid splitting surrogate pairs in trimEnd](https://github.com/microsoft/vscode-js-debug/pull/2423) |
+| | [fix: clamp PositionToOffset.convert on the line just past the end](https://github.com/microsoft/vscode-js-debug/pull/2434) |
 | [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
 | | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
 | [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br><sub>ESLint extension for VS Code</sub> | [Fix workingDirectories patterns dropping text before a wildcard](https://github.com/microsoft/vscode-eslint/pull/2236) |
@@ -75,13 +78,14 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [JetBrains/Exposed](https://github.com/JetBrains/Exposed)<br><sub>Kotlin SQL framework</sub> | [fix: EXPOSED-909 Escape single quotes in locate() substring](https://github.com/JetBrains/Exposed/pull/2946) |
 
-### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>4</sub>
+### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)<br><sub>pandas on AWS: S3, Athena, Redshift and databases</sub> | [fix(mysql): put UNSIGNED after the type for unsigned integer columns](https://github.com/aws/aws-sdk-pandas/pull/3492) |
 | | [fix: keep full precision when formatting float SQL parameters](https://github.com/aws/aws-sdk-pandas/pull/3493) |
 | | [fix: hash non-ASCII strings as signed bytes when bucketing](https://github.com/aws/aws-sdk-pandas/pull/3505) |
+| | [fix: map large_binary columns to the Athena binary type](https://github.com/aws/aws-sdk-pandas/pull/3526) |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)<br><sub>Powertools for AWS Lambda (Python)</sub> | [fix(event_handler): emit Max-Age=0 for cookies with max_age=0](https://github.com/aws-powertools/powertools-lambda-python/pull/8488) |
 
 ### <a href="https://github.com/siemens"><img src="https://github.com/siemens.png?size=80" width="20" height="20" align="top" alt=""></a> Siemens <sub>1</sub>
@@ -192,12 +196,13 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/facebook/prophet/pull/2753) |
 | [facebook/hyperion](https://github.com/facebook/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/facebook/hyperion/pull/305) |
 
-### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>4</sub>
+### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [react/metro](https://github.com/react/metro)<br><sub>JavaScript bundler for React Native</sub> | [Fix section offsets in generatedMappings() for indexed source maps](https://github.com/react/metro/pull/1976) |
 | | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
+| | [Fix empty file list in ambiguous module resolution errors](https://github.com/react/metro/pull/2102) |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 | | [Fix `Style::operator==` ignoring `boxSizing`](https://github.com/react/yoga/pull/2029) |
 
@@ -228,7 +233,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>6</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>7</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -238,6 +243,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [mozilla/rhino](https://github.com/mozilla/rhino)<br><sub>JavaScript engine written in Java</sub> | [Fix Symbol.keyFor() accepting Symbol wrapper objects](https://github.com/mozilla/rhino/pull/2509) |
 | | [Fix Function.prototype.toString() dropping the name of object literal methods](https://github.com/mozilla/rhino/pull/2515) |
 | | [Fix Object.fromEntries() storing array index keys as named properties](https://github.com/mozilla/rhino/pull/2524) |
+| | [Fix ArrayBuffer transfer methods using the species constructor](https://github.com/mozilla/rhino/pull/2526) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>4</sub>
 
@@ -319,7 +325,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [trpc/trpc](https://github.com/trpc/trpc)<br><sub>End to end typesafe APIs for TypeScript</sub> | [fix(server): match content-type header case-insensitively](https://github.com/trpc/trpc/pull/7614) |
 
-### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>7</sub>
+### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>8</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -327,6 +333,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(viewer): use per-value timezone offset when inferring time formats](https://github.com/apple/embedding-atlas/pull/267) |
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
 | | [fix(cache): overwrite existing cache files on Windows](https://github.com/apple/embedding-atlas/pull/273) |
+| | [fix(widget): support format="predicate" in selection()](https://github.com/apple/embedding-atlas/pull/288) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 | | [Fix lookaround regexes in `String.lastIndexOf` and `replaceLast`](https://github.com/apple/pkl/pull/1908) |
 | [apple/swift-collections](https://github.com/apple/swift-collections)<br><sub>Commonly used data structures for Swift</sub> | [\[BitCollections\] Fix BitSet.Counted.isEqualSet(to:) rejecting sequences with duplicates](https://github.com/apple/swift-collections/pull/749) |
@@ -366,7 +373,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>11</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>13</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -376,11 +383,19 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(server): decode request paths when completing HTML files](https://github.com/web-infra-dev/rsbuild/pull/8618) |
 | | [fix(server): print network URLs for the IPv6 wildcard host](https://github.com/web-infra-dev/rsbuild/pull/8724) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
+| | [fix(shims): insert CJS `import.meta.url` shim after directives](https://github.com/web-infra-dev/rslib/pull/1971) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
 | [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest)<br><sub>Testing framework powered by Rspack</sub> | [fix(core): format `%d`, `%i` and `%f` in `each` names like `util.format`](https://github.com/web-infra-dev/rstest/pull/1922) |
+| | [fix(core): only escape `:` and `,` in GitHub Actions annotation properties](https://github.com/web-infra-dev/rstest/pull/1985) |
 | [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)<br><sub>Vision driven UI automation for web and mobile</sub> | [fix(core): keep trailing parenthesis in auto-glm finish message](https://github.com/web-infra-dev/midscene/pull/3190) |
+
+### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [cloudflare/chanfana](https://github.com/cloudflare/chanfana)<br><sub>OpenAPI schema generator and validator for Hono and itty-router</sub> | [fix: use defaultOrderBy as the default order_by in list endpoints](https://github.com/cloudflare/chanfana/pull/358) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
