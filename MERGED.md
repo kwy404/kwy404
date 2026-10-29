@@ -1,6 +1,6 @@
 # All merged pull requests
 
-161 merged pull requests in 54 organizations and community projects, grouped by organization.
+170 merged pull requests in 54 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -72,11 +72,12 @@ Back to the [profile](https://github.com/kwy404).
 | [github/relative-time-element](https://github.com/github/relative-time-element)<br><sub>Web component that formats dates as relative time</sub> | [Fix year check to use the display time zone instead of UTC](https://github.com/github/relative-time-element/pull/384) |
 | [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element)<br><sub>Markdown formatting buttons for text inputs</sub> | [fix: avoid applying data-md-button styles twice after the toolbar is moved](https://github.com/github/markdown-toolbar-element/pull/110) |
 
-### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>1</sub>
+### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [JetBrains/Exposed](https://github.com/JetBrains/Exposed)<br><sub>Kotlin SQL framework</sub> | [fix: EXPOSED-909 Escape single quotes in locate() substring](https://github.com/JetBrains/Exposed/pull/2946) |
+| | [fix: LocalDateTimeColumnType misreads datetime values before Unix epoch](https://github.com/JetBrains/Exposed/pull/2969) |
 
 ### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=80" width="20" height="20" align="top" alt=""></a> Amazon Web Services <sub>5</sub>
 
@@ -196,13 +197,14 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/facebook/prophet/pull/2753) |
 | [facebook/hyperion](https://github.com/facebook/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/facebook/hyperion/pull/305) |
 
-### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>5</sub>
+### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>6</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [react/metro](https://github.com/react/metro)<br><sub>JavaScript bundler for React Native</sub> | [Fix section offsets in generatedMappings() for indexed source maps](https://github.com/react/metro/pull/1976) |
 | | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
 | | [Fix empty file list in ambiguous module resolution errors](https://github.com/react/metro/pull/2102) |
+| | [Apply `processModuleFilter` to inline source maps](https://github.com/react/metro/pull/2124) |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 | | [Fix `Style::operator==` ignoring `boxSizing`](https://github.com/react/yoga/pull/2029) |
 
@@ -373,7 +375,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>13</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>19</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -384,18 +386,25 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(server): print network URLs for the IPv6 wildcard host](https://github.com/web-infra-dev/rsbuild/pull/8724) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
 | | [fix(shims): insert CJS `import.meta.url` shim after directives](https://github.com/web-infra-dev/rslib/pull/1971) |
+| | [fix(dts): support `.mts` and `.cts` entries in bundle mode](https://github.com/web-infra-dev/rslib/pull/1976) |
+| | [fix(dts): respect RegExp externals in bundled declarations](https://github.com/web-infra-dev/rslib/pull/1977) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
 | [web-infra-dev/rstest](https://github.com/web-infra-dev/rstest)<br><sub>Testing framework powered by Rspack</sub> | [fix(core): format `%d`, `%i` and `%f` in `each` names like `util.format`](https://github.com/web-infra-dev/rstest/pull/1922) |
 | | [fix(core): only escape `:` and `,` in GitHub Actions annotation properties](https://github.com/web-infra-dev/rstest/pull/1985) |
+| | [fix(core): escape RegExp characters in repro `--testNamePattern`](https://github.com/web-infra-dev/rstest/pull/1993) |
+| | [fix(core): match negated `--project` names exactly](https://github.com/web-infra-dev/rstest/pull/1996) |
 | [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)<br><sub>Vision driven UI automation for web and mobile</sub> | [fix(core): keep trailing parenthesis in auto-glm finish message](https://github.com/web-infra-dev/midscene/pull/3190) |
+| [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js)<br><sub>Progressive web framework based on React</sub> | [fix(runtime-utils): keep "=" in cookie values in parseCookie](https://github.com/web-infra-dev/modern.js/pull/8936) |
+| [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)<br><sub>Build analyzer for Rspack and webpack</sub> | [fix(shared): escape resolver request when building file details](https://github.com/web-infra-dev/rsdoctor/pull/2046) |
 
-### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>1</sub>
+### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [cloudflare/chanfana](https://github.com/cloudflare/chanfana)<br><sub>OpenAPI schema generator and validator for Hono and itty-router</sub> | [fix: use defaultOrderBy as the default order_by in list endpoints](https://github.com/cloudflare/chanfana/pull/358) |
+| | [fix: accept requests that omit optional headers](https://github.com/cloudflare/chanfana/pull/371) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
