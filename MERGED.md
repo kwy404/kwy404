@@ -1,6 +1,6 @@
 # All merged pull requests
 
-171 merged pull requests in 55 organizations and community projects, grouped by organization.
+174 merged pull requests in 55 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -48,7 +48,7 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>12</sub>
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>13</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -64,13 +64,15 @@ Back to the [profile](https://github.com/kwy404).
 | [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
 | | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
 | [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br><sub>ESLint extension for VS Code</sub> | [Fix workingDirectories patterns dropping text before a wildcard](https://github.com/microsoft/vscode-eslint/pull/2236) |
+| [microsoft/rushstack](https://github.com/microsoft/rushstack)<br><sub>Monorepo tools from the Rush Stack community</sub> | [\[node-core-library\] Fix Text.truncateWithEllipsis() exceeding maximumLength](https://github.com/microsoft/rushstack/pull/6106) |
 
-### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>2</sub>
+### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [github/relative-time-element](https://github.com/github/relative-time-element)<br><sub>Web component that formats dates as relative time</sub> | [Fix year check to use the display time zone instead of UTC](https://github.com/github/relative-time-element/pull/384) |
 | [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element)<br><sub>Markdown formatting buttons for text inputs</sub> | [fix: avoid applying data-md-button styles twice after the toolbar is moved](https://github.com/github/markdown-toolbar-element/pull/110) |
+| [github/gitignore](https://github.com/github/gitignore)<br><sub>Collection of .gitignore templates</sub> | [Perl: move !Build/ after Build so the directory is not ignored](https://github.com/github/gitignore/pull/4920) |
 
 ### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>2</sub>
 
@@ -235,7 +237,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>7</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>8</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -246,6 +248,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix Function.prototype.toString() dropping the name of object literal methods](https://github.com/mozilla/rhino/pull/2515) |
 | | [Fix Object.fromEntries() storing array index keys as named properties](https://github.com/mozilla/rhino/pull/2524) |
 | | [Fix ArrayBuffer transfer methods using the species constructor](https://github.com/mozilla/rhino/pull/2526) |
+| | [Fix JSON.parse() and JSON.stringify() callbacks receiving numeric keys](https://github.com/mozilla/rhino/pull/2533) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>4</sub>
 
