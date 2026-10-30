@@ -108,7 +108,7 @@ Back to the [profile](https://github.com/kwy404).
 | [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server)<br><sub>Language server for YAML files</sub> | [fix: resolve nested schema paths prefixed with a workspace folder name](https://github.com/redhat-developer/yaml-language-server/pull/1348) |
 | [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)<br><sub>YAML support for Visual Studio Code</sub> | [Fix auto indentation after a key with an anchor](https://github.com/redhat-developer/vscode-yaml/pull/1289) |
 
-### <a href="https://github.com/carbon-design-system"><img src="https://github.com/carbon-design-system.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>1</sub>
+### <a href="https://github.com/carbon-design-system"><img src="https://github.com/IBM.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -187,7 +187,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
 
-### <a href="https://github.com/facebook"><img src="https://github.com/facebook.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>5</sub>
+### <a href="https://github.com/meta"><img src="https://github.com/meta.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -282,7 +282,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br><sub>Virtual whiteboard for sketching hand-drawn like diagrams</sub> | [fix(editor): embed YouTube live links](https://github.com/excalidraw/excalidraw/pull/12178) |
 
-### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/mrdoob.png?size=80" width="20" height="20" align="top" alt=""></a> three.js <sub>3</sub>
+### <a href="https://github.com/mrdoob/three.js"><img src="https://github.com/threejs.png?size=80" width="20" height="20" align="top" alt=""></a> three.js <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -375,7 +375,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [disney/meteor-base](https://github.com/disney/meteor-base)<br><sub>Base Docker image for Meteor apps</sub> | [fix: report failing tests in test.sh instead of exiting early](https://github.com/disney/meteor-base/pull/211) |
 
-### <a href="https://github.com/bluesky-social"><img src="https://github.com/bluesky-social.png?size=80" width="20" height="20" align="top" alt=""></a> Bluesky <sub>1</sub>
+### <a href="https://github.com/bluesky-social"><img src="https://raw.githubusercontent.com/bluesky-social/social-app/f2983134cbcb61746116f5f066a110882e3e5f86/assets/logo.png" width="20" height="20" align="top" alt=""></a> Bluesky <sub>1</sub>
 
 | Repository | Pull request |
 | --- | --- |
