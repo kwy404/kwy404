@@ -1,6 +1,6 @@
 # All merged pull requests
 
-170 merged pull requests in 54 organizations and community projects, grouped by organization.
+171 merged pull requests in 55 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -191,11 +191,11 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 
 | Repository | Pull request |
 | --- | --- |
-| [facebook/lexical](https://github.com/facebook/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/facebook/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
-| [facebook/prophet](https://github.com/facebook/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/facebook/prophet/pull/2751) |
-| | [fix: keep MAP parameter shapes when the history is constant](https://github.com/facebook/prophet/pull/2749) |
-| | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/facebook/prophet/pull/2753) |
-| [facebook/hyperion](https://github.com/facebook/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/facebook/hyperion/pull/305) |
+| [facebook/lexical](https://github.com/meta/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/meta/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
+| [facebook/prophet](https://github.com/meta/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/meta/prophet/pull/2751) |
+| | [fix: keep MAP parameter shapes when the history is constant](https://github.com/meta/prophet/pull/2749) |
+| | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/meta/prophet/pull/2753) |
+| [facebook/hyperion](https://github.com/meta/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/meta/hyperion/pull/305) |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>6</sub>
 
@@ -368,6 +368,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [Netflix/spectator-py](https://github.com/Netflix/spectator-py)<br><sub>Python metrics library for Atlas</sub> | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
 | | [Leave stdout and stderr open when closing a FileWriter](https://github.com/Netflix/spectator-py/pull/94) |
 | | [Flush the SocketWriter line buffer on close](https://github.com/Netflix/spectator-py/pull/95) |
+
+### <a href="https://github.com/disney"><img src="https://github.com/disney.png?size=80" width="20" height="20" align="top" alt=""></a> Disney <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [disney/meteor-base](https://github.com/disney/meteor-base)<br><sub>Base Docker image for Meteor apps</sub> | [fix: report failing tests in test.sh instead of exiting early](https://github.com/disney/meteor-base/pull/211) |
 
 ### <a href="https://github.com/bluesky-social"><img src="https://github.com/bluesky-social.png?size=80" width="20" height="20" align="top" alt=""></a> Bluesky <sub>1</sub>
 
