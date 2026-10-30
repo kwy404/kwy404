@@ -191,11 +191,11 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 
 | Repository | Pull request |
 | --- | --- |
-| [facebook/lexical](https://github.com/meta/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/meta/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
-| [facebook/prophet](https://github.com/meta/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/meta/prophet/pull/2751) |
+| [meta/lexical](https://github.com/meta/lexical)<br><sub>Extensible text editor framework</sub> | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/meta/lexical/pull/9241)<br><sub>The maintainer extended the fix with a larger follow-up commit before merging</sub> |
+| [meta/prophet](https://github.com/meta/prophet)<br><sub>Time series forecasting for Python and R</sub> | [fix: do not modify the metrics list passed to performance_metrics](https://github.com/meta/prophet/pull/2751) |
 | | [fix: keep MAP parameter shapes when the history is constant](https://github.com/meta/prophet/pull/2749) |
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/meta/prophet/pull/2753) |
-| [facebook/hyperion](https://github.com/meta/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/meta/hyperion/pull/305) |
+| [meta/hyperion](https://github.com/meta/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/meta/hyperion/pull/305) |
 
 ### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>6</sub>
 

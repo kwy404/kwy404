@@ -84,7 +84,7 @@ Selected merged pull requests in widely used projects.
 | [vuejs/core](https://github.com/vuejs/core) | 54k | [fix(compat): expose _setupProxy for Vue 2.7 compiled script setup](https://github.com/vuejs/core/pull/15618) |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry) | 34k | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose) | 27k | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
-| [facebook/lexical](https://github.com/meta/lexical) | 24k | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/meta/lexical/pull/9241) |
+| [meta/lexical](https://github.com/meta/lexical) | 24k | [[lexical-clipboard] Bug Fix: Keep dragged text when it is dropped on the edge of its own selection](https://github.com/meta/lexical/pull/9241) |
 | [google/sentencepiece](https://github.com/google/sentencepiece) | 12k | [fix(python): bind SentencePieceNormalizer.LoadFromSerializedNormalizerSpec](https://github.com/google/sentencepiece/pull/1333) |
 | [apple/pkl](https://github.com/apple/pkl) | 12k | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 | [uber/h3](https://github.com/uber/h3) | 7k | [Fix stringToInt CLI truncating 16 digit indexes](https://github.com/uber/h3/pull/1243) |
