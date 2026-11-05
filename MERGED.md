@@ -1,10 +1,10 @@
 # All merged pull requests
 
-174 merged pull requests in 55 organizations and community projects, grouped by organization.
+185 merged pull requests in 58 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>32</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>33</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -40,6 +40,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix: use the fallback value for non-finite angles in unit conversions](https://github.com/google/model-viewer/pull/5196) |
 | [google/wireit](https://github.com/google/wireit)<br><sub>Smarter npm scripts with caching and dependencies</sub> | [Log when an HTTP error disables GitHub Actions caching](https://github.com/google/wireit/pull/1517) |
 | | [Report an "env" array as a config error instead of crashing](https://github.com/google/wireit/pull/1518) |
+| | [Include package.json name, main, type, exports and imports in the fingerprint](https://github.com/google/wireit/pull/1546) |
 
 
 ### <a href="https://github.com/puppeteer"><img src="https://github.com/puppeteer.png?size=80" width="20" height="20" align="top" alt=""></a> Puppeteer <sub>1</sub>
@@ -48,7 +49,7 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)<br><sub>JavaScript API for Chrome and Firefox</sub> | [fix: remove injected scripts when clearing custom query handlers](https://github.com/puppeteer/puppeteer/pull/15507) |
 
-### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>13</sub>
+### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=80" width="20" height="20" align="top" alt=""></a> Microsoft <sub>15</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -61,16 +62,19 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix: substitute every ${VAR} reference when merging env files](https://github.com/microsoft/vscode-python-environments/pull/1829) |
 | [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)<br><sub>JavaScript debugger used in VS Code</sub> | [fix: avoid splitting surrogate pairs in trimEnd](https://github.com/microsoft/vscode-js-debug/pull/2423) |
 | | [fix: clamp PositionToOffset.convert on the line just past the end](https://github.com/microsoft/vscode-js-debug/pull/2434) |
+| | [fix: let isStackLike find frames in multi-line text](https://github.com/microsoft/vscode-js-debug/pull/2442) |
+| | [feat: support `autoAttachSmartPattern` in Node.js launch configurations](https://github.com/microsoft/vscode-js-debug/pull/2443) |
 | [microsoft/playwright-python](https://github.com/microsoft/playwright-python)<br><sub>Python version of Playwright</sub> | [fix(fetch): accept float values for data](https://github.com/microsoft/playwright-python/pull/3209) |
 | | [fix(fetch): match Content-Type header case-insensitively](https://github.com/microsoft/playwright-python/pull/3210) |
 | [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br><sub>ESLint extension for VS Code</sub> | [Fix workingDirectories patterns dropping text before a wildcard](https://github.com/microsoft/vscode-eslint/pull/2236) |
 | [microsoft/rushstack](https://github.com/microsoft/rushstack)<br><sub>Monorepo tools from the Rush Stack community</sub> | [\[node-core-library\] Fix Text.truncateWithEllipsis() exceeding maximumLength](https://github.com/microsoft/rushstack/pull/6106) |
 
-### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>3</sub>
+### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [github/relative-time-element](https://github.com/github/relative-time-element)<br><sub>Web component that formats dates as relative time</sub> | [Fix year check to use the display time zone instead of UTC](https://github.com/github/relative-time-element/pull/384) |
+| | [Fix relative format showing now for any past time under a minute](https://github.com/github/relative-time-element/pull/390) |
 | [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element)<br><sub>Markdown formatting buttons for text inputs</sub> | [fix: avoid applying data-md-button styles twice after the toolbar is moved](https://github.com/github/markdown-toolbar-element/pull/110) |
 | [github/gitignore](https://github.com/github/gitignore)<br><sub>Collection of .gitignore templates</sub> | [Perl: move !Build/ after Build so the directory is not ignored](https://github.com/github/gitignore/pull/4920) |
 
@@ -237,7 +241,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>8</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>9</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -249,8 +253,9 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix Object.fromEntries() storing array index keys as named properties](https://github.com/mozilla/rhino/pull/2524) |
 | | [Fix ArrayBuffer transfer methods using the species constructor](https://github.com/mozilla/rhino/pull/2526) |
 | | [Fix JSON.parse() and JSON.stringify() callbacks receiving numeric keys](https://github.com/mozilla/rhino/pull/2533) |
+| | [Fix BigInt.prototype.toLocaleString() treating its argument as a radix](https://github.com/mozilla/rhino/pull/2534) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>4</sub>
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>6</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -258,6 +263,8 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix gridDistance CLI printing distance in hexadecimal](https://github.com/uber/h3/pull/1244) |
 | [uber/h3-py](https://github.com/uber/h3-py)<br><sub>Python bindings for the H3 geospatial index</sub> | [fix: validate LatLngPoly loop length after dropping the closing point](https://github.com/uber/h3-py/pull/505) |
 | | [fix: return False from `is_valid_*` for indexes outside the uint64 range](https://github.com/uber/h3-py/pull/507) |
+| [uber/h3-js](https://github.com/uber/h3-js)<br><sub>JavaScript version of the H3 geospatial index</sub> | [Reject H3 index strings that overflow 64 bits](https://github.com/uber/h3-js/pull/238) |
+| | [Guard cellToChildren and uncompactCells output allocations](https://github.com/uber/h3-js/pull/239) |
 
 ### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs <sub>2</sub>
 
@@ -364,13 +371,14 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [Samsung/escargot](https://github.com/Samsung/escargot)<br><sub>Lightweight JavaScript engine</sub> | [Fix IteratorClose when the iterator's return method is null](https://github.com/Samsung/escargot/pull/1691) |
 | | [Fix template literals accepting `\8` and `\9` escapes](https://github.com/Samsung/escargot/pull/1705) |
 
-### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix <sub>3</sub>
+### <a href="https://github.com/Netflix"><img src="https://github.com/Netflix.png?size=80" width="20" height="20" align="top" alt=""></a> Netflix <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Netflix/spectator-py](https://github.com/Netflix/spectator-py)<br><sub>Python metrics library for Atlas</sub> | [Select the UDP socket writer by scheme, not substring](https://github.com/Netflix/spectator-py/pull/93) |
 | | [Leave stdout and stderr open when closing a FileWriter](https://github.com/Netflix/spectator-py/pull/94) |
 | | [Flush the SocketWriter line buffer on close](https://github.com/Netflix/spectator-py/pull/95) |
+| | [Keep FileWriter lines intact when several threads write](https://github.com/Netflix/spectator-py/pull/102) |
 
 ### <a href="https://github.com/disney"><img src="https://github.com/disney.png?size=80" width="20" height="20" align="top" alt=""></a> Disney <sub>1</sub>
 
@@ -414,6 +422,24 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [cloudflare/chanfana](https://github.com/cloudflare/chanfana)<br><sub>OpenAPI schema generator and validator for Hono and itty-router</sub> | [fix: use defaultOrderBy as the default order_by in list endpoints](https://github.com/cloudflare/chanfana/pull/358) |
 | | [fix: accept requests that omit optional headers](https://github.com/cloudflare/chanfana/pull/371) |
+
+### <a href="https://github.com/reduxjs"><img src="https://github.com/reduxjs.png?size=80" width="20" height="20" align="top" alt=""></a> Redux <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)<br><sub>Official toolset for Redux development</sub> | [fix(codegen): do not double escape slashes in regex constants](https://github.com/reduxjs/redux-toolkit/pull/5460) |
+
+### <a href="https://github.com/sony"><img src="https://github.com/sony.png?size=80" width="20" height="20" align="top" alt=""></a> Sony <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [sony/nmos-cpp](https://github.com/sony/nmos-cpp)<br><sub>NMOS Registry and Node in C++</sub> | [Log not found resources in bulk connection PATCH requests](https://github.com/sony/nmos-cpp/pull/524) |
+
+### <a href="https://github.com/github-linguist"><img src="https://github.com/github-linguist.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub Linguist <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [github-linguist/linguist](https://github.com/github-linguist/linguist)<br><sub>Language detection used by GitHub</sub> | [Fix crash on empty `.frm` files in generated check](https://github.com/github-linguist/linguist/pull/8239) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
