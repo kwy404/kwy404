@@ -1,10 +1,10 @@
 # All merged pull requests
 
-185 merged pull requests in 58 organizations and community projects, grouped by organization.
+193 merged pull requests in 58 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>33</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>36</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -21,6 +21,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix(js): don't split surrogate pairs](https://github.com/google/budoux/pull/1403) |
 | | [fix(java): don't split surrogate pairs](https://github.com/google/budoux/pull/1411) |
 | | [feat(py): don't insert separators where the source already has one](https://github.com/google/budoux/pull/1457) |
+| | [fix(js): don't insert separators right before an existing ZWSP](https://github.com/google/budoux/pull/1504) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
@@ -30,6 +31,8 @@ Back to the [profile](https://github.com/kwy404).
 | | [Use signed values for the AICS gain setting fields](https://github.com/google/bumble/pull/992) |
 | | [Fix record offsets when parsing a list of PAC records](https://github.com/google/bumble/pull/993) |
 | | [Fix HAS read presets requests failing after an out of range request](https://github.com/google/bumble/pull/1015) |
+| | [Fix the Opus parser failing on mono Ogg streams](https://github.com/google/bumble/pull/1021) |
+| | [Fix the HFP AG sending OK after rejecting AT+CHLD](https://github.com/google/bumble/pull/1022) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
 | | [Fix instrumentation parsing when the output is truncated mid-status-block](https://github.com/google/mobly/pull/1035) |
@@ -138,13 +141,14 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0)<br><sub>Next.js SDK for signing in with Auth0</sub> | [fix: pass request cookies in startEnterpriseLogin to evict stale txn cookies](https://github.com/auth0/nextjs-auth0/pull/2868) |
 
-### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>3</sub>
+### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [capitalone/datacompy](https://github.com/capitalone/datacompy)<br><sub>DataFrame comparison library</sub> | [fix: keep the default tolerance key when upper casing column names](https://github.com/capitalone/datacompy/pull/572) |
 | | [fix: compare string lists in the pandas array comparator](https://github.com/capitalone/datacompy/pull/573) |
 | | [fix(polars): match duplicate rows when the first column has nulls](https://github.com/capitalone/datacompy/pull/575) |
+| | [fix(polars): compare all-null columns in the string comparator](https://github.com/capitalone/datacompy/pull/600) |
 
 ### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe <sub>3</sub>
 
@@ -203,7 +207,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/meta/prophet/pull/2753) |
 | [meta/hyperion](https://github.com/meta/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/meta/hyperion/pull/305) |
 
-### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>6</sub>
+### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>7</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -211,6 +215,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix exact "exports" and "imports" keys with no target falling back to a pattern](https://github.com/react/metro/pull/1987)<br><sub>The maintainer added a regression test to the PR before merging</sub> |
 | | [Fix empty file list in ambiguous module resolution errors](https://github.com/react/metro/pull/2102) |
 | | [Apply `processModuleFilter` to inline source maps](https://github.com/react/metro/pull/2124) |
+| | [Fix crash on a non-object `exports` field in `package.json`](https://github.com/react/metro/pull/2187) |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 | | [Fix `Style::operator==` ignoring `boxSizing`](https://github.com/react/yoga/pull/2029) |
 
@@ -392,7 +397,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>19</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>22</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -401,10 +406,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(core): avoid writing assets twice when writeToDisk is true](https://github.com/web-infra-dev/rsbuild/pull/8556) |
 | | [fix(server): decode request paths when completing HTML files](https://github.com/web-infra-dev/rsbuild/pull/8618) |
 | | [fix(server): print network URLs for the IPv6 wildcard host](https://github.com/web-infra-dev/rsbuild/pull/8724) |
+| | [fix(core): override output.filename functions in environments config](https://github.com/web-infra-dev/rsbuild/pull/8846) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
 | | [fix(shims): insert CJS `import.meta.url` shim after directives](https://github.com/web-infra-dev/rslib/pull/1971) |
 | | [fix(dts): support `.mts` and `.cts` entries in bundle mode](https://github.com/web-infra-dev/rslib/pull/1976) |
 | | [fix(dts): respect RegExp externals in bundled declarations](https://github.com/web-infra-dev/rslib/pull/1977) |
+| | [fix(dts): keep extensions of bare package imports](https://github.com/web-infra-dev/rslib/pull/2008) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
@@ -412,6 +419,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(core): only escape `:` and `,` in GitHub Actions annotation properties](https://github.com/web-infra-dev/rstest/pull/1985) |
 | | [fix(core): escape RegExp characters in repro `--testNamePattern`](https://github.com/web-infra-dev/rstest/pull/1993) |
 | | [fix(core): match negated `--project` names exactly](https://github.com/web-infra-dev/rstest/pull/1996) |
+| | [fix(core): keep `each` names working when a `$` path crosses null](https://github.com/web-infra-dev/rstest/pull/2048) |
 | [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)<br><sub>Vision driven UI automation for web and mobile</sub> | [fix(core): keep trailing parenthesis in auto-glm finish message](https://github.com/web-infra-dev/midscene/pull/3190) |
 | [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js)<br><sub>Progressive web framework based on React</sub> | [fix(runtime-utils): keep "=" in cookie values in parseCookie](https://github.com/web-infra-dev/modern.js/pull/8936) |
 | [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)<br><sub>Build analyzer for Rspack and webpack</sub> | [fix(shared): escape resolver request when building file details](https://github.com/web-infra-dev/rsdoctor/pull/2046) |
