@@ -1,6 +1,6 @@
 # All merged pull requests
 
-193 merged pull requests in 58 organizations and community projects, grouped by organization.
+194 merged pull requests in 58 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -72,7 +72,7 @@ Back to the [profile](https://github.com/kwy404).
 | [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br><sub>ESLint extension for VS Code</sub> | [Fix workingDirectories patterns dropping text before a wildcard](https://github.com/microsoft/vscode-eslint/pull/2236) |
 | [microsoft/rushstack](https://github.com/microsoft/rushstack)<br><sub>Monorepo tools from the Rush Stack community</sub> | [\[node-core-library\] Fix Text.truncateWithEllipsis() exceeding maximumLength](https://github.com/microsoft/rushstack/pull/6106) |
 
-### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>4</sub>
+### <a href="https://github.com/github"><img src="https://github.com/github.png?size=80" width="20" height="20" align="top" alt=""></a> GitHub <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -80,6 +80,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [Fix relative format showing now for any past time under a minute](https://github.com/github/relative-time-element/pull/390) |
 | [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element)<br><sub>Markdown formatting buttons for text inputs</sub> | [fix: avoid applying data-md-button styles twice after the toolbar is moved](https://github.com/github/markdown-toolbar-element/pull/110) |
 | [github/gitignore](https://github.com/github/gitignore)<br><sub>Collection of .gitignore templates</sub> | [Perl: move !Build/ after Build so the directory is not ignored](https://github.com/github/gitignore/pull/4920) |
+| | [TeX: fix AUCTeX auto folder pattern](https://github.com/github/gitignore/pull/4919) |
 
 ### <a href="https://github.com/JetBrains"><img src="https://github.com/JetBrains.png?size=80" width="20" height="20" align="top" alt=""></a> JetBrains <sub>2</sub>
 
