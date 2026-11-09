@@ -1,6 +1,6 @@
 # All merged pull requests
 
-194 merged pull requests in 58 organizations and community projects, grouped by organization.
+197 merged pull requests in 58 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -174,11 +174,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk)<br><sub>Slack Developer Kit for Python</sub> | [fix(oauth): treat naive datetime values as UTC when converting to timestamps](https://github.com/slackapi/python-slack-sdk/pull/1970) |
 
-### <a href="https://github.com/Tencent"><img src="https://github.com/Tencent.png?size=80" width="20" height="20" align="top" alt=""></a> Tencent <sub>1</sub>
+### <a href="https://github.com/Tencent"><img src="https://github.com/Tencent.png?size=80" width="20" height="20" align="top" alt=""></a> Tencent <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)<br><sub>TDesign component library for Vue 3</sub> | [fix(Form): reset lastIndex before testing pattern rule](https://github.com/Tencent/tdesign-vue-next/pull/6982) |
+| [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram)<br><sub>TDesign UI components for WeChat Mini Programs</sub> | [fix(Form): fix `date` rule rejecting `YYYY-MM-DD` values](https://github.com/Tencent/tdesign-miniprogram/pull/4667) |
 
 ### <a href="https://github.com/NervJS"><img src="https://github.com/NervJS.png?size=80" width="20" height="20" align="top" alt=""></a> JD.com Taro <sub>1</sub>
 
@@ -247,7 +248,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>9</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>10</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -260,6 +261,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix ArrayBuffer transfer methods using the species constructor](https://github.com/mozilla/rhino/pull/2526) |
 | | [Fix JSON.parse() and JSON.stringify() callbacks receiving numeric keys](https://github.com/mozilla/rhino/pull/2533) |
 | | [Fix BigInt.prototype.toLocaleString() treating its argument as a radix](https://github.com/mozilla/rhino/pull/2534) |
+| | [Fix String.prototype.indexOf() returning a negative index for an empty search string](https://github.com/mozilla/rhino/pull/2569) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>6</sub>
 
@@ -425,12 +427,13 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js)<br><sub>Progressive web framework based on React</sub> | [fix(runtime-utils): keep "=" in cookie values in parseCookie](https://github.com/web-infra-dev/modern.js/pull/8936) |
 | [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)<br><sub>Build analyzer for Rspack and webpack</sub> | [fix(shared): escape resolver request when building file details](https://github.com/web-infra-dev/rsdoctor/pull/2046) |
 
-### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>2</sub>
+### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [cloudflare/chanfana](https://github.com/cloudflare/chanfana)<br><sub>OpenAPI schema generator and validator for Hono and itty-router</sub> | [fix: use defaultOrderBy as the default order_by in list endpoints](https://github.com/cloudflare/chanfana/pull/358) |
 | | [fix: accept requests that omit optional headers](https://github.com/cloudflare/chanfana/pull/371) |
+| | [fix: document the root route as "/" in the OpenAPI schema](https://github.com/cloudflare/chanfana/pull/373) |
 
 ### <a href="https://github.com/reduxjs"><img src="https://github.com/reduxjs.png?size=80" width="20" height="20" align="top" alt=""></a> Redux <sub>1</sub>
 
