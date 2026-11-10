@@ -1,10 +1,10 @@
 # All merged pull requests
 
-197 merged pull requests in 58 organizations and community projects, grouped by organization.
+203 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>36</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>37</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -33,6 +33,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [Fix HAS read presets requests failing after an out of range request](https://github.com/google/bumble/pull/1015) |
 | | [Fix the Opus parser failing on mono Ogg streams](https://github.com/google/bumble/pull/1021) |
 | | [Fix the HFP AG sending OK after rejecting AT+CHLD](https://github.com/google/bumble/pull/1022) |
+| | [Return Opcode Not Supported for unknown VCS control point opcodes](https://github.com/google/bumble/pull/1027) |
 | [google/mobly](https://github.com/google/mobly)<br><sub>E2E test framework for devices</sub> | [Fix byte offsets of lines returned by LogcatProcessor.tail](https://github.com/google/mobly/pull/1033) |
 | | [Handle predicates without __name__ in waitForEvent timeouts](https://github.com/google/mobly/pull/1034) |
 | | [Fix instrumentation parsing when the output is truncated mid-status-block](https://github.com/google/mobly/pull/1035) |
@@ -209,7 +210,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: keep the scaling option when copying a model for cross-validation](https://github.com/meta/prophet/pull/2753) |
 | [meta/hyperion](https://github.com/meta/hyperion)<br><sub>Intercepting and virtualizing browser APIs</sub> | [Fix beforeunload listener in PersistentData scheduler](https://github.com/meta/hyperion/pull/305) |
 
-### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>7</sub>
+### <a href="https://github.com/react"><img src="https://github.com/react.png?size=80" width="20" height="20" align="top" alt=""></a> React <sub>8</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -218,6 +219,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix empty file list in ambiguous module resolution errors](https://github.com/react/metro/pull/2102) |
 | | [Apply `processModuleFilter` to inline source maps](https://github.com/react/metro/pull/2124) |
 | | [Fix crash on a non-object `exports` field in `package.json`](https://github.com/react/metro/pull/2187) |
+| | [metro-file-map: Fix crash on a package subpath ending in `/.`, such as `pkg/.`](https://github.com/react/metro/pull/2213) |
 | [react/yoga](https://github.com/react/yoga)<br><sub>Cross-platform flexbox layout engine</sub> | [Fix stale layout when a child switches to `display: contents` after insertion](https://github.com/react/yoga/pull/2028) |
 | | [Fix `Style::operator==` ignoring `boxSizing`](https://github.com/react/yoga/pull/2029) |
 
@@ -400,7 +402,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br><sub>The Bluesky app for web, iOS and Android</sub> | [Fix YouTube embed start time for h/m/s timestamps](https://github.com/bluesky-social/social-app/pull/11796) |
 
-### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>22</sub>
+### <a href="https://github.com/bytedance"><img src="https://github.com/bytedance.png?size=80" width="20" height="20" align="top" alt=""></a> ByteDance <sub>25</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -410,11 +412,13 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(server): decode request paths when completing HTML files](https://github.com/web-infra-dev/rsbuild/pull/8618) |
 | | [fix(server): print network URLs for the IPv6 wildcard host](https://github.com/web-infra-dev/rsbuild/pull/8724) |
 | | [fix(core): override output.filename functions in environments config](https://github.com/web-infra-dev/rsbuild/pull/8846) |
+| | [fix(core): wrap IPv6 hosts in brackets for dev.assetPrefix true](https://github.com/web-infra-dev/rsbuild/pull/8866) |
 | [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)<br><sub>Library build tool, powered by Rsbuild</sub> | [fix(dts): handle object externals inside arrays](https://github.com/web-infra-dev/rslib/pull/1939) |
 | | [fix(shims): insert CJS `import.meta.url` shim after directives](https://github.com/web-infra-dev/rslib/pull/1971) |
 | | [fix(dts): support `.mts` and `.cts` entries in bundle mode](https://github.com/web-infra-dev/rslib/pull/1976) |
 | | [fix(dts): respect RegExp externals in bundled declarations](https://github.com/web-infra-dev/rslib/pull/1977) |
 | | [fix(dts): keep extensions of bare package imports](https://github.com/web-infra-dev/rslib/pull/2008) |
+| | [fix: apply JS banner and footer to `.jsx` output files](https://github.com/web-infra-dev/rslib/pull/2018) |
 | [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)<br><sub>Static site generator powered by Rsbuild</sub> | [fix(shared): respect path segment boundary in withBase and removeBase](https://github.com/web-infra-dev/rspress/pull/3702) |
 | | [fix(core): keep replacement patterns in head config during SSG](https://github.com/web-infra-dev/rspress/pull/3703) |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer)<br><sub>HTML5 video player</sub> | [fix(dash): parse MPD durations with any combination of H, M and S](https://github.com/bytedance/xgplayer/pull/1954) |
@@ -423,6 +427,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(core): escape RegExp characters in repro `--testNamePattern`](https://github.com/web-infra-dev/rstest/pull/1993) |
 | | [fix(core): match negated `--project` names exactly](https://github.com/web-infra-dev/rstest/pull/1996) |
 | | [fix(core): keep `each` names working when a `$` path crosses null](https://github.com/web-infra-dev/rstest/pull/2048) |
+| | [fix(core): print `null` for a null `$` value in `each` names](https://github.com/web-infra-dev/rstest/pull/2069) |
 | [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)<br><sub>Vision driven UI automation for web and mobile</sub> | [fix(core): keep trailing parenthesis in auto-glm finish message](https://github.com/web-infra-dev/midscene/pull/3190) |
 | [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js)<br><sub>Progressive web framework based on React</sub> | [fix(runtime-utils): keep "=" in cookie values in parseCookie](https://github.com/web-infra-dev/modern.js/pull/8936) |
 | [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)<br><sub>Build analyzer for Rspack and webpack</sub> | [fix(shared): escape resolver request when building file details](https://github.com/web-infra-dev/rsdoctor/pull/2046) |
@@ -452,6 +457,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | Repository | Pull request |
 | --- | --- |
 | [github-linguist/linguist](https://github.com/github-linguist/linguist)<br><sub>Language detection used by GitHub</sub> | [Fix crash on empty `.frm` files in generated check](https://github.com/github-linguist/linguist/pull/8239) |
+
+### <a href="https://github.com/huggingface"><img src="https://github.com/huggingface.png?size=80" width="20" height="20" align="top" alt=""></a> Hugging Face <sub>1</sub>
+
+| Repository | Pull request |
+| --- | --- |
+| [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js)<br><sub>Use Hugging Face with JavaScript</sub> | [fix(jinja): convert numbers in int and float filters like Python](https://github.com/huggingface/huggingface.js/pull/2549) |
 
 ### <a href="https://github.com/python-poetry"><img src="https://github.com/python-poetry.png?size=80" width="20" height="20" align="top" alt=""></a> Python Poetry <sub>1</sub>
 
