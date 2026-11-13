@@ -1,10 +1,10 @@
 # All merged pull requests
 
-203 merged pull requests in 59 organizations and community projects, grouped by organization.
+209 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
-### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>37</sub>
+### <a href="https://github.com/google"><img src="https://github.com/google.png?size=80" width="20" height="20" align="top" alt=""></a> Google <sub>38</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -22,6 +22,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix(java): don't split surrogate pairs](https://github.com/google/budoux/pull/1411) |
 | | [feat(py): don't insert separators where the source already has one](https://github.com/google/budoux/pull/1457) |
 | | [fix(js): don't insert separators right before an existing ZWSP](https://github.com/google/budoux/pull/1504) |
+| | [fix(py): keep comments in the HTML output](https://github.com/google/budoux/pull/1509) |
 | [google/bumble](https://github.com/google/bumble)<br><sub>Bluetooth stack in Python</sub> | [Fix CSRC offsets when parsing RTP media packets](https://github.com/google/bumble/pull/983) |
 | | [Fix operation data offset when parsing AV/C pass through frames](https://github.com/google/bumble/pull/984) |
 | | [Fix value of the DOWN pass through operation id](https://github.com/google/bumble/pull/985) |
@@ -112,11 +113,12 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system)<br><sub>Esri's Calcite design system</sub> | [fix(button): omit empty aria-label when label is not set](https://github.com/Esri/calcite-design-system/pull/15253) |
 
-### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat <sub>2</sub>
+### <a href="https://github.com/redhat-developer"><img src="https://github.com/redhat-developer.png?size=80" width="20" height="20" align="top" alt=""></a> Red Hat <sub>3</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server)<br><sub>Language server for YAML files</sub> | [fix: resolve nested schema paths prefixed with a workspace folder name](https://github.com/redhat-developer/yaml-language-server/pull/1348) |
+| | [fix: keep diagnostics when a forbidden flow collection is not closed](https://github.com/redhat-developer/yaml-language-server/pull/1378) |
 | [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)<br><sub>YAML support for Visual Studio Code</sub> | [Fix auto indentation after a key with an anchor](https://github.com/redhat-developer/vscode-yaml/pull/1289) |
 
 ### <a href="https://github.com/carbon-design-system"><img src="https://github.com/IBM.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>1</sub>
@@ -143,7 +145,7 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0)<br><sub>Next.js SDK for signing in with Auth0</sub> | [fix: pass request cookies in startEnterpriseLogin to evict stale txn cookies](https://github.com/auth0/nextjs-auth0/pull/2868) |
 
-### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>4</sub>
+### <a href="https://github.com/capitalone"><img src="https://github.com/capitalone.png?size=80" width="20" height="20" align="top" alt=""></a> Capital One <sub>5</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -151,6 +153,7 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix: compare string lists in the pandas array comparator](https://github.com/capitalone/datacompy/pull/573) |
 | | [fix(polars): match duplicate rows when the first column has nulls](https://github.com/capitalone/datacompy/pull/575) |
 | | [fix(polars): compare all-null columns in the string comparator](https://github.com/capitalone/datacompy/pull/600) |
+| | [fix: size the join-column mismatch sample by row count](https://github.com/capitalone/datacompy/pull/605) |
 
 ### <a href="https://github.com/adobe"><img src="https://github.com/adobe.png?size=80" width="20" height="20" align="top" alt=""></a> Adobe <sub>3</sub>
 
@@ -250,7 +253,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [discord/discord-api-docs](https://github.com/discord/discord-api-docs)<br><sub>Official Discord developer documentation</sub> | [Document team member user as a full user object](https://github.com/discord/discord-api-docs/pull/8626) |
 
-### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>10</sub>
+### <a href="https://github.com/mozilla"><img src="https://github.com/mozilla.png?size=80" width="20" height="20" align="top" alt=""></a> Mozilla <sub>11</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -264,6 +267,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix JSON.parse() and JSON.stringify() callbacks receiving numeric keys](https://github.com/mozilla/rhino/pull/2533) |
 | | [Fix BigInt.prototype.toLocaleString() treating its argument as a radix](https://github.com/mozilla/rhino/pull/2534) |
 | | [Fix String.prototype.indexOf() returning a negative index for an empty search string](https://github.com/mozilla/rhino/pull/2569) |
+| | [Fix String.prototype.trimLeft and trimRight not aliasing trimStart and trimEnd](https://github.com/mozilla/rhino/pull/2575) |
 
 ### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>6</sub>
 
@@ -432,13 +436,14 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js)<br><sub>Progressive web framework based on React</sub> | [fix(runtime-utils): keep "=" in cookie values in parseCookie](https://github.com/web-infra-dev/modern.js/pull/8936) |
 | [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor)<br><sub>Build analyzer for Rspack and webpack</sub> | [fix(shared): escape resolver request when building file details](https://github.com/web-infra-dev/rsdoctor/pull/2046) |
 
-### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>3</sub>
+### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=80" width="20" height="20" align="top" alt=""></a> Cloudflare <sub>4</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [cloudflare/chanfana](https://github.com/cloudflare/chanfana)<br><sub>OpenAPI schema generator and validator for Hono and itty-router</sub> | [fix: use defaultOrderBy as the default order_by in list endpoints](https://github.com/cloudflare/chanfana/pull/358) |
 | | [fix: accept requests that omit optional headers](https://github.com/cloudflare/chanfana/pull/371) |
 | | [fix: document the root route as "/" in the OpenAPI schema](https://github.com/cloudflare/chanfana/pull/373) |
+| | [fix: coerce array parameter items with the element type](https://github.com/cloudflare/chanfana/pull/382) |
 
 ### <a href="https://github.com/reduxjs"><img src="https://github.com/reduxjs.png?size=80" width="20" height="20" align="top" alt=""></a> Redux <sub>1</sub>
 
@@ -470,13 +475,14 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [python-poetry/poetry](https://github.com/python-poetry/poetry)<br><sub>Python packaging and dependency management</sub> | [fix: do not fail when uninstalling a path dependency whose source is gone](https://github.com/python-poetry/poetry/pull/11093) |
 
-### <a href="https://github.com/patroni"><img src="https://github.com/patroni.png?size=80" width="20" height="20" align="top" alt=""></a> Patroni <sub>1</sub>
+### <a href="https://github.com/patroni"><img src="https://github.com/patroni.png?size=80" width="20" height="20" align="top" alt=""></a> Patroni <sub>2</sub>
 
 Community project, started at Zalando, for PostgreSQL high availability.
 
 | Repository | Pull request |
 | --- | --- |
 | [patroni/patroni](https://github.com/patroni/patroni)<br><sub>High availability for PostgreSQL</sub> | [Fix --generate-config for PostgreSQL older than 19](https://github.com/patroni/patroni/pull/3734) |
+| | [Read PATRONI_RESTAPI_THREAD_POOL_SIZE from the environment](https://github.com/patroni/patroni/pull/3775) |
 
 ### <a href="https://github.com/lichess-bot-devs"><img src="https://github.com/lichess-bot-devs.png?size=80" width="20" height="20" align="top" alt=""></a> lichess-bot <sub>1</sub>
 
