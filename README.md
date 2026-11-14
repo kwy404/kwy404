@@ -1,8 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/4716f686cd7ff159db2ee2e8e114888e9b5ed296/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 209 merged pull requests in 59 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/4716f686cd7ff159db2ee2e8e114888e9b5ed296/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/5247092ec9f0a55d3be40d2c99d50553ee10c2e4/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 211 merged pull requests in 59 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/5247092ec9f0a55d3be40d2c99d50553ee10c2e4/light.svg" width="100%"></picture>
 
 # Alexandre Kohler, Senior Full Stack Software Engineer
 
-Senior Full Stack Software Engineer with more than 10 years of experience building backend systems, APIs and microservices. I work with TypeScript, Node.js, NestJS, Fastify, Python, Go, Rust, PHP, Laravel, Java and Spring Boot on the back end, React and Vue on the front end, and PostgreSQL, Redis, Kafka, Docker and AWS for data and infrastructure. Based in Brusque, SC, Brazil (UTC-3) and available for remote work. Open source contributor with 209 merged pull requests in 59 organizations, including Google, Microsoft, Meta, Apple, Amazon, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce and Shopify.
+Senior Full Stack Software Engineer with more than 10 years of experience building backend systems, APIs and microservices. I work with TypeScript, Node.js, NestJS, Fastify, Python, Go, Rust, PHP, Laravel, Java and Spring Boot on the back end, React and Vue on the front end, and PostgreSQL, Redis, Kafka, Docker and AWS for data and infrastructure. Based in Brusque, SC, Brazil (UTC-3) and available for remote work. Open source contributor with 211 merged pull requests in 59 organizations, including Google, Microsoft, Meta, Apple, Amazon, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce and Shopify.
 
 In open source I fix bugs in parsers, protocol handling, build tooling and web platform code. Every pull request starts from a failing test and explains the root cause.
 
@@ -10,7 +10,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 
 ## Open source contributions
 
-**209 merged pull requests in 59 organizations.** Every pull request, grouped by organization, is listed in [MERGED.md](https://github.com/kwy404/kwy404/blob/main/MERGED.md).
+**211 merged pull requests in 59 organizations.** Every pull request, grouped by organization, is listed in [MERGED.md](https://github.com/kwy404/kwy404/blob/main/MERGED.md).
 
 <div align="center">
 
@@ -25,7 +25,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ANetflix&type=pullrequests"><img src="https://github.com/Netflix.png?size=80" width="40" height="40" alt="Netflix: 4 merged pull requests" title="Netflix: 4 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adisney&type=pullrequests"><img src="https://github.com/disney.png?size=80" width="40" height="40" alt="Disney: 1 merged pull request" title="Disney: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acloudflare&type=pullrequests"><img src="https://github.com/cloudflare.png?size=80" width="40" height="40" alt="Cloudflare: 3 merged pull requests" title="Cloudflare: 3 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="40" height="40" alt="Uber: 6 merged pull requests" title="Uber: 6 merged pull requests"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Auber&type=pullrequests"><img src="https://github.com/uber.png?size=80" width="40" height="40" alt="Uber: 7 merged pull requests" title="Uber: 7 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AValveSoftware&type=pullrequests"><img src="https://github.com/ValveSoftware.png?size=80" width="40" height="40" alt="Valve: 2 merged pull requests" title="Valve: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+involves%3Akwy404+org%3Aadobe&type=pullrequests"><img src="https://github.com/adobe.png?size=80" width="40" height="40" alt="Adobe: 3 merged pull requests, two carried by a maintainer" title="Adobe: 3 merged pull requests, two carried by a maintainer"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asalesforce&type=pullrequests"><img src="https://github.com/salesforce.png?size=80" width="40" height="40" alt="Salesforce: 2 merged pull requests" title="Salesforce: 2 merged pull requests"></a>&nbsp;
@@ -52,7 +52,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Atailwindlabs&type=pullrequests"><img src="https://github.com/tailwindlabs.png?size=80" width="40" height="40" alt="Tailwind Labs: 2 merged pull requests" title="Tailwind Labs: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Asiemens&type=pullrequests"><img src="https://github.com/siemens.png?size=80" width="40" height="40" alt="Siemens: 1 merged pull request" title="Siemens: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3AEsri&type=pullrequests"><img src="https://github.com/Esri.png?size=80" width="40" height="40" alt="Esri: 1 merged pull request" title="Esri: 1 merged pull request"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aossf&type=pullrequests"><img src="https://github.com/ossf.png?size=80" width="40" height="40" alt="OpenSSF: 1 merged pull request" title="OpenSSF: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aossf&type=pullrequests"><img src="https://github.com/ossf.png?size=80" width="40" height="40" alt="OpenSSF: 2 merged pull requests" title="OpenSSF: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Afinos&type=pullrequests"><img src="https://github.com/finos.png?size=80" width="40" height="40" alt="FINOS: 1 merged pull request" title="FINOS: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Apython-poetry&type=pullrequests"><img src="https://github.com/python-poetry.png?size=80" width="40" height="40" alt="Python Poetry: 1 merged pull request" title="Python Poetry: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aexcalidraw&type=pullrequests"><img src="https://github.com/excalidraw.png?size=80" width="40" height="40" alt="Excalidraw: 1 merged pull request" title="Excalidraw: 1 merged pull request"></a>&nbsp;
@@ -71,7 +71,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 
 </div>
 
-**Merged pull requests by organization:** Google (38), ByteDance (25), Microsoft (15), Mozilla (11), React (8), Apple (8), Portugol Webstudio (6), Uber (6), Amazon Web Services (5), Meta (5), GitHub (5), Netflix (4), Capital One (5), Adobe (3), Vue (3), three.js (3), NVIDIA (3), Cloudflare (4), Red Hat (3), Salesforce (2), LinkedIn (2), Tailwind Labs (2), Valve (2), MUI (2), Samsung (2), JetBrains (2), Tencent (2), Patroni (2), Puppeteer, Siemens, Esri, IBM, OpenSSF, FINOS, Auth0, Slack, JD.com Taro, DiDi, Automattic, Preact, Discord, Epic Games, Excalidraw, Bootstrap, Shopify, Remix, Strapi, tRPC, Intel, Disney, Bluesky, Python Poetry, lichess-bot, h3, Brazilian Utils, Redux, Sony, GitHub Linguist and Hugging Face (1 each).
+**Merged pull requests by organization:** Google (38), ByteDance (25), Microsoft (15), Mozilla (11), React (8), Apple (8), Portugol Webstudio (6), Uber (7), Amazon Web Services (5), Meta (5), GitHub (5), Netflix (4), Capital One (5), Adobe (3), Vue (3), three.js (3), NVIDIA (3), Cloudflare (4), Red Hat (3), Salesforce (2), LinkedIn (2), Tailwind Labs (2), Valve (2), MUI (2), Samsung (2), JetBrains (2), Tencent (2), Patroni (2), OpenSSF (2), Puppeteer, Siemens, Esri, IBM, FINOS, Auth0, Slack, JD.com Taro, DiDi, Automattic, Preact, Discord, Epic Games, Excalidraw, Bootstrap, Shopify, Remix, Strapi, tRPC, Intel, Disney, Bluesky, Python Poetry, lichess-bot, h3, Brazilian Utils, Redux, Sony, GitHub Linguist and Hugging Face (1 each).
 
 ### Highlights
 

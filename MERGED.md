@@ -1,6 +1,6 @@
 # All merged pull requests
 
-209 merged pull requests in 59 organizations and community projects, grouped by organization.
+211 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -127,11 +127,12 @@ Back to the [profile](https://github.com/kwy404).
 | --- | --- |
 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon)<br><sub>IBM's Carbon design system</sub> | [fix(utilities/date-time-format): round future relative dates toward zero](https://github.com/carbon-design-system/carbon/pull/23568) |
 
-### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF <sub>1</sub>
+### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool)<br><sub>Finds known vulnerabilities in binaries and SBOMs</sub> | [fix: detect Ruby gems with platform or four segment versions](https://github.com/ossf/cve-bin-tool/pull/5922) |
+| | [fix: handle hashes and continuation lines in requirements.txt](https://github.com/ossf/cve-bin-tool/pull/6087) |
 
 ### <a href="https://github.com/finos"><img src="https://github.com/finos.png?size=80" width="20" height="20" align="top" alt=""></a> FINOS <sub>1</sub>
 
@@ -269,7 +270,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix String.prototype.indexOf() returning a negative index for an empty search string](https://github.com/mozilla/rhino/pull/2569) |
 | | [Fix String.prototype.trimLeft and trimRight not aliasing trimStart and trimEnd](https://github.com/mozilla/rhino/pull/2575) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>6</sub>
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>7</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -277,6 +278,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix gridDistance CLI printing distance in hexadecimal](https://github.com/uber/h3/pull/1244) |
 | [uber/h3-py](https://github.com/uber/h3-py)<br><sub>Python bindings for the H3 geospatial index</sub> | [fix: validate LatLngPoly loop length after dropping the closing point](https://github.com/uber/h3-py/pull/505) |
 | | [fix: return False from `is_valid_*` for indexes outside the uint64 range](https://github.com/uber/h3-py/pull/507) |
+| | [fix: don't return a cell twice from h3shape_to_cells_experimental for a LatLngMultiPoly](https://github.com/uber/h3-py/pull/512) |
 | [uber/h3-js](https://github.com/uber/h3-js)<br><sub>JavaScript version of the H3 geospatial index</sub> | [Reject H3 index strings that overflow 64 bits](https://github.com/uber/h3-js/pull/238) |
 | | [Guard cellToChildren and uncompactCells output allocations](https://github.com/uber/h3-js/pull/239) |
 
