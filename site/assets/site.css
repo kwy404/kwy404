@@ -149,7 +149,8 @@ h1{font-size:clamp(40px,6.4vw,76px);line-height:1.02;letter-spacing:-.045em;font
 .lg img{width:26px;height:26px;border-radius:7px}
 .lg small{font-family:var(--mono);color:var(--dim);font-weight:500}
 
-/*@chunk sections*/
+/*@chunk shared*/
+
 /* secoes */
 section.s{padding:96px 0 24px;scroll-margin-top:64px}
 .eyebrow{display:inline-flex;align-items:center;gap:8px;font:600 12.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--c)}
@@ -164,13 +165,6 @@ h2{font-size:clamp(30px,4.4vw,52px);line-height:1.08;letter-spacing:-.04em;font-
 .spot::before{content:"";position:absolute;inset:0;border-radius:inherit;background:radial-gradient(400px circle at var(--mx) var(--my),rgba(139,125,255,.14),transparent 45%);opacity:0;transition:opacity .3s;pointer-events:none}
 .spot:hover::before{opacity:1}
 
-/* principios */
-.how{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-@media (max-width:860px){.how{grid-template-columns:1fr}}
-.how .card{padding:24px;display:grid;gap:12px;align-content:start}
-.how h3{margin:4px 0 0;font-size:18px;letter-spacing:-.02em}
-.how p{margin:0;color:var(--mut);font-size:15px}
-
 /* orgs */
 .orgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,200px),1fr));gap:10px}
 .org{display:flex;align-items:center;gap:12px;padding:12px 14px}
@@ -179,6 +173,21 @@ h2{font-size:clamp(30px,4.4vw,52px);line-height:1.08;letter-spacing:-.04em;font-
 .org small{font:500 12px var(--mono);color:var(--dim)}
 .org .n{margin-left:auto;font:700 15px var(--mono);background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
 .more{margin-top:18px}
+
+footer{padding:56px 0 40px;color:var(--dim);font-size:14px}
+.foot{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:24px}
+.foot nav{display:flex;gap:14px;flex-wrap:wrap}
+.foot a:hover{color:var(--ink)}
+.hint{font:500 12px var(--mono);color:var(--dim)}
+kbd{font:600 11px var(--mono);padding:2px 6px;border-radius:5px;border:1px solid var(--line2);background:rgba(255,255,255,.05);color:var(--mut)}
+
+/*@chunk sections*/
+/* principios */
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+@media (max-width:860px){.how{grid-template-columns:1fr}}
+.how .card{padding:24px;display:grid;gap:12px;align-content:start}
+.how h3{margin:4px 0 0;font-size:18px;letter-spacing:-.02em}
+.how p{margin:0;color:var(--mut);font-size:15px}
 
 /* destaques */
 .hl{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
@@ -220,13 +229,6 @@ h2{font-size:clamp(30px,4.4vw,52px);line-height:1.08;letter-spacing:-.04em;font-
 .contact h2{margin-top:6px}
 .contact .cta{justify-content:center}
 .contact .sub{margin:0 auto 28px}
-
-footer{padding:56px 0 40px;color:var(--dim);font-size:14px}
-.foot{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:24px}
-.foot nav{display:flex;gap:14px;flex-wrap:wrap}
-.foot a:hover{color:var(--ink)}
-.hint{font:500 12px var(--mono);color:var(--dim)}
-kbd{font:600 11px var(--mono);padding:2px 6px;border-radius:5px;border:1px solid var(--line2);background:rgba(255,255,255,.05);color:var(--mut)}
 
 /*@chunk contrib*/
 /* pagina de contribuicoes */
