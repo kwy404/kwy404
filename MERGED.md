@@ -1,6 +1,6 @@
 # All merged pull requests
 
-211 merged pull requests in 59 organizations and community projects, grouped by organization.
+214 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -192,11 +192,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [NervJS/taro](https://github.com/NervJS/taro)<br><sub>Cross platform framework for mini programs, H5 and React Native</sub> | [fix(runtime): handle css variables in Style removeProperty and getPropertyValue](https://github.com/NervJS/taro/pull/19509) |
 
-### <a href="https://github.com/didi"><img src="https://github.com/didi.png?size=80" width="20" height="20" align="top" alt=""></a> DiDi <sub>1</sub>
+### <a href="https://github.com/didi"><img src="https://github.com/didi.png?size=80" width="20" height="20" align="top" alt=""></a> DiDi <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [didi/dimina](https://github.com/didi/dimina)<br><sub>Cross platform mini program framework</sub> | [fix(common): keep question marks inside the route query in parsePath](https://github.com/didi/dimina/pull/354) |
+| | [fix(fe): convert rpx values without a leading zero](https://github.com/didi/dimina/pull/385) |
 
 ### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic <sub>1</sub>
 
@@ -447,11 +448,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: document the root route as "/" in the OpenAPI schema](https://github.com/cloudflare/chanfana/pull/373) |
 | | [fix: coerce array parameter items with the element type](https://github.com/cloudflare/chanfana/pull/382) |
 
-### <a href="https://github.com/reduxjs"><img src="https://github.com/reduxjs.png?size=80" width="20" height="20" align="top" alt=""></a> Redux <sub>1</sub>
+### <a href="https://github.com/reduxjs"><img src="https://github.com/reduxjs.png?size=80" width="20" height="20" align="top" alt=""></a> Redux <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)<br><sub>Official toolset for Redux development</sub> | [fix(codegen): do not double escape slashes in regex constants](https://github.com/reduxjs/redux-toolkit/pull/5460) |
+| | [fix(codegen): escape `*/` in descriptions written to generated comments](https://github.com/reduxjs/redux-toolkit/pull/5613) |
 
 ### <a href="https://github.com/sony"><img src="https://github.com/sony.png?size=80" width="20" height="20" align="top" alt=""></a> Sony <sub>1</sub>
 
@@ -486,13 +488,14 @@ Community project, started at Zalando, for PostgreSQL high availability.
 | [patroni/patroni](https://github.com/patroni/patroni)<br><sub>High availability for PostgreSQL</sub> | [Fix --generate-config for PostgreSQL older than 19](https://github.com/patroni/patroni/pull/3734) |
 | | [Read PATRONI_RESTAPI_THREAD_POOL_SIZE from the environment](https://github.com/patroni/patroni/pull/3775) |
 
-### <a href="https://github.com/lichess-bot-devs"><img src="https://github.com/lichess-bot-devs.png?size=80" width="20" height="20" align="top" alt=""></a> lichess-bot <sub>1</sub>
+### <a href="https://github.com/lichess-bot-devs"><img src="https://github.com/lichess-bot-devs.png?size=80" width="20" height="20" align="top" alt=""></a> lichess-bot <sub>2</sub>
 
 Community project, the official bridge for running chess engines as Lichess bots.
 
 | Repository | Pull request |
 | --- | --- |
 | [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot)<br><sub>Bridge between Lichess bots and chess engines</sub> | [Fix crash on empty matchmaking opponent_rating_difference](https://github.com/lichess-bot-devs/lichess-bot/pull/1253) |
+| | [Treat a stalemate as a draw in the game result](https://github.com/lichess-bot-devs/lichess-bot/pull/1271) |
 
 ### <a href="https://github.com/h3js"><img src="https://github.com/h3js.png?size=80" width="20" height="20" align="top" alt=""></a> h3 <sub>1</sub>
 
