@@ -63,7 +63,7 @@ LINES = [
     ("Core.Infra", "Vercel, Git, Windows Optimization"),
     ("- Contact ", None),
     ("Grid.GitHub", "@kwy404"),
-    ("Grid.Portfolio", "alexandrekohler.vercel.app"),
+    ("Grid.Portfolio", "kwy404.github.io/kwy404"),
     ("Grid.Instagram", "@n3ss3n.tl"),
     ("Grid.Mail", "thekaway404@gmail.com"),
 ]

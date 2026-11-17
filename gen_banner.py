@@ -205,7 +205,7 @@ def build(theme, logo_y_top=172, logo_y_bot=428):
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="16" fill="none" stroke="{t["border"]}"/>
 
 <g font-family="{SANS}">
-<text x="64" y="84" font-family="{MONO}" font-size="13.5" letter-spacing="2.2" fill="{t["label"]}">KWY404  ·  BRUSQUE, SC, BRAZIL  ·  UTC-3</text>
+<text x="64" y="84" font-family="{MONO}" font-size="13.5" letter-spacing="2.2" fill="{t["label"]}">KWY404.GITHUB.IO/KWY404  ·  BRUSQUE, SC, BRAZIL  ·  UTC-3</text>
 <text x="61" y="160" font-size="68" font-weight="700" letter-spacing="-2.2" fill="{t["text"]}">Alexandre Kohler</text>
 <text x="64" y="205" font-size="28" font-weight="500" letter-spacing="-.3" fill="{t["role"]}">Senior Full Stack Software Engineer</text>
 <text x="64" y="244" font-size="17" fill="{t["muted"]}">10+ years building backend systems, APIs and microservices</text>
