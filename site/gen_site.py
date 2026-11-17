@@ -465,7 +465,7 @@ def nav(lang, alts, on_home):
 
 def sprite():
     return '<svg class="ico-sprite" aria-hidden="true" focusable="false"><defs>%s</defs></svg>' % ''.join(
-        '<symbol id="i-%s" viewBox="0 0 24 24">%s</symbol>' % (n, ICONS[n]) for n in ['x', 'terminal'])
+        '<symbol id="i-%s" viewBox="0 0 24 24">%s</symbol>' % (n, ICONS[n]) for n in ['x', 'terminal', 'arrow-right'])
 
 
 def term_island(lang):
@@ -474,7 +474,7 @@ def term_island(lang):
             '<div class="term-h"><i></i><i></i><i></i><span>kwy404@portfolio: ~</span>'
             '<button type="button" @click="close()" aria-label="%s"><svg class="gi sm" aria-hidden="true"><use href="#i-x"></use></svg></button></div>'
             '<div class="term-o" id="term-out" aria-live="polite"><div v-for="l in lines" :class="l.c" v-text="l.s"></div></div>'
-            '<label class="term-i"><b>~ $</b><input id="term-in" type="text" v-model="cmd" @keydown="key($event)" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Command"></label>'
+            '<form class="term-i" @submit.prevent="run()"><b>~ $</b><input id="term-in" type="text" enterkeyhint="send" v-model="cmd" @keydown="key($event)" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="Command"><button type="submit" class="term-go" aria-label="Run"><svg class="gi sm" aria-hidden="true"><use href="#i-arrow-right"></use></svg></button></form>'
             '</div></div>') % esc(X(lang, 'close'))
 
 

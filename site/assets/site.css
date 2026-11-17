@@ -339,3 +339,40 @@ img.err{opacity:0}
 .lite .gt{animation:none}
 .lite .tile::after,.lite .spot::before{display:none}
 .lite .rv{transition-duration:.3s}
+/*@chunk core*/
+/* celular: nada passa da largura da tela (grades com minmax(0,1fr) e texto longo quebra) */
+html,body{overflow-x:clip;max-width:100%}
+@supports not (overflow:clip){html,body{overflow-x:hidden}}
+.hero-g{grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr)}
+@media (max-width:960px){.hero-g{grid-template-columns:minmax(0,1fr)}}
+.stats{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media (max-width:640px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.how{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media (max-width:860px){.how{grid-template-columns:minmax(0,1fr)}}
+.hl{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:860px){.hl{grid-template-columns:minmax(0,1fr)}}
+.hl .card{grid-template-columns:auto minmax(0,1fr)}
+.projs{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media (max-width:1000px){.projs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.projs{grid-template-columns:minmax(0,1fr)}.proj.big{grid-column:auto}}
+.pr{grid-template-columns:auto minmax(0,1fr) auto}
+.wrap,.card,.proj,.org,.pr,.hl .card,.stat,.contact,.foot,.og,.search{min-width:0}
+h1,h2,h3,p,.lead,.t,.rp,.repo,.tag,.proj p,.org b,.pill,.chip,.foot,.contact a,.term-o{overflow-wrap:anywhere}
+.art{max-width:min(560px,100%)}
+.art svg{max-width:100%}
+.nav-in{min-width:0}
+.brand{min-width:0}
+@media (max-width:380px){.brand span{display:none}.nav-r{gap:6px}.lang-b{padding:0 10px}}
+.cta .btn{max-width:100%}
+@media (max-width:480px){.cta{display:grid;grid-template-columns:minmax(0,1fr)}.cta .btn{width:100%}}
+.contact{padding:40px 18px}
+@media (min-width:641px){.contact{padding:56px 32px}}
+/* terminal no celular: preso no topo (o teclado nao cobre), ocupa a largura e rola por dentro */
+.term-o{word-break:normal;overflow-wrap:anywhere}
+.term-i input{font-size:16px}
+@media (max-width:640px){
+  .term{left:8px;right:8px;width:auto;transform:none;top:calc(68px + env(safe-area-inset-top));bottom:auto;max-height:min(70dvh,calc(var(--vvh,100dvh) - 90px));animation:none}
+  .term-o{font-size:12.5px;padding:10px 12px}
+}
+.term-go{appearance:none;border:0;background:rgba(255,255,255,.06);color:var(--ink);width:34px;height:34px;border-radius:9px;display:grid;place-items:center;cursor:pointer;flex:none}
+.term-go:active{transform:scale(.94)}

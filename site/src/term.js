@@ -15,8 +15,14 @@ export function termIsland(I) {
       if (e.key === 'Escape') return this.close()
       if (e.key === 'ArrowUp') { e.preventDefault(); if (this.hist.length) { this.hi = Math.min(this.hist.length - 1, this.hi + 1); this.cmd = this.hist[this.hist.length - 1 - this.hi] } return }
       if (e.key === 'ArrowDown') { e.preventDefault(); this.hi = Math.max(-1, this.hi - 1); this.cmd = this.hi < 0 ? '' : this.hist[this.hist.length - 1 - this.hi]; return }
-      if (e.key !== 'Enter') return
-      const raw = String(this.cmd || '').trim(); this.cmd = ''; this.hi = -1
+      if (e.key !== 'Enter' && e.keyCode !== 13) return
+      e.preventDefault()
+      this.run(e.target)
+    },
+    // Enter no teclado ou "Ir" do celular: le direto do campo (o teclado do celular as vezes ainda nao passou o texto para o estado)
+    run(el) {
+      const inp = el && el.value !== undefined ? el : document.getElementById('term-in')
+      const raw = String((inp && inp.value) || this.cmd || '').trim(); this.cmd = ''; if (inp) inp.value = ''; this.hi = -1
       if (!raw) return
       this.hist.push(raw); this.say('~ $ ' + raw, 'in')
       const [c, ...a] = raw.split(/\s+/), arg = a.join(' ')
