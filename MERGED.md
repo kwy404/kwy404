@@ -1,6 +1,6 @@
 # All merged pull requests
 
-214 merged pull requests in 59 organizations and community projects, grouped by organization.
+215 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -121,11 +121,12 @@ Back to the [profile](https://github.com/kwy404).
 | | [fix: keep diagnostics when a forbidden flow collection is not closed](https://github.com/redhat-developer/yaml-language-server/pull/1378) |
 | [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml)<br><sub>YAML support for Visual Studio Code</sub> | [Fix auto indentation after a key with an anchor](https://github.com/redhat-developer/vscode-yaml/pull/1289) |
 
-### <a href="https://github.com/carbon-design-system"><img src="https://github.com/IBM.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>1</sub>
+### <a href="https://github.com/carbon-design-system"><img src="https://github.com/IBM.png?size=80" width="20" height="20" align="top" alt=""></a> IBM <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon)<br><sub>IBM's Carbon design system</sub> | [fix(utilities/date-time-format): round future relative dates toward zero](https://github.com/carbon-design-system/carbon/pull/23568) |
+| | [fix(utilities/date-time-format): cap relative months at 12](https://github.com/carbon-design-system/carbon/pull/24059) |
 
 ### <a href="https://github.com/ossf"><img src="https://github.com/ossf.png?size=80" width="20" height="20" align="top" alt=""></a> OpenSSF <sub>2</sub>
 

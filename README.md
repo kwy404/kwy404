@@ -1,8 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/aba2ac00caa64e0be5592af49b71f836027979b7/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 214 merged pull requests in 59 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/aba2ac00caa64e0be5592af49b71f836027979b7/light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwy404/kwy404/61e242db53cbd28402c415d7ec202e9e40df86fa/dark.svg"><img alt="Alexandre Kohler, Senior Full Stack Software Engineer in Brusque, Brazil, with 215 merged pull requests in 59 organizations including Google, Microsoft, Meta, Apple, Amazon Web Services, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce, Shopify and GitHub" src="https://raw.githubusercontent.com/kwy404/kwy404/61e242db53cbd28402c415d7ec202e9e40df86fa/light.svg" width="100%"></picture>
 
 # Alexandre Kohler, Senior Full Stack Software Engineer
 
-Senior Full Stack Software Engineer with more than 10 years of experience building backend systems, APIs and microservices. I work with TypeScript, Node.js, NestJS, Fastify, Python, Go, Rust, PHP, Laravel, Java and Spring Boot on the back end, React and Vue on the front end, and PostgreSQL, Redis, Kafka, Docker and AWS for data and infrastructure. Based in Brusque, SC, Brazil (UTC-3) and available for remote work. Open source contributor with 214 merged pull requests in 59 organizations, including Google, Microsoft, Meta, Apple, Amazon, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce and Shopify.
+Senior Full Stack Software Engineer with more than 10 years of experience building backend systems, APIs and microservices. I work with TypeScript, Node.js, NestJS, Fastify, Python, Go, Rust, PHP, Laravel, Java and Spring Boot on the back end, React and Vue on the front end, and PostgreSQL, Redis, Kafka, Docker and AWS for data and infrastructure. Based in Brusque, SC, Brazil (UTC-3) and available for remote work. Open source contributor with 215 merged pull requests in 59 organizations, including Google, Microsoft, Meta, Apple, Amazon, Mozilla, NVIDIA, Netflix, Cloudflare, ByteDance, Uber, Valve, Adobe, Salesforce and Shopify.
 
 In open source I fix bugs in parsers, protocol handling, build tooling and web platform code. Every pull request starts from a failing test and explains the root cause.
 
@@ -10,7 +10,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 
 ## Open source contributions
 
-**214 merged pull requests in 59 organizations.** Every pull request, grouped by organization, is listed in [MERGED.md](https://github.com/kwy404/kwy404/blob/main/MERGED.md).
+**215 merged pull requests in 59 organizations.** Every pull request, grouped by organization, is listed in [MERGED.md](https://github.com/kwy404/kwy404/blob/main/MERGED.md).
 
 <div align="center">
 
@@ -33,7 +33,7 @@ In open source I fix bugs in parsers, protocol handling, build tooling and web p
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Agithub&type=pullrequests"><img src="https://github.com/github.png?size=80" width="40" height="40" alt="GitHub: 5 merged pull requests" title="GitHub: 5 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aintel&type=pullrequests"><img src="https://github.com/intel.png?size=80" width="40" height="40" alt="Intel: 1 merged pull request" title="Intel: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3ASamsung&type=pullrequests"><img src="https://github.com/Samsung.png?size=80" width="40" height="40" alt="Samsung: 2 merged pull requests" title="Samsung: 2 merged pull requests"></a>&nbsp;
-<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acarbon-design-system&type=pullrequests"><img src="https://github.com/IBM.png?size=80" width="40" height="40" alt="IBM: 1 merged pull request" title="IBM: 1 merged pull request"></a>&nbsp;
+<a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Acarbon-design-system&type=pullrequests"><img src="https://github.com/IBM.png?size=80" width="40" height="40" alt="IBM: 2 merged pull requests" title="IBM: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Alinkedin&type=pullrequests"><img src="https://github.com/linkedin.png?size=80" width="40" height="40" alt="LinkedIn: 2 merged pull requests" title="LinkedIn: 2 merged pull requests"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Adiscord&type=pullrequests"><img src="https://github.com/discord.png?size=80" width="40" height="40" alt="Discord: 1 merged pull request" title="Discord: 1 merged pull request"></a>&nbsp;
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Akwy404+org%3Aslackapi&type=pullrequests"><img src="https://github.com/slackapi.png?size=80" width="40" height="40" alt="Slack: 1 merged pull request" title="Slack: 1 merged pull request"></a>&nbsp;
