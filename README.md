@@ -6,7 +6,7 @@ Senior Full Stack Software Engineer with more than 10 years of experience buildi
 
 In open source I fix bugs in parsers, protocol handling, build tooling and web platform code. Every pull request starts from a failing test and explains the root cause.
 
-**Contact:** [thekaway404@gmail.com](mailto:thekaway404@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-silva-173687256/) · [Portfolio](https://alexandrekohlerportfolio.vercel.app) · [All merged pull requests](https://github.com/kwy404/kwy404/blob/main/MERGED.md)
+**Contact:** [thekaway404@gmail.com](mailto:thekaway404@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-silva-173687256/) · [Portfolio](https://kwy404.github.io/kwy404/) · [All merged pull requests](https://github.com/kwy404/kwy404/blob/main/MERGED.md)
 
 ## Open source contributions
 
@@ -139,4 +139,4 @@ Libraries, tools and apps I created and maintain, all MIT licensed, each with it
 
 Alexandre Kohler · Senior Full Stack Software Engineer · Brusque, SC, Brazil (UTC-3), available for remote work
 
-[thekaway404@gmail.com](mailto:thekaway404@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-silva-173687256/) · [Portfolio](https://alexandrekohlerportfolio.vercel.app)
+[thekaway404@gmail.com](mailto:thekaway404@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-silva-173687256/) · [Portfolio](https://kwy404.github.io/kwy404/)

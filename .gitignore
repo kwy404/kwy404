@@ -5,3 +5,4 @@ site/og/og.svg
 node_modules
 site/resume/fonts/
 site/og/fonts/
+site/.cache/

@@ -787,10 +787,29 @@ def monsoon(pages):
     tmp = os.path.join(d, 'monsoon.tmp.css')
     bunx = os.environ.get('BUNX', '/root/.bun/bin/bunx')
     ok = False
+    # Monsoon's purge keeps its whole component layer (.card, .btn, .hero, .stack, .toast...), whose names clash with
+    # this site's own classes. Feed it only the utilities part of the official stylesheet, so the output holds just
+    # the utility classes the pages use.
+    src = os.path.join(HERE, '.cache', 'monsoon-utilities.css')
     try:
-        r = subprocess.run(['timeout', '120', bunx, 'monsooncss@0.2.0', 'purge', '../docs/**/*.html', '-o', '../docs/assets/css/monsoon.tmp.css'],
+        full = None
+        for f in glob.glob('/root/.bun/install/cache/monsooncss@0.2.0*/dist/monsoon.css'):
+            full = open(f, encoding='utf-8').read()
+            break
+        if full is None:
+            import urllib.request
+            full = urllib.request.urlopen('https://cdn.jsdelivr.net/npm/monsooncss@0.2.0/dist/monsoon.css', timeout=60).read().decode('utf-8')
+        k = full.index('/* monsoon:utilities */')
+        os.makedirs(os.path.dirname(src), exist_ok=True)
+        open(src, 'w', encoding='utf-8').write(full[k:])
+    except Exception as e:  # noqa: BLE001
+        print('monsoon source not found:', e)
+        src = None
+    try:
+        r = subprocess.run(['timeout', '120', bunx, 'monsooncss@0.2.0', 'purge', '../docs/**/*.html', '-o', '../docs/assets/css/monsoon.tmp.css']
+                           + (['--css', src] if src else []),
                            cwd=HERE, capture_output=True, text=True)
-        ok = r.returncode == 0 and os.path.exists(tmp) and os.path.getsize(tmp) > 200
+        ok = r.returncode == 0 and os.path.exists(tmp) and os.path.getsize(tmp) > 40
         print('monsoon purge:', (r.stderr or r.stdout).strip().splitlines()[-1:] if (r.stderr or r.stdout) else r.returncode)
     except Exception as e:  # noqa: BLE001
         print('monsoon purge failed:', e)
