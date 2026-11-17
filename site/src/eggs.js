@@ -2,7 +2,7 @@
 export function eggs(I, BASE) {
   const E = I.eggs || {}
   const root = document.documentElement
-  const toast = (s, ms = 2600) => { const d = document.createElement('div'); d.className = 'toast'; d.setAttribute('role', 'status'); d.textContent = s; document.body.appendChild(d); setTimeout(() => d.remove(), ms) }
+  const toast = (s, ms = 2600) => { const d = document.createElement('div'); d.className = 'toast'; d.setAttribute('v-pre', ''); d.setAttribute('role', 'status'); d.textContent = s; document.body.appendChild(d); setTimeout(() => d.remove(), ms) }
   const typing = (e) => { const t = e.target; return t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable) }
 
   // 1. terminal: "/" ou "`"
@@ -57,7 +57,7 @@ export function eggs(I, BASE) {
     if (document.querySelector('.gitlog')) return
     let list = []
     try { list = await (await fetch(BASE + 'assets/prs.json', { cache: 'force-cache' })).json() } catch (e) { return }
-    const w = document.createElement('div'); w.className = 'gitlog'; w.setAttribute('role', 'dialog'); w.setAttribute('aria-label', 'git log')
+    const w = document.createElement('div'); w.className = 'gitlog'; w.setAttribute('v-pre', ''); w.setAttribute('role', 'dialog'); w.setAttribute('aria-label', 'git log')
     const inner = document.createElement('div')
     for (const p of list) { const a = document.createElement('div'); const hsh = document.createElement('span'); hsh.className = 'h'; hsh.textContent = 'merge ' + Math.random().toString(16).slice(2, 9) + ' '; a.appendChild(hsh); a.appendChild(document.createTextNode(p[0] + '  ' + p[1])); inner.appendChild(a) }
     w.appendChild(inner); document.body.appendChild(w)

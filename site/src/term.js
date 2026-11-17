@@ -50,7 +50,7 @@ export function termIsland(I) {
         case 'matrix': case 'melt': window.__melt && window.__melt(); return 'ok'
         case 'clear': this.lines = []; return null
         case 'exit': this.close(); return null
-        case 'ls': return 'contributions.html  projects/  stack.txt  secrets.txt'
+        case 'ls': return 'contributions/  projects/  stack.txt  secrets.txt'
         case 'cat': return arg.includes('secret') ? { c: 'ok', s: t.secret || 'Try the Konami code. ↑ ↑ ↓ ↓ ← → ← → B A' } : arg.includes('stack') ? (I.stackLines || []) : 'cat: ' + (arg || '') + ': No such file'
         default: return { c: 'er', s: `${c}: ${t.nf || 'command not found. Try help.'}` }
       }

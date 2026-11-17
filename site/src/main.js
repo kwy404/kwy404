@@ -4,6 +4,7 @@ import { searchIsland } from './search.js'
 
 const doc = document.documentElement
 doc.classList.remove('no-js')
+window.__kwy = 1
 const I = JSON.parse(document.getElementById('i18n')?.textContent || '{}')
 const BASE = doc.dataset.base || '/'
 const LANGS = ['en', 'pt', 'es', 'ja']
@@ -38,6 +39,12 @@ if (V && V.config) {
       try { await navigator.clipboard.writeText('thekaway404@gmail.com'); this.done = true; setTimeout(() => (this.done = false), 1800) } catch (e) { location.href = 'mailto:thekaway404@gmail.com' }
     },
   })
+}
+
+// ---------- imagens: esqueleto some quando carregam (ou quando falham)
+for (const im of document.querySelectorAll('img.sk')) {
+  const done = () => im.classList.remove('sk'), fail = () => { im.classList.remove('sk'); im.classList.add('err') }
+  if (im.complete) { im.naturalWidth ? done() : fail() } else { im.addEventListener('load', done, { once: true }); im.addEventListener('error', fail, { once: true }) }
 }
 
 // ---------- topo fica solido ao rolar
