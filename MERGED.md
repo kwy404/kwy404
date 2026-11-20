@@ -1,6 +1,6 @@
 # All merged pull requests
 
-215 merged pull requests in 59 organizations and community projects, grouped by organization.
+219 merged pull requests in 59 organizations and community projects, grouped by organization.
 
 Back to the [profile](https://github.com/kwy404).
 
@@ -200,11 +200,12 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | [didi/dimina](https://github.com/didi/dimina)<br><sub>Cross platform mini program framework</sub> | [fix(common): keep question marks inside the route query in parsePath](https://github.com/didi/dimina/pull/354) |
 | | [fix(fe): convert rpx values without a leading zero](https://github.com/didi/dimina/pull/385) |
 
-### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic <sub>1</sub>
+### <a href="https://github.com/Automattic"><img src="https://github.com/Automattic.png?size=80" width="20" height="20" align="top" alt=""></a> Automattic <sub>2</sub>
 
 | Repository | Pull request |
 | --- | --- |
 | [Automattic/mongoose](https://github.com/Automattic/mongoose)<br><sub>MongoDB object modeling for Node.js</sub> | [fix(query): cast case and then expressions in $expr $switch branches](https://github.com/Automattic/mongoose/pull/16534) |
+| | [fix(query): avoid casting $expr $in search value when it is an expression](https://github.com/Automattic/mongoose/pull/16709) |
 
 ### <a href="https://github.com/meta"><img src="https://github.com/meta.png?size=80" width="20" height="20" align="top" alt=""></a> Meta <sub>5</sub>
 
@@ -272,7 +273,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [Fix String.prototype.indexOf() returning a negative index for an empty search string](https://github.com/mozilla/rhino/pull/2569) |
 | | [Fix String.prototype.trimLeft and trimRight not aliasing trimStart and trimEnd](https://github.com/mozilla/rhino/pull/2575) |
 
-### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>7</sub>
+### <a href="https://github.com/uber"><img src="https://github.com/uber.png?size=80" width="20" height="20" align="top" alt=""></a> Uber <sub>8</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -283,6 +284,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix: don't return a cell twice from h3shape_to_cells_experimental for a LatLngMultiPoly](https://github.com/uber/h3-py/pull/512) |
 | [uber/h3-js](https://github.com/uber/h3-js)<br><sub>JavaScript version of the H3 geospatial index</sub> | [Reject H3 index strings that overflow 64 bits](https://github.com/uber/h3-js/pull/238) |
 | | [Guard cellToChildren and uncompactCells output allocations](https://github.com/uber/h3-js/pull/239) |
+| | [Sign extend negative child positions in childPosToCell](https://github.com/uber/h3-js/pull/245) |
 
 ### <a href="https://github.com/tailwindlabs"><img src="https://github.com/tailwindlabs.png?size=80" width="20" height="20" align="top" alt=""></a> Tailwind Labs <sub>2</sub>
 
@@ -355,7 +357,7 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | --- | --- |
 | [trpc/trpc](https://github.com/trpc/trpc)<br><sub>End to end typesafe APIs for TypeScript</sub> | [fix(server): match content-type header case-insensitively](https://github.com/trpc/trpc/pull/7614) |
 
-### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>8</sub>
+### <a href="https://github.com/apple"><img src="https://github.com/apple.png?size=80" width="20" height="20" align="top" alt=""></a> Apple <sub>10</sub>
 
 | Repository | Pull request |
 | --- | --- |
@@ -364,6 +366,8 @@ The two Spectrum fixes were carried into maintainer pull requests so CI could ru
 | | [fix(utils): detect WebP images from magic bytes](https://github.com/apple/embedding-atlas/pull/269) |
 | | [fix(cache): overwrite existing cache files on Windows](https://github.com/apple/embedding-atlas/pull/273) |
 | | [fix(widget): support format="predicate" in selection()](https://github.com/apple/embedding-atlas/pull/288) |
+| | [fix(backend): detect the file format of URLs with a query string](https://github.com/apple/embedding-atlas/pull/289) |
+| | [fix(viewer): treat DECIMAL columns as quantitative in field stats](https://github.com/apple/embedding-atlas/pull/290) |
 | [apple/pkl](https://github.com/apple/pkl)<br><sub>Configuration as code language with rich validation</sub> | [Fix `String.endsWith` for overlapping regex matches](https://github.com/apple/pkl/pull/1880) |
 | | [Fix lookaround regexes in `String.lastIndexOf` and `replaceLast`](https://github.com/apple/pkl/pull/1908) |
 | [apple/swift-collections](https://github.com/apple/swift-collections)<br><sub>Commonly used data structures for Swift</sub> | [\[BitCollections\] Fix BitSet.Counted.isEqualSet(to:) rejecting sequences with duplicates](https://github.com/apple/swift-collections/pull/749) |
